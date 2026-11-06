@@ -66,9 +66,9 @@ She looked at me for a long moment. "I believe you," she said. "But you've told 
 
 "No, ma'am."
 
-"No." She folded her hands. "Thank you. For my husband."
+"I see." She folded her hands. "Thank you. For my husband."
 
-"I have one request. Please don't tell Hannah about Danny and me. She'd ask questions I can't answer yet."
+"I have one request. Please don't tell your daughter about Danny and me. She'd most likely ask questions I can't answer."
 
 Tom agreed at once. Ruth waited a second longer, then said, "Not yet, then." She was giving me time, not a promise.
 
@@ -86,41 +86,25 @@ I walked them to the stairs.
 
 ---
 
-## *Act I, 1st Movement · A2 · Gunnery Sergeant Dominic Vance*
+## *Act I, 1st Movement · A2 · Gunnery Sergeant Dominic 'Gunny' Vance*
 
 ### *The green book, 2051 to 2059*
 
 **Summer 2051.** The hospice room had one window and one door. Vance had lain in it for weeks, learning every sound the corridor made. On a Monday a young man opened the door and asked what he could teach. Vance said he had nothing to pay with but what was in his head, and the young man said that was what he wanted.
 
-When Vance woke from the pod, he could breathe to the bottom of his chest. His first order was to send for Ashby, a radio technician he had found after the trenches, because someone had to hold the radio. He bought a green notebook at the hospital gift shop that afternoon, with the first cash he had carried in a year, and began to write down every site and every threat to it.
+When Vance woke from the pod, not only could breathe to the bottom of his chest, his body felt like it has never had in decades. Years of battlefield injuries and cellular decay vanished. He stepped onto the floor without the usual stiffness, his muscles coiled with an effortless strength he hadn't felt since his twenties.
 
-**Winter 2051 to spring 2052.** He brought in the first squad of fighters that winter. In the spring, a few months before Byron Pyrrus signed, he added a second squad and some people from the intelligence services. They read court records to find out who might buy.
+His first order was to send for Ashby, a radio technician he had found after the trenches, because someone had to hold the radio. He bought a green notebook at the hospital gift shop that afternoon, with the first cash he had carried in a year, and began to write down every site and every threat to it.
+
+**Winter 2051 to spring 2052.** He brought in the first squad of fighters that winter. In the spring, a few months before Byron Pyrrus signed, he added a second squad.
+
+He also managed to find some people from the intelligence services. Kenji had them find out who might be willing to buy Janus' services.
 
 **November 2052.** His rule was that someone must always watch the road beyond the fence. A wall only helps if you see what is coming up to it. A recruit named Danny Shepard read a building by where it carried its weight, so Vance posted him to Galveston as site engineer and guard lead for the hidden wing. He never had to tell Danny twice to walk a floor before standing on it. Vance liked him at once.
 
-**Summer 2053.** Three clinics opened: Galveston first, then Marseille, then Singapore. Kenji put Level 3 droids on every pod in the hidden wings, day and night, and ordered that no pod move without his knowing. He told Vance that a pod taken by force would destroy its own core. The platoon was full by autumn. In 2054 Vance moved Danny to Houston, when Tom Shepard took over the Galveston building.
+**Summer 2053.** Three clinics opened: Galveston first, then Marseille, then Singapore. Kenji assigned security droids to guard every pod in the hidden wings, day and night, and made it so that no pod moved without his knowing. He also told Vance that a pod taken by force would destroy its own core. The platoon was full by autumn. In 2054 Vance moved Danny to Houston, when Tom Shepard took over the Galveston building.
 
-**April 2055.** The first rich buyers came through the senator's friends and entered by the back door. Nobody had to show them a threat. The guards stood in the room, and the buyers understood.
-
-That same spring, the two machines Kenji had built himself were finished. They looked and moved like men, and they did not tire. Vance stopped walking behind Kenji. For a month he felt the empty space at his back.
-
-**November 2055.** A client's doctor asked a network nurse how the treatment worked and offered her money to tell him. She reported it that day. The doctor left the country within the week, and no one learned who his buyer was. Vance wrote it down and marked it as the first time anyone outside had asked.
-
-**January 2058.** Oyama's pods went on sale to the public under Oyama's own name. A law firm acting for a buyer no one could name offered to buy all of Oyama's patents. Anthony Strauss, who ran Oyama and had once been Byron Pyrrus, said no and telephoned Kenji within the hour. Vance read the offer twice. It came from a law office he could not search.
-
-**April 2058.** A second offer arrived, with a forged safety audit behind it that claimed Oyama's plants were unsafe. Oyama refused again. Vance had the plants walked one by one and found nothing wrong. That was the worst part. A fence could not stop a forged audit.
-
-**October 2058.** A third offer. Marchetti sat across a conference table from the buyer's lawyer, who told her that people who refuse a third time meet "Cerberus." She said nothing at the table.
-
-That night she drove to the warehouse and told Vance the word, and that it had been spoken as a threat. He wrote it in the green book. He did not yet know whether it was the name of a man, a company, or a gang.
-
-**November 2058.** Three men came over the Galveston wall at night. The droids stopped them in the corridor before they reached the hidden wing. Vance sat with them in the cellar until dawn. None of them said a word to him, not even their names. He had not expected them to.
-
-**Spring 2059.** Vance was in Duluth that night when the call came. A delivery van that should have come to Galveston never arrived, and a different van took its place. The gate guard had been bought. Danny Shepard had been on overwatch in the car park, outside Hannah's roster. The camera showed him seeing the van riding low and running at it.
-
-He got the driver's door open before it went up, short of the east wing. If it had gone off at the building, no one on the lawn would have walked out.
-
-Vance took a slow breath through his nose and let his shoulders drop. Then he opened a clean page in the green book. He wrote at the top, *Who leads Cerberus.* Under it he drew a line and left the rest of the page empty. He had a name and no face, and no idea yet where to look.
+That same summer, the two machines Kenji had built himself were finished. They looked and moved like men, and they did not tire. Vance stopped walking behind Kenji. For a month he felt the empty space at his back.
 
 ---
 
@@ -128,11 +112,11 @@ Vance took a slow breath through his nose and let his shoulders drop. Then he op
 
 ### *Galveston, 2054 and 2056*
 
-**November 2054.** The man across the table finished everything on his plate, down to the parsley. Hannah watched him do it. Nobody ate like that unless they had once gone without. Her mother had set his place beside her father's, and he sat with his back to the wall and his eyes on the kitchen door.
+**November 2054.** Hannah watched the man across the table finish everything on his plate, down to the parsley. Nobody ate like that unless they had once gone without. Her mother had set his place beside her father's, and he sat with his back to the wall and his eyes on the kitchen door.
 
 A fifth place was laid at the end of the table, the plate turned upside down, a napkin folded beside it. Her brother Danny worked in Houston for a security contractor, doing gates and fences, and he was hardly ever home. Her mother set his place every Sunday anyway. The new man looked at the empty chair half a second longer than a stranger would. He did not ask whose it was.
 
-Through the front window she could see a gray sedan at the curb with two men in it. They had been there since five. Her mother had gone out twice to ask them in, and neither had come. This was the first time Hannah had sat across from the man her father worked for. She had refused his clinic's offer of training the year before, and she had been polite and cold to it ever since.
+Through the front window she could see a gray sedan at the curb with two men in it. They had been there since five. Her mother had gone out twice to ask them in, and neither had come. This was the first time Hannah had sat across from the man her father worked for. She had refused his clinic's offer of training the year before, and she had been polite but cold to it ever since.
 
 "He fixed the east pump with a valve seat he made himself," her father said, to no one in particular. "I said show me, and he did."
 
@@ -152,7 +136,7 @@ Through the front window she could see a gray sedan at the curb with two men in 
 
 Her father picked up the gravy boat and put it down again. "He pays on time," he said.
 
-When the plates were empty, the man stacked them and took them to the counter without being asked. He squared the pile before he sat down. Hannah went up to bed not liking him. She had not caught him in a lie, and that bothered her more than a lie would have.
+When the plates were empty, the man stacked them and took them to the counter without being asked. He squared the pile before he sat down. Hannah went up to bed. She did not like him. She had not caught him in a lie, but that bothered her more than a lie would have.
 
 **March 2056.** She had left the Navy in February, and her father had talked her into the security post. Three weeks in, she walked the building with Kenji on a Thursday, her father's tape measure in her jacket pocket. She had measured every door herself. She trusted her own numbers more than anyone's floor plans.
 
@@ -184,61 +168,71 @@ She looked at him until she saw it was true and that he would say nothing more. 
 
 She asked whether she could retrain the door crew her own way, and he said yes without a pause. By Friday it was done. That evening she took a sheet of paper from the drawer, folded it in thirds, and wrote the date at the head of the first line. *Why does he stand at the edge of every room?* She had decided not to ask him.
 
-**June 2056.** The hospital chain's men came on a Tuesday morning with a letter on good paper and a tool bag. The letter said inspection. The bag said something else.
+**June 2056.** The front desk log for May ran to eleven pages. Hannah read it standing at the desk, the way she read every month’s.
 
-Her father was in the back corridor, under the pipe above the east wing door, working a valve that had dripped since April. Two men she had not hired stood by the wing door and would not look at her. At the far end, Kenji had one hand on the door frame and was doing nothing. His two quiet men stood beside him. She took it for fear.
+Two hospital chains had asked for inspections, a pharmacists’ guild had filed a complaint, and an insurance board wanted patient records. A European health ministry had asked to visit. Reporters from four countries had phoned to ask who owned the clinic. Marseille and Singapore were getting the same letters, and the clerk had pinned a note on the board saying so. Every request had been answered with a form letter, and none of them had come back.
 
-Hannah stepped between the strangers and the door.
+She took the log down the back corridor. Her father was under the pipe above the east wing door, working a valve that had dripped since April. Kenji stood at the far end with one hand on the door frame, and his two quiet men stood beside him.
 
-"You're leaving," she said. "Now."
+“Walk me through this,” she said, holding up the log. “Three years ago a machine that cures cancer opened in a Galveston strip lot. By now every government should have a soldier at the gate, and every drug company should have a lawyer in the lobby. I have two on the east wing door, and in three months I haven’t had to use either.”
 
-The nearer man opened the bag.
+“Every country that has a clinic has a license,” Kenji said. “Each one was negotiated before the doors opened, and the terms are in the license. Governments that don’t have one yet are in talks about it. Several of those are running now.”
 
-A steel pipe, taped at one end.
+“Who sits at those talks?”
 
-Her fist closed on the tape measure in her pocket.
+“I can’t answer that.”
 
-"Darling," her father said, very softly. His hand went to his back pocket.
+“The machine on the public floor has a plate that says Oyama. Nobody has asked Oyama how it works?”
 
-At the far end, Kenji had not moved.
+“Many have asked. The design belongs to a foundation. A license lets a country run the pod, and it does not give the country the design. Every government that asked was told the same thing.”
 
-The pipe came up.
+“And they accepted that.”
 
-Behind her, servos shrieked.
+“They signed it.”
 
-A hand closed around the hand that held the pipe. Gray metal.
+Her father had stopped turning the wrench. He did not look round. “A man doesn’t sign that kind of paper because he’s polite,” he said. “Somebody showed him what he’d lose if he didn’t.”
 
-The pipe dropped. A second metal hand caught it before it hit the floor.
+“Or what he’d gain,” Kenji said. “A government that closes a clinic gets an empty building. The line outside it moves to the next country. Most ministers can count that.”
 
-The other man lunged. Joints clanged. He hit the tile face first, and a knee settled between his shoulder blades.
+Hannah turned a page of the log. “Oyama is going to put robot arms and exoskeletons on the market next year. I read the trade notice. Dock crews will lose jobs, and the unions will want to know why. Where are the talks for that?”
 
-Cable ties snicked. One. Two.
+“Those started this spring, in the same countries. The terms are different, and I can’t tell you what they are.”
 
-Two gray shapes stood over the men.
+“Can’t, or won’t?”
 
-Robots.
+“I can’t answer that.”
+
+She looked at the log, and at the long run of form letters that had stopped at the desk. Nobody had come through the door in three years, and nobody had explained why not. There was a question under that, and she could feel what it was. She did not ask it.
+
+“I’ll keep two on the door,” she said.
+
+“Thank you.”
+
+Kenji squared the cuff of his sleeve and walked toward the monitor room. His two quiet men followed a pace behind. Her father went back to the valve.
+
+That evening she took a sheet of paper from the drawer, folded in thirds. She wrote under the first line. *Who does he sit across from, and what did he show them?*
 
 ---
 
 ## *Act I, 1st Movement · A2 · Kenji Himura (37)*
 
-### *Galveston, April 2057*
+#### *Galveston, April 2057*
 
-Hannah measured the lid of the cooler with her father's tape before she would sign for it. The cooler had no maker's plate, no serial number, and no stamp on the hinges, so she wrote its length on the custody sheet in pencil. I watched from the monitor-room door with the wall at my back and the clock in plain view. It was twenty past nine. The surgeon on the other side of the front desk had not taken her eyes off that clock since she walked in.
+Hannah measured the lid of the cooler with her father’s tape before she would sign for it. The cooler had no maker’s plate, no serial number, and no stamp on the hinges, so she wrote its length on the custody sheet in pencil. I watched from the monitor-room door with the wall at my back and the clock in plain view. It was twenty past nine. The surgeon on the other side of the front desk had not taken her eyes off that clock since she walked in.
 
 Dr. Nadia Okonkwo had driven forty minutes from the county hospital. Her patient was the last name on the county kidney list, and at midnight the registry would move him off it unless a surgeon logged an operation that day. His new kidney had been growing in our east wing from his own cells, and it had come out of the tank at nine. Two years ago her waiting list had run to two pages. The clinics had been emptying it one patient at a time.
 
-"Walk me through where it's been," Hannah said. "There's a donor line on this sheet. I don't mind a strange answer. I mind a blank."
+“Walk me through where it’s been,” Hannah said. “There’s a donor line on this sheet. I don’t mind a strange answer. I mind a blank.”
 
-"Ms. Shepard, I have a forty-minute drive and less than three hours," Okonkwo said.
+“Ms. Shepard, I have a forty-minute drive and less than three hours,” Okonkwo said.
 
-"Then it takes forty minutes. I'm not signing a sheet with a hole in it."
+“Then it takes forty minutes. I’m not signing a sheet with a hole in it.”
 
-"There is no donor," I said. "It was grown from his own cells, in this building, and it hasn't left that cooler since nine. You can write that."
+“There is no donor,” I said. “It was grown from his own cells, in this building, and it hasn’t left that cooler since nine. You can write that.”
 
 Hannah held the pencil still. Then she wrote *none*. She did not ask anything else, though the next question was plain on her face. I was relieved, and I disliked that I was.
 
-Okonkwo lifted the tag off the handle and read it. It carried the clinic's licensed name, a batch number, and a state approval stamp. The line for the maker was empty. The stamp was real. Senator Whitcombe had spent four years making sure the clinics' organ license would survive any inspection, and I had never asked her how. Okonkwo slid the tag into her coat pocket and said nothing.
+Okonkwo lifted the tag off the handle and read it. It carried the clinic’s licensed name, a batch number, and a state approval stamp. The line for the maker was empty. The stamp was real. Senator Whitcombe had spent four years making sure the clinics’ organ license would survive any inspection, and I had never asked her how. Okonkwo slid the tag into her coat pocket and said nothing.
 
 Hannah signed at nine forty-one, and the cooler was out the door with hours to spare.
 
@@ -246,29 +240,27 @@ Hannah signed at nine forty-one, and the cooler was out the door with hours to s
 
 I ate all of it, down to the last corner of toast. When the plate was clean, she was watching me with her chin on her fist.
 
-"You finish everything," she said. "I saw it at my mother's table the first night. Nobody does that unless they've gone without."
+“You finish everything,” she said. “I saw it at my mother’s table the first night. Nobody does that unless they’ve gone without.”
 
-"I didn't always have enough."
+“I didn’t always have enough.”
 
-She nodded once and let it be. Then she said, "Last June. The men with the pipe. You stood at the far end of the corridor with your hand on the door frame. I took it for fear. Walk me through it."
+She nodded once and let it be. Then she said, “In March of last year I asked you about the gray frames in the back corridor. You told me you couldn’t explain them to me yet. Tonight you told me where a kidney came from without my asking twice. Is the answer about the frames ready too?”
 
-"The two gray frames in the back corridor are droids," I said. "They're the clinic's guards. They moved the moment the pipe came up, because that's what they're for. I stood still so I wouldn't be in their way." I took a breath. "I should have told you a year ago, when you asked me to my face. You run this building's security, and I let your father call them equipment."
+“Part of it.” I squared my fork against the edge of the table. “They’re droids. They’re the clinic’s guards, and they stand along that wall every night. I should have told you when you asked me to your face. You run this building’s security, and I let your father call them equipment.”
 
-"Where did they come from?"
+“Where did they come from?”
 
-"I can't answer that. I'm sorry."
+“I can’t answer that. I’m sorry.”
 
-She went quiet and turned her empty plate a quarter turn on the steel.
+She turned her empty plate a quarter turn on the steel. “So I’ve spent a year building the door crew around what I could see.”
 
-"I thought you were afraid."
+“Yes. The droids were the part you couldn’t see, and you planned around the gap without knowing it was there. That’s my fault, not yours.”
 
-"I wasn't afraid of the men. I was watching to see that you were clear of them, and you weren't, because you'd walked toward them." I squared my fork against the edge of the table. "If I'd told you the rest, you'd have known you didn't need to."
+She was quiet for a while. “I’ll tell you something back, so it’s even. I took this job because my father asked. That’s what I told everyone. The real reason was you. I wanted to know what you were hiding, and tonight you told me something true about this building without my asking twice. So I’m staying.”
 
-She was quiet for a while. Then she turned her empty plate a quarter turn on the steel. "I'll tell you something back, so it's even. I took this job because my father asked. That's what I told everyone. The real reason was you. I wanted to know what you were hiding, and tonight you told me something true about this building without my asking twice. So I'm staying."
+I had thought she took the job for her father’s sake. She had taken it to look at me, and she had been looking ever since.
 
-I had thought she took the job for her father's sake. She had taken it to look at me, and she had been looking ever since.
-
-"Is there any more coffee?" she said.
+“Is there any more coffee?” she said.
 
 I got up and found the pot.
 
@@ -280,7 +272,7 @@ I got up and found the pot.
 
 The weight line on the manifest was blank, and the rest of the page was in Kenji's square capitals. Hannah had been reading blank lines on his paper for two years. This one she had stopped finding strange. Kenji's orders left it empty on every pod manifest, and whoever signed had to weigh the crate and write the number in.
 
-The crate on the quay was the first load of Oyama's Level 1 pods for the distributor. Sale to the public was set for January. Rafa Ibarra, the rigger, stood beside it in his company's exoskeleton, a steel frame that took the weight of a man and whatever he carried. Beyond him an Oyama robot arm, run from a panel by a man in a booth, tied down the next load.
+The crate on the quay was a load of Oyama's Level 1 pods for the distributor. Rafa Ibarra, the rigger, stood beside it in the company's exoskeleton, a steel frame that took the weight of a man and whatever he carried. Beyond him an Oyama robot arm, run from a panel by a man in a booth, tied down the next load.
 
 "Mira eso," Rafa said, tipping his head at it. Look at that. "Forty minutes, what my crew of eight did in a day. The crew's down to three. I'm one of the three, so I'm not complaining."
 
