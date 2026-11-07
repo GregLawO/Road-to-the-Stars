@@ -23,8 +23,29 @@ Items marked **(decision)** are invented gap-fills.
 - **Prior relationships.** Owes Vance, who found him after the trenches, Kenji for the treatment that fixed his knee and lungs, and the squad.
 
 ## 4. Story Role & Stakes
-- **Function.** Author-built locked character; first POV A2.14 (2063). Recruited autumn 2051, a few months after Vance, as Kenji's radio and communications man; one more network engineer joins him autumn 2052 (decision). Serves for life. Conditioned from the start of his service. He and Vance guard Kenji, including when Kenji recruits the lawyers (October 2051), until the two Level 5 guards are finished in 2055. Does not know who is behind the network or why.
+- **Function.** Author-built locked character; no POV in the current A2 outline. Recruited autumn 2051, a few months after Vance, as Kenji's radio and communications man; one more network engineer joins him autumn 2052 (decision). Serves for life. Conditioned from the start of his service. He and Vance guard Kenji, including when Kenji recruits the lawyers (October 2051), until the two Level 5 guards are finished in summer 2053. Does not know who is behind the network or why.
 - **External conflict.** A drive that gives him nothing to hear.
 - **Stakes.** A machine he approved failing and killing people.
 - **Arc.** He reports every fault in writing at once, even when no one wants to know, and says "all right" and keeps listening when told not to worry. He teaches others to listen and reads the squad's names aloud on the day they died.
 - **Rules for the text.** No nerd-only or damaged-veteran-only scenes, no long technical explanation of the drive, no jokes about the dead squad.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Midwestern polite: "Oh yeah," "Huh," "You bet," "Sorry, hang on." "All right" when he takes an order.
+- Sound and trade words, never explained at length. One Polish word from his grandmother, rare, as an oath or an endearment.
+- Deadpan humor about machines, none about the squad.
+- Samples: "Sorry, hang on. Hear that? ... No, okay. Give me a minute before anyone goes in." / "Don't know yet. I'll have it by tonight, and I'll write it up either way."
+
+**2. Sentence Rhythm & Punctuation.**
+- He stops mid-sentence to listen, and the sentence may stay unfinished. He repeats a number back as a question: "Four-one-seven? You said four-one-seven?"
+- Observation first, explanation if asked. He says "I don't know yet" rather than guess.
+- Reply length: two or three short sentences. A one-line number check is about one in five, never more than two in a row.
+
+**3. Nervous Habits & Tells.**
+- Told not to worry, he says "All right" and keeps listening.
+- Angry, he gets quieter and more formal. Cornered, he restates the fact he heard. Asked about the squad, he gives a name and a date.
+
+**4. Dialogue Traps (What to Avoid).**
+- Never "it's fine," "don't worry," or "trust me" about anything he has not heard.
+- No information dumps, no sound metaphors, no "I froze," no jokes about the squad.

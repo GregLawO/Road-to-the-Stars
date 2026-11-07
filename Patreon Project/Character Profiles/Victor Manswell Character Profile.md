@@ -28,3 +28,24 @@ First POV is A3.9 (2068). Items marked **(decision)** are invented gap-fills. He
 - **Stakes.** The settlers; his company; his father's legacy. Finding the guard ships he was refused were never meant to protect them would break him.
 - **Arc.** When offered money he asks who and what it costs, then says yes if he has no choice; when challenged in public he stays friendly and answers with a specific number or offer.
 - **Rules for the text.** No fool-only or villain-only scenes, no simple gratitude to a rescuer, no sudden bravery not built up earlier. He knows only what he has seen, read, or been told.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- South-coast English under boardroom polish. "Right, so," "Look, friend," "Tell you what," "call it," "give or take." When excited: "mate," "proper." A rare French or Portuguese phrase.
+- He rounds in his favor: "It's a bit tight, yeah. Not tight tight." Self-deprecating humor about money.
+- Samples: "The number's six percent — call it seven, I'll confirm it Monday." / "Course you can, friend. It's on the ring somewhere, give me a second, or it's with the spare set, I'd have to check." / "Tell you what, I'll walk you over myself and we'll sort it on the way."
+
+**2. Sentence Rhythm & Punctuation.**
+- Long and flowing, three clauses, ending on a number or an offer. A dash for interrupting himself is his alone. He asks "Fair enough?" without waiting for an answer.
+- Excited, he talks faster and the vowels go back to the docks.
+- Reply length: three sentences or more as a rule. He goes short only when a lender is being polite ("Of course. Understood.").
+
+**3. Nervous Habits & Tells.**
+- Challenged in public, he gets friendlier and more specific.
+- Told no, he answers with a higher offer. A lender speaking very politely makes him short, the "friend" disappears, and the watch goes face down.
+- He says only true things and leaves out the hard part.
+
+**4. Dialogue Traps (What to Avoid).**
+- No "trust me," no plain "thank you, you saved me," no sudden brave speech, no admitting the debt in plain words.
+- No "I'm a simple sailor."

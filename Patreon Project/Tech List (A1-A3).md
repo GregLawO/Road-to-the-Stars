@@ -22,7 +22,7 @@ He pairs robotics with Dumb AI to build and man his secret bases on Earth and ar
 
 | Technology | Level allowed | Description |
 | --- | --- | --- |
-| Anti-Gravity | Primitive | Lifts heavy loads over short ranges at high power cost. |
+| Anti-Gravity | Primitive | Lifts heavy loads over short ranges at high power cost. Oyama's Level 1 sled lifts two tons for twenty minutes, then must rest (A2.13). |
 | Warp | Primitive before the Imperium | 1 ly/day. |
 | Med-Pod | Primitive | Cures disease and mends injury; does not rejuvenate or extend life. Oyama Industries builds it, not Kenji (author ruling, 3 November 2026). |
 | Lasgun and Bolter | Primitive | Reliable but low quality. |
@@ -30,11 +30,12 @@ He pairs robotics with Dumb AI to build and man his secret bases on Earth and ar
 | Energy Generation | Functional tokamak fusion reactor | The Palladium Arc Reactor stays private. |
 | Resource Collection and Assembly | Full | |
 | Data Crystal | Full | |
+| Gravitic Drive | Private | Lifts and moves a hull. The Level 1 anti-gravity sleds are its small version. First built into the 50 m shuttle (finished December 2057) and the starship keel at the Gulf yard (A2.12). |
 | Cloning | Level Two | |
 | Dumb AI | Level Two | |
 | Robotics | Level Three | Oyama sells Level 1 to Level 3 robots (author ruling, 3 November 2026). |
 | Gundarium | Alpha | |
-| Mobile Infantry Powered Suit | Level One | An unpowered exoskeleton. Oyama builds it. His own fighters wear it too (the Level 2 suit needs a mini-reactor; date open). |
+| Mobile Infantry Powered Suit | Level One | An unpowered exoskeleton. Oyama builds it. It lifts 2.5 times a normal person's capacity and cannot lift a container (A2.10). His own fighters wear it too (the Level 2 suit needs a mini-reactor; date open). |
 | Knowledge Upload | Private | Never allowed to spread. |
 | Primaris Project | Private | Never allowed to spread. |
 | CMC Powered Armor | Private | |
@@ -74,7 +75,8 @@ He pairs robotics with Dumb AI to build and man his secret bases on Earth and ar
 | 4 | Specialized engineering and combat robots. |
 | 5 | Advanced humanoid robots. |
 
-- **Oyama and the security droids (author ruling, 3 November 2026).** Oyama sells Level 1 to Level 3 robots (decision on dates: Level 1 from 2057, Levels 2 and 3 from 2066). The organization's security droids guard only its private sites. They are Level 2 at first, built by Oyama from a design Kenji hands over for internal use, with Kenji's data crystals and Level 2 Dumb AI. Two Level 5 droids, which Kenji builds himself with Oyama money between 2052 and 2055, are with him at all times. They look and move like men, so people take them for human.
+- **Oyama and the security droids (author ruling, 3 November 2026).** Oyama sells Level 1 to Level 3 robots (decision on dates: Level 1 from 2057, Levels 2 and 3 from 2066). The organization's security droids guard only its private sites. They are Level 2 at first, built by Oyama from a design Kenji hands over for internal use, with Kenji's data crystals and Level 2 Dumb AI. Two Level 5 droids, which Kenji builds himself with Oyama money between October 2052 and summer 2053, are with him at all times. They are told to act low-key in public. They look and move like men, so people take them for human.
+- Oyama's Level 1 robot arms are on the Galveston quay by September 2057: one ties down containers in forty minutes, work that took a crew of eight a day (A2.13).
 
 ### Gundarium tiers
 | Tier | Description |

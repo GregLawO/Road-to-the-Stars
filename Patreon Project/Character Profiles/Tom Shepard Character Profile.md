@@ -28,3 +28,23 @@ Items marked **(decision)** are invented gap-fills.
 - **Stakes.** Hannah and Ruth; a clinic closing and people untreated.
 - **Character arc.** He takes the physical job nearest someone he loves in danger; watches the hands of someone who hides something and says nothing until sure; takes unsafe things apart on paper first. On the night of the 2059 bomb he wanted to stay and shut the oxygen line, and Hannah ordered him out. **(decision)**
 - **Rules for the text.** No comic-relief-only or wise-old-man-only scenes; he does not work out the secrets himself; no long speeches. He knows only what he has seen and been told.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Trade nouns: pipe, cable, valve, weld, crew, pump, shift. He makes a point by telling something that happened, never with a saying.
+- Starts lines with "Now," "Well," and "Hand me that." Calls Hannah "Darling," Kenji "son" in private, and Ruth "Ruthie" when he wants out of an argument. Working Spanish. When angry he swears in two languages: on the page, "he swore," and never near a child.
+- Samples: "Now. That pipe's been dripping since the cold snap, so mind your boots. You got a work order for the room?" / "Darling, hand me the small wrench." / "I ain't asking what it is. I'm asking who fixes it when it breaks."
+
+**2. Sentence Rhythm & Punctuation.**
+- Loose and a little rambling. He comes at the point sideways and confirms with "Yeah." or "Mm." He interrupts himself over an object ("That's the old gate valve. No. They swapped it in March, so that's the new one.").
+- Reply length: two to four sentences, with the point in the second. A one-line reply is about one in five. His few questions are about machines.
+
+**3. Nervous Habits & Tells.**
+- Keeping something for Kenji, he changes the subject mid-sentence to a repair.
+- Angry, he gets slower and quieter and very specific about what failed. When it is bad, he grips the tool and answers in a few words.
+
+**4. Dialogue Traps (What to Avoid).**
+- No proverbs or sayings, no "back in my day," no "I'm just an old man."
+- No explaining machines to Hannah.
+- He never states his suspicion of Kenji aloud.

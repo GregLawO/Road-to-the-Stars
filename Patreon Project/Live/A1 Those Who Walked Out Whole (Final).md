@@ -22,13 +22,27 @@ The frosted doors opened at ten past six, and her father walked out on his own f
 
 She could not answer. She crossed the room and took his wrist and held it, the way the academy had drilled her to check a pulse, because checking was the only thing her hands knew how to do, and the beat under her fingers was steady and strong and unhurried, nothing like the thready flutter she had felt in the ambulance. He let her hold on, and when she finally let go he laughed, softly, and she realized she had been crying for some time without noticing.
 
-A woman in gray scrubs appeared at the edge of the room with a tablet held against her chest. She did not smile, and she did not offer her name. “There is also a training program,” she said, in that same voice. “Knowledge delivered directly, in a single session. Your father has been offered a place in it. You are eligible as well, if you wish.”
+His eyes went back to the bare paint over the desk. “Somebody forgot to hang the license,” he said.
 
-Hannah asked who ran the program, and the woman said, “The clinic’s operators.” Hannah asked for a name, and the woman said it again, word for word, with the patience of a recording. Hannah looked at her father. He was watching her with the look he had worn through twenty-two years of her digging in her heels over small things, the look of a man who could tell when the thing she was digging in over was large.
+“Nobody forgot.” She wiped her face with the heel of her hand. “Dad, don’t sign anything on your way out.”
 
-“No,” she said. “Thank you. No.”
+“Wasn’t going to.” He turned his hand over and studied his knuckles, where a welding scar she had known since childhood had vanished. “Wasn’t going to,” he said again, slower.
 
-The woman nodded as if she had written the answer down before the question. Her father said only, “Your call, kid,” and did not press her. It was the first time she could remember him letting a thing go without talking her around. He turned his hand over and studied his knuckles, where a welding scar she had known since childhood had vanished.
+A woman in gray scrubs appeared at the edge of the room with a tablet held against her chest. She did not smile, and she did not offer her name. “There is a training session,” she said. “Knowledge delivered directly, in one sitting. Your father has been offered a place. You are eligible as well.”
+
+“Who runs it?” Hannah asked.
+
+“The clinic’s operators.”
+
+“Who are they?”
+
+“The clinic’s operators.” It came out in the same flat voice, word for word, with the patience of a recording.
+
+Hannah looked at her father. He was watching her with the look he had worn through twenty-two years of her digging in her heels over small things, the look of a man who could tell when the thing she was digging in over was large.
+
+“No,” she said.
+
+The woman nodded as if she had written the answer down before the question. Her father said only, “Your call, Darling,” and did not press her. It was the first time she could remember him letting a thing go without talking her around.
 
 They crossed to the front door, her father a step ahead with his hand already reaching for the handle, the humidity pressing against the glass like a held breath. Outside, a gull was already working the wet street.
 
@@ -64,13 +78,21 @@ She had expected something grander, or something stranger. Instead there were pl
 
 The queue ran the length of the waiting room and out the side door into a yard, where families sat on upturned crates and folded blankets. Nobody pushed, and nobody called out. Lucía had seen crowds at hospitals before, and they had always carried a low, ragged noise of pleading. This crowd was quiet in a different way, watchful, like people at the edge of a frozen pond waiting to see whether somebody else’s weight would hold.
 
-She learned the custom from the woman beside her, a farmer’s wife from the uplands who had been sitting there since the previous morning. “You do not simply go in,” the woman said. “You wait, and you watch.”
+She learned the custom from the woman beside her, a farmer’s wife from the uplands who had been sitting there since the previous morning. “You don’t just go in,” the woman said. “You sit and you watch the doors. That one yours?”
+
+“Yes.”
+
+“He’s small.”
+
+“He has not been eating.” Lucía shifted Mateo higher on her lap. “Why are they all watching the doors?”
 
 The woman’s neighbor’s boy had gone through the back doors on Tuesday with a growth in his throat, and the whole yard was waiting for him to come out. If he walked out whole and ate his supper like a child, the rest of them would trust the machine; if he did not, they would carry their own children home again and keep their money.
 
-“And if he does come out?” Lucía asked.
+“A grown man will tell you he’s well so his family can go home,” the woman said. “A boy doesn’t know how to lie yet. When that one walks out, I’ll know what I’m looking at.”
 
-“Then we still watch him for a week,” the woman said. “Cures that happen fast can unhappen fast.”
+“And if he walks out?”
+
+The woman tugged her blanket straight over her knees. Her eyes went to Mateo and came away again. “Then we watch him a week. Fast things come undone fast.” She said nothing more, and Lucía did not ask her to.
 
 Over the clerk’s desk, a board said the numbers were called in order and the day’s numbers closed at sundown. Through the side door, the light in the yard had already turned the color of weak tea.
 
@@ -91,6 +113,8 @@ He crossed the tiles at a run. His feet slapped. He skidded past her knee.
 Iker. The neighbor’s boy, the one the whole yard had been waiting on.
 
 His mother screamed his name and caught him up off the floor.
+
+The farmer’s wife did not move. She sat with her hands flat on the blanket and her mouth shut, and Lucía saw that she was counting something on her fingers, a week of days.
 
 The clerk lifted a card from the desk.
 
@@ -120,17 +144,29 @@ The bench under him was warm from the bodies that had sat on it before his, and 
 
 His own father had died in a ward that cost more per night than Anselm earned in a month, and the bill had outlived him by six years. He did not think of it as a grudge. He thought of it as a figure he knew by heart, and it sat in his chest now beside the envelope.
 
-“You’re from the government,” said the old woman next to him. She did not say it unkindly. “They all sit like that, holding the letter in both hands.”
+“Government,” said the old woman next to him. There was no edge in it. “You hold the letter in both hands. They all do.”
 
 He looked down. He was holding it in both hands.
 
-“My brother went in last Tuesday,” she said. “The neighbors carried him on a door, the way you carry a man to a grave. Today they say he walks out.” She nodded toward the double doors at the back of the room.
+“It is a routine visit,” he said.
+
+“Is it.” She tipped her chin at the envelope. “Then why haven’t you opened it?”
+
+He had no answer ready, and she did not wait for one. “My brother went in Tuesday. The neighbors carried him in on a door, the way you carry a man to his grave. Today they say he walks out.”
+
+“And if they are wrong?”
+
+“Then I carry him home on it again.” She flexed one hand against her knee. “I’ve the arms for it. I’d rather not need them.”
 
 The doors swung open at a quarter past four. A man came through them with a door under one arm, a plain wooden door with its hinge plates still screwed to the edge, but he carried it as if it weighed nothing. He had the look of someone who had been ill for years and had just been told it was over, a little embarrassed and mostly hungry. The old woman put her hand over her mouth.
 
 He stopped at the end of Anselm’s bench. “Mind your feet,” he said, and turned the door sideways to pass. He smelled of soap.
 
 Anselm drew his boots back. It was the smallest courtesy anyone had offered him in a year, and it loosened something under his ribs.
+
+The old woman did not call out to her brother. She watched him all the way to the street door, and when it had closed she looked at Anselm’s hands again. “Well,” she said. “You can put it down now.”
+
+He put the envelope on the bench between them.
 
 The order said fraud, but fraud needed a patient who failed later, and the file held not one. A man who had been carried in on a door was carrying it out under one arm. A career of paper had given Anselm a form for every lie that could be forged, but none for a thing he could simply watch go by.
 
@@ -182,7 +218,13 @@ Doors opened along the ward. A nurse. Two orderlies. A technician with a coffee 
 
 “East wing,” Hannah said. “Walk.”
 
-They ran anyway. She ran behind them, herding, checking faces. One was missing. The night pharmacist.
+They ran anyway. She ran behind them, herding, checking faces. One was missing.
+
+“Pharmacist,” she said to the nurse beside her. “Where’s the night pharmacist?”
+
+The nurse looked back down the smoke. “He was at the dispensary.”
+
+“Keep going. Don’t stop.”
 
 She found him in the dispensary, flat under a fallen shelf, one hand moving. She dragged the shelf off. She hauled him up by the collar. He leaned on her. She leaned on the wall.
 
@@ -198,9 +240,15 @@ A medic caught her elbow. She sat down on the grass. Heat ran down the inside of
 
 “Ma’am. Ma’am, lie back.”
 
+“I’m good. Count the staff again.”
+
+“They’re counted, ma’am. Please lie back.”
+
 She lay back. The sky was orange at one edge. The child was not kicking.
 
 She waited. She waited through a count of ten, and then another.
+
+“Say something,” she said.
 
 The medic’s hands were gentle, but they stopped moving.
 
@@ -238,15 +286,29 @@ She counted the exits because she could not help it. Two doors, one to the corri
 
 The man who came in at noon sat on the visitor’s chair and turned it a quarter turn, so that he could watch the door as well. She noticed. He noticed her noticing, and something in his face approved. He wore a gray coat in July and carried no flowers and no folder.
 
-“Mademoiselle Brooks.” No one in this building had used her name in a month. “Your paper on the Ankara tariff schedules was the best thing your directorate produced last year. It was also the last, I understand, because you stopped coming in.”
+“Ms. Brooks.” No one in this building had used her name in a month. “Your Ankara tariff paper was the best thing your directorate put out last year. It was also the last. You stopped coming in.”
 
 “I am not receiving visitors.”
 
-“You are receiving one.” He said it gently, with no apology in it. “There is a machine on the second floor. People go in as you are, and they come out as they were. I will not ask you to believe me. I will ask you to let it be tried.”
+“You’re receiving one.” He said it without apology.
+
+“Who sent you?”
+
+“Nobody you’d know.”
+
+“That is a count of zero, not an answer.” Her thumb walked across her fingertips under the blanket. “Who sent you?”
+
+“Somebody who read your paper.” He did not look away. “There’s a machine on the second floor. People go in the way you are. They come out the way they were. I won’t ask you to believe that. I’ll ask you to let it be tried.”
 
 She had heard this speech from three different men, and each had wanted her savings. “What does it cost?”
 
-“Nothing you are carrying.” He let a silence sit. She counted it, because counting was what she did with silences. Four seconds. A man who rehearsed his pauses was holding something back, which was not the same as lying about the machine. “Afterward, a conversation. There is work, and it is the sort you are good at.”
+“Nothing you are carrying.” He let a silence sit. She counted it, because counting was what she did with silences. Four seconds. A man who rehearsed his pauses was holding something back, which was not the same as lying about the machine. “Afterward, a conversation. There’s work. It’s the kind you’re good at.”
+
+“Whose work?”
+
+“Afterward.”
+
+“Noted.”
 
 She looked at the window, painted shut, and at the wedge of white sky in it. She had run out of better questions.
 
@@ -270,7 +332,7 @@ She stopped three paces short. Her heart was loud in her ears, strong and slow, 
 
 He smiled, a little. Not with his teeth.
 
-“Sixty more years, for a start,” he said. “Mademoiselle Brooks, what would you do with them?”
+“Sixty more years, for a start,” he said. “Ms. Brooks, what would you do with them?”
 
 Her fingers stopped tapping.
 

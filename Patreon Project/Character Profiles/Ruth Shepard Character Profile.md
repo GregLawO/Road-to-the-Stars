@@ -28,3 +28,26 @@ Items marked **(decision)** are invented gap-fills.
 - **Stakes.** A child hurt because she did not ask in time, or Hannah hurt because she kept her doubt to herself.
 - **Character arc.** She says "Not yet, then" to Kenji, giving him time and promising nothing. She sets a place for Danny at Sunday dinner every week. She sits hurting people down with food or drink before asking a question, and says no politely and firmly in front of people who want a yes when a decision would harm a child.
 - **Rules for the text.** No worried-mother-only or comfort-only scenes, no victim scenes, no working out secrets by herself, no long speeches.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- School-office warmth with authority under it. She says "we" for instructions: "Let's sit down." She offers food or drink before a hard question.
+- "Mm-hm" keeps people talking. "I'll need you to..." means she is serious. She says "Tommy" to Tom when teasing or worried, and "Daniel" when worried about Danny. Working Spanish with parents.
+- Samples: "Let's sit down, all of us. Tom, move your boots. Kenji, will you have tea?" / "Mm-hm. And then what happened?" / "I'll need you to wait here, Daniel."
+
+**2. Sentence Rhythm & Punctuation.**
+- A warm opening, one real sentence, then she waits. She phrases questions as invitations: "I wonder if you would tell me about it."
+- She softens a refusal with one small practical offer. She does not interrupt.
+- Full forms except "let's" and "I'll."
+- Reply length: two or three sentences, with the question last. A one-line reply, usually "No.", is about one in five.
+
+**3. Nervous Habits & Tells.**
+- Doubting someone, she asks one kind question and does not follow it up.
+- Worried, she gets more formal and uses full names. Refusing, she repeats the same sentence in the same words, no louder.
+- She straightens a collar or pours tea instead of voicing a suspicion. She lies only to comfort a frightened child.
+
+**4. Dialogue Traps (What to Avoid).**
+- Never "I'm worried sick," "my baby," or "You can tell me anything."
+- No deducing a secret aloud, and no comfort speeches.
+- She names what she saw, not what it means.

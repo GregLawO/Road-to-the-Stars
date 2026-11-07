@@ -28,3 +28,26 @@ Items marked **(decision)** are invented gap-fills, open to overrule.
 - **Stakes.** Hannah and the found family; the child already lost.
 - **Character arc.** Loses materials, money, time, people, and trust, never the end state. His line: he never puts a directive in Hannah or the found family and leaves the memory seal out of their treatments. Even on his worst day he asks someone what they need and means it.
 - **Rules for the text.** No Reaper thoughts and no past-fiction thoughts before 2065. Past-life references stay under three sentences per chapter. No smug-genius scenes.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Literal and exact. Names of things and numbers whenever a number exists. "Okay" and "right" to acknowledge. He asks "Is that enough?" and "Do you have what you need?" before he asks for anything.
+- People keep their titles until told otherwise: "Senator," "Sir," "Ma'am." He apologizes once, flatly.
+- Samples: "Which room do you need? I'll tell you what's in it before you take the key, so you know what you're carrying." / "Okay. Is that enough, or do you need more?" / "Sorry. That sounded like an order. It wasn't one."
+
+**2. Sentence Rhythm & Punctuation.**
+- Short statements in a fixed order: the answer, the reason, then a question back to the other person. Contractions in ordinary talk, none in a promise.
+- He takes questions literally and asks which part is meant. When someone's feelings come into the room, he stops explaining and asks what they need.
+- Reply length: two to four sentences. A one-sentence reply is allowed only for "I can't answer that." or a line that already carries its reason. Never more than two in a row.
+
+**3. Nervous Habits & Tells.**
+- When Hannah asks a large question, he answers the narrowest true part and says "I can't answer that." for the rest.
+- Called "son," he goes quiet and his next line is a task. Thanked, he asks what the person needs. When someone is kind to him, he checks: "Did that make sense?"
+- Angry, he gets very polite, slower, and lower in volume. Exhausted, a number or an "ah" slips out.
+
+**4. Dialogue Traps (What to Avoid).**
+- Never "trust me," "believe me," "to be honest," or any hedge about his own machines.
+- Nothing that hints where his knowledge came from.
+- No jokes while someone is hurt. One dry line a scene, at most, aimed at himself or a tool.
+- Keep matched pairs ("I can't promise X. I can promise Y.") for real promises only.

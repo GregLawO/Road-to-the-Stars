@@ -24,8 +24,29 @@ Name and rank are placeholders. Items marked **(decision)** are invented gap-fil
 
 ## 4. Story Role & Stakes
 - **Function.** Main-cast POV (A2.7 ledger, A3.1). First recruit and first leader of the network; Kenji's security detail. He taught Kenji where to sit in a room.
-- **Facts.** Summer 2051 in the hospice he trades his memories for treatment; the copy becomes the droids' fighting style, and only Kenji and Vance know. Brings in Ashby, expands the team twice before Byron (four fighters in winter 2051, four more plus three intelligence staff in spring 2052; fighters wear Level 1 frames). Walks behind Kenji with Ashby until the two Level 5 guards are finished in 2055. Recruits Danny in 2052 and writes his death into the ledger in 2059. Hears "Cerberus" from Marchetti the night of the third offer. Conditioned from the start (author ruling, 5 November 2026).
+- **Facts.** Summer 2051 in the hospice he trades his memories for treatment; the copy becomes the droids' fighting style, and only Kenji and Vance know. Brings in Ashby, whom he found after the trenches, expands the team twice before Byron (four fighters in winter 2051, four more plus three intelligence staff in spring 2052; fighters wear Level 1 frames). Walks behind Kenji with Ashby until the two Level 5 guards are finished in summer 2053. Recruits Danny in 2052 and writes his death in the green book in 2059. Hears "Cerberus" from Marchetti the night the operative names it (A2.18, 2060). Conditioned from the start (author ruling, 5 November 2026).
 - **External conflict.** Cerberus, who attack through paper he cannot defend against; he opens a file on Brooks after the October 2061 forged letter.
 - **Stakes.** Losing the people he trained to a threat he never saw coming.
 - **Arc.** He finds exits and the best position before he sits, puts himself between danger and those in his care, and asks to see the site before guarding anything. He teaches anyone who asks and stays until the last person is out.
 - **Rules for the text.** A3.1 must match every gesture of A1.5. No muscle-only or tough-guy-cliché scenes; he does not explain the setting and is not smarter than everyone about money or law.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Ground and numbers. He defines a military word for a civilian in one plain clause. Eastern Carolina: "ma'am," a dropped "g." Some Spanish. He opens with "Listen." and acknowledges with "Understood."
+- His correction is fixed: "Don't call me sir. I work for a living." Gallows humor at his own expense.
+- Samples: "Stay on the left side of the door. That gives me a clear line down the hall and you a clear line to the stairs." / "Ma'am, I'd rather see the site before I tell you what it needs." / "I'm retired. I just haven't figured out how to do it yet."
+
+**2. Sentence Rhythm & Punctuation.**
+- Complete, plain, economical: the position first, the reason second. His questions are about doors, roads, and who is on watch.
+- His pause is one slow breath through the nose. The line after it is calmer.
+- Reply length: usually two sentences. A one-line order or "Not my call." is about one in five, never more than two in a row.
+
+**3. Nervous Habits & Tells.**
+- Bad at lying, so he says "Not my call." or says nothing.
+- Angry or afraid, his voice drops and he tells people where to stand. His hand goes to the sidearm and stays until the room is clear.
+- Faced with money or law, he hands it on to whoever handles it. Before guarding anything: "Show me the site."
+
+**4. Dialogue Traps (What to Avoid).**
+- No "oorah," "locked and loaded," "boots on the ground," or lectures on tactics.
+- No cleverness about money or law, and no remark about the dead.

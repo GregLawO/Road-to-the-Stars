@@ -24,7 +24,28 @@ Items marked **(decision)** are invented gap-fills. Supporting character, no POV
 
 ## 4. Story Role & Stakes
 - **Function.** Vance's recruit; the man who asks Kenji to save Tom; Hannah's silent guardian. Conditioned recruit. He appears alive in at least two scenes before 2059.
-- **External conflict.** Cerberus, whose bomb he dies stopping.
+- **External conflict.** A rival elite's bomb, which he dies stopping.
 - **Stakes.** Hannah or Tom hurt because of his silence or his absence. In 2059 he leaves his post for family and runs at the van.
-- **Facts.** Tom reaches the clinic by a napkin address from a foreman, so Danny does not bring him in; Danny sees "T. Shepard" on the hidden-wing referral list and asks Kenji to put his father in the wing. The empty guard stool in A1.4 belongs to a bought guard, not Danny; Danny is on overwatch in the car park outside Hannah's roster, sees the delivery van riding low, goes after it, and dies near the blast. Hannah knows he is alive and believes he works for a security contractor in Houston; she does not link that to Kenji's organization until after the bomb. **(decision)**
+- **Facts.** Tom reaches the clinic by a napkin address from a foreman, so Danny does not bring him in; Danny sees "T. Shepard" on the hidden-wing referral list and asks Kenji to put his father in the wing. The empty guard stool in A1.4 belongs to a bought guard, not Danny; Danny is on overwatch in the car park outside Hannah's roster, sees the delivery van riding low, goes after it, and dies near the blast. Hannah knows he is alive and believes he works for a security contractor in Houston; she does not link that to Kenji's organization until after the bomb. He was told about the directive before he signed but did not take in what it meant (A2.6). **(decision)**
 - **Rules for the text.** No saintly martyr, no scene where he exists only to be mourned, no speeches. He puts his hand on a structure before saying a word; when asked something he cannot answer he gives a small true answer that says nothing and changes the subject to a task.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Engineer nouns: load, brace, post, plate, joint. "Yeah." "Sure." "Sir" at the end of a request. Calls Vance "Gunny."
+- Spanish first. It comes out when he is tired or someone is frightened: "Quédate cerca." He translates only if the other person needs it.
+- Sapper-dry humor, never about the two men he lost.
+- Samples: "Can't give it. I'll take you to the person who can, and I'm walking in front." / "Work's work. Hot out, though."
+
+**2. Sentence Rhythm & Punctuation.**
+- Plain, low, short. He answers what was asked, then adds one practical instruction. He explains by pointing, so write the gesture.
+- Worn out, he starts in English and finishes in Spanish.
+- Reply length: usually two short sentences. A one-word answer is about one in five, never more than two in a row. He rarely asks questions.
+
+**3. Nervous Habits & Tells.**
+- When he cannot answer, he gives a small true answer about a task in the same tone. That answer is also how he lies about where he is stationed and whether he is all right: what it says is true, and what it leaves out is the lie.
+- Moved, he gets quieter and shorter.
+
+**4. Dialogue Traps (What to Avoid).**
+- No "I'll always be there," no goodbyes, no "family is everything," no announcing that he is useful.
+- No Spanish as decoration.

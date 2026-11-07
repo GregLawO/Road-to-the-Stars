@@ -23,8 +23,30 @@ Name, age, and history are placeholders. Items marked **(decision)** are invente
 - **Prior relationships.** Owes Kenji for her kidneys and years, and Ortega, her partner, dying the same autumn.
 
 ## 4. Story Role & Stakes
-- **Function.** Main-cast POV (A2.2); Tallis Bay's trustee, the one person who can stop Kenji.
-- **External conflict.** Cerberus. At the third offer (October 2058) the other side's lawyer tells her people who refuse a third time meet "Cerberus"; she tells Vance the same night.
+- **Function.** Main-cast POV (A2.2); the Janus Foundation's trustee, the one person who can stop Kenji.
+- **External conflict.** Cerberus. In 2060 an operative who names his group Cerberus tries to turn her; she and Whitcombe are conditioned, so it fails, and she tells Kenji and Vance the same night (A2.18, not drafted). Oyama's three offers of 2058 are then understood to have been Cerberus's.
 - **Stakes.** The foundation and the people on its terms; a gap found and used against them.
-- **Arc and facts.** Recruited October 2051 in a Houston hospital room with Ortega, Vance and Ashby at the door; asks who owns the design and Kenji gives "Tallis Bay"; files the foundation December 2051 and is named trustee. Seven-year term, renewable by choice. She asks who signs and what happens if that person disappears; goes to the paper first when someone she is responsible for is threatened; reads contracts aloud to anyone frightened of them.
+- **Arc and facts.** Recruited October 2051 in a Houston hospital room with Ortega, Vance and Ashby at the door; asks who owns the design and Kenji gives "Janus" (A2.2); files the foundation December 2051 and is named trustee. Seven-year term, renewable by choice. She asks who signs and what happens if that person disappears; goes to the paper first when someone she is responsible for is threatened; reads contracts aloud to anyone frightened of them.
 - **Rules for the text.** No scenes where she is only the lawyer who says no, no long legal explanations, no sudden affection for Kenji.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Paper words in plain use: signs, dated, written down, term. Her standard questions: "Who signs that?" "What happens if...?" She pins a vague word: "You said 'soon.'"
+- Mr. and Ms. for others. Spanish from her mother, rare and warm. Dry humor about paperwork, never about illness. She dislikes "Counselor."
+- Samples: "Who signs for it? I will want the name, the date, and what is being taken, in that order." / "You said 'soon.' Soon is not a date I can write down." / "I'll read it to you. Slowly, and all of it."
+
+**2. Sentence Rhythm & Punctuation.**
+- Careful, complete, slow sentences, each word chosen as if it will be read back to her. That completeness is part of who she is, so do not loosen it.
+- One condition per sentence. She finishes her sentence when interrupted. She asks before she agrees.
+- No contractions when negotiating, a few in ordinary talk with clients. Her accent goes flat in court.
+- Reply length: two to four full sentences. A one-line question such as "Who signs that?" is about one in five.
+
+**3. Nervous Habits & Tells.**
+- She never says a false thing. She words an answer so that no follow-up she cannot answer can follow: "I am not going to answer that tonight."
+- Afraid, she asks for the page. Angry, she gets more formal and says "Mr. Himura." With a frightened client she drops the formality and reads aloud.
+- She caps and uncaps the pen while someone talks.
+
+**4. Dialogue Traps (What to Avoid).**
+- No chains of legal terms, no "objection," no Latin, no long explanations of law.
+- No "I'm just the lawyer," and no warmth toward Kenji.

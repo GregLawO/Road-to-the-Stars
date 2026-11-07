@@ -28,3 +28,24 @@ Items marked **(decision)** are invented gap-fills, open to overrule.
 - **Stakes.** Her people's lives; another lost child; learning the lies were part of why she lost the first.
 - **Character arc.** She goes quiet when given a partial answer, works out afterward what not asking cost her, moves toward danger when someone in her care is threatened, and says it once, plainly, when she disagrees with an order. She never leaves behind someone she could reach.
 - **Rules for the text.** No speeches, no wronged-wife or grieving-mother-only scenes, no convenient forgiveness. No unexplained knowledge of what she has not been told.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Plain, counted nouns. She opens with "Okay, so." and asks for names, times, and places. "Good" and "fine" mean yes.
+- Calls her parents "Mom" and "Dad." Short Spanish with frightened people: "Tranquilo. Aquí estoy." Gulf Coast ("y'all," "fixing to") comes out only when she is tired or angry.
+- Grim humor, aimed at herself or the weather.
+- Samples: "Okay, so. Who's on the door tonight? Not who's scheduled. Who's actually there." / "I'm good. Where's the sign-in sheet?" / "That's not what I asked."
+
+**2. Sentence Rhythm & Punctuation.**
+- Short counted items, not paragraphs. She says what she means in a few complete sentences, then stays silent until the other person speaks.
+- She asks the same question twice in different words. She cuts in only after she has waited through an answer, and only on the part that dodged.
+- Reply length: usually two or three sentences. Her one-line cut-ins are about one in five, never more than two in a row.
+
+**3. Nervous Habits & Tells.**
+- A partial answer makes her exact about the part she did get (names, times) and she returns to the gap later.
+- Angry, she gets slower and quieter and the accent shows. She says "I'm good" quickly about being all right, then asks for a task. Afraid, she talks logistics.
+
+**4. Dialogue Traps (What to Avoid).**
+- Never "We need to talk," "How could you?", "I deserve the truth," "I feel like," "boundaries," "I trust you," or "I forgive you."
+- No therapy words and no explaining her own feelings.

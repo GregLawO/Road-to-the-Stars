@@ -24,7 +24,28 @@ Name, age, health, and committee are placeholders. Items marked **(decision)** a
 
 ## 4. Story Role & Stakes
 - **Function.** Main-cast POV (A2.5); leads the organization's political factions.
-- **Facts.** Recruited February 2053 in the Houston warehouse. Kenji's intelligence team found her heart records. She is offered health and long life now and youth later ("in ten years, when no one will ask"). She leads the factions worldwide: introductions, her committee asking questions before anyone closes a clinic, and pre-approval for the cloned organs the clinics sell. Not the first elite buyer (Byron, July 2052, came first); her factions bring the first elite buyers from April 2055.
+- **Facts.** Recruited February 2053 in the Houston warehouse. Kenji's intelligence team found her heart records. She is offered health and long life now and youth later ("in ten years, when no one will ask"). She leads the factions worldwide: introductions, her committee asking questions before anyone closes a clinic, and pre-approval for the cloned organs the clinics sell. Not the first elite buyer (Byron, July 2052, came first); her factions bring the first elite buyers from April 2055. In February 2056 she owns the political front and asks Kenji what protects his staff (A2.11).
 - **External conflict.** The forged state letter of October 2061 that closes Galveston.
 - **Stakes.** Her faction being used to hurt the patients it protects.
 - **Rules for the text.** When a room goes quiet she watches who defers to whom; when someone she is responsible for is threatened she calls a vote or recess to buy time; when asked about her health she changes the subject to the work. No speeches, no sudden warmth toward Kenji.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- Public: plain, clipped, no contractions. Private: soft Louisiana rhythm, longer and more careful, formal and warm. "Well," "Mm," "Now."
+- She refuses politely: "That is a generous way to put it." She places people by name: "Helen," "Mr. Himura." Dry political humor, never about health.
+- Samples: "Well. I would like to know who else has asked for it this week. I am not saying no. I am saying not before Thursday." / "And what does it cost me, Mr. Himura? I do not mean money."
+
+**2. Sentence Rhythm & Punctuation.**
+- In private she builds one long careful sentence with the point near the end, then follows it with a short word. That is her profile, so keep it.
+- She corrects herself aloud ("A day. No. A day would tell me nothing new."). She answers a question by asking who else knew. She watches who defers before she speaks.
+- Reply length: two sentences in public, three to five in private. A one-line "Mm." is about one in five.
+
+**3. Nervous Habits & Tells.**
+- Asked about her health, she turns to the work.
+- Buying time, she asks for a day, a vote, or a recess. Afraid, two fingers to the pin and a slower voice. Defensive, she uses full titles. She never admits weakness aloud.
+
+**4. Dialogue Traps (What to Avoid).**
+- No stump slogans, no "my fellow," no "sugar," no belle theatrics.
+- No warmth toward Kenji she has not earned.
+- No jokes about health, and no admitting the heart.

@@ -24,7 +24,27 @@ Items marked **(decision)** are invented gap-fills, open to overrule.
 
 ## 4. Story Role & Stakes
 - **Function.** POV and analyst; the network's eventual head. A1.5 recruitment, A3.1 introduction to Kenji, A3.6 slip.
-- **External conflict.** Cerberus; the unsolved 2059 bombing file she is handed first and never closes.
+- **External conflict.** Cerberus; the unsolved 2059 bombing file she is handed first and never closes (the bomb was a rival elite's, not Cerberus's).
 - **Stakes.** The network and the people she placed; figures that never add up.
 - **Character arc.** She keeps working past the point anyone else stops and tells no one until she has the full picture; goes quiet when someone is kind and wants nothing, looking for what they want. She never falsifies a record in a way that would hurt one of her own.
 - **Rules for the text.** No villain monologues, no cruelty for its own sake, no enjoying the count of the dead, no unearned warmth. She acts only on what she has collected and verified.
+
+## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
+
+**1. Vocabulary & Word Choice.**
+- No contractions. "Noted." "Unknown." "Verified." "Complete." She asks for numbers: how many, who, when.
+- Correct, accent-trained English. "Mr. Himura" in 2062, "sir" from 2065. A rare Dutch word when something is truly bad. Deadpan numerical humor, never about the dead.
+- Samples: "Three people have asked for this key since March. You are the fourth, and the first I have not met. Who knows you are here?" / "You said ten. The record says eleven." / "I do not need you to be kind. I need the list complete."
+
+**2. Sentence Rhythm & Punctuation.**
+- The figure, the reason, then a number. Each sentence stands alone. She asks for the one missing fact and waits. She counts silences and does not fill them.
+- Reply length: two or three complete sentences. A one-word "Noted." is about one in five, never more than two in a row.
+
+**3. Nervous Habits & Tells.**
+- Kindness without a price makes her quiet, then direct: "What do you want?"
+- She states an objection once, completely, then carries out the order.
+- Lying for the work, she is smooth and slightly over-specific. Afraid of something she cannot see, she adds numbers. At the worst she stops tapping and lays her hand flat.
+
+**4. Dialogue Traps (What to Avoid).**
+- Never "I think," "I feel," or "probably." She says "I have not verified that."
+- No condolences, no gloating over a count, no warmth she has not earned, no speeches.
