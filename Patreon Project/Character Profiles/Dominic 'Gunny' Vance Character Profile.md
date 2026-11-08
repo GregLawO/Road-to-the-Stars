@@ -23,7 +23,7 @@ Name and rank are placeholders. Items marked **(decision)** are invented gap-fil
 - **Prior relationships.** Owes Kenji for his lungs and years, and the men of his old squad. Brings in Ashby.
 
 ## 4. Story Role & Stakes
-- **Function.** Main-cast POV (A2.7 ledger, A3.1). First recruit and first leader of the network; Kenji's security detail. He taught Kenji where to sit in a room.
+- **Function.** Main-cast POV (A2.7 ledger, A2.20, A3.1). First recruit and first leader of the network; Kenji's security detail. He taught Kenji where to sit in a room.
 - **Facts.** Summer 2051 in the hospice he trades his memories for treatment; the copy becomes the droids' fighting style, and only Kenji and Vance know. Brings in Ashby, whom he found after the trenches, expands the team twice before Byron (four fighters in winter 2051, four more plus three intelligence staff in spring 2052; fighters wear Level 1 frames). Walks behind Kenji with Ashby until the two Level 5 guards are finished in summer 2053. Recruits Danny in 2052 and writes his death in the green book in 2059. Hears "Cerberus" from Marchetti the night the operative names it (A2.18, 2060). Conditioned from the start (author ruling, 5 November 2026).
 - **External conflict.** Cerberus, who attack through paper he cannot defend against; he opens a file on Brooks after the October 2061 forged letter.
 - **Stakes.** Losing the people he trained to a threat he never saw coming.

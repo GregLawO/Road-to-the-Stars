@@ -296,7 +296,7 @@ The director watched from the buyers' stand with his arms folded. He had sat on 
 
 A dozen buyers from four countries stood along the rail. One of them, a port official with a notebook, asked what a frame cost. Strauss gave a price per unit, delivered, and a shipping date. The official wrote the price down twice.
 
-“It lifts two and a half times what a man can lift alone,” Strauss said. “The load goes down through the legs, so the man inside carries almost none of it. It will not lift a container.”
+“It lifts five times what a man can lift alone,” Strauss said. “The load goes down through the legs, so the man inside carries almost none of it. It will not lift a container.”
 
 “Can it be copied?”
 

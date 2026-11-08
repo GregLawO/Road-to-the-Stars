@@ -52,7 +52,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 
 ## 11. The marine (Vance)
 
-- Gunnery Sergeant Dominic Vance, USMC, retired. Locked recurring OC and main cast. In Act I he carries POV in **A2.7** (dated ledger, 2051 to summer 2053) and **A3.1** (2062) only.
+- Gunnery Sergeant Dominic Vance, USMC, retired. Locked recurring OC and main cast. He carries POV in **A2.7** (dated ledger, 2051 to summer 2053), **A2.20** (the days after the 2059 bomb), and **A3.1** (2062). No fixed limit applies to his POV chapters (author, 8 November 2026).
 - First recruit (summer 2051). Brings in Ashby in autumn 2051; the two are Kenji's security detail when Kenji recruits the lawyers. Expands the team twice before Byron (July 2052). Stops walking behind Kenji when the two Level 5 guards are finished (summer 2053).
 - **A3.1 must match every gesture of the published A1.5:** gray coat in July, the quarter-turned chair, the four-second pause, the hidden sidearm.
 - Conditioned from the start of his service (author ruling, 5 November 2026). Only the Shepards are not conditioned.
@@ -88,7 +88,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 
 - **POV age.** A file character carries POV only from age 8, only while alive, and only for what they could see or know.
 - **Early pool (before 2072).** Kenji, Hannah, Brooks, Manswell, Tom, Ruth, Vance, Ashby (b. 2030, first appears A2.2), plus Marchetti, Byron, Whitcombe. Found-family servants and network operatives carry no POV.
-- **A2 POVs.** Kenji (first person): A2.1, A2.4, A2.6, A2.11, A2.14. Hannah: A2.8, A2.13. Marchetti: A2.2. Byron: A2.3, A2.12. Whitcombe: A2.5. Vance: A2.7. Unnamed OCs: the Watcher (A2.9), the Director (A2.10), the Rival (A2.15). Later chapters follow Act_I_Outline. Tom, Ruth, Danny, and the rigger appear in scenes and carry no POV.
+- **A2 POVs.** Kenji (first person): A2.1, A2.4, A2.6, A2.11, A2.14. Hannah: A2.8, A2.13. Marchetti: A2.2. Byron: A2.3, A2.12. Whitcombe: A2.5. Vance: A2.7, A2.20. Unnamed OCs: the Watcher (A2.9), the Director (A2.10), the Rival (A2.15). Later chapters follow Act_I_Outline. Tom, Ruth, Danny, and the rigger appear in scenes and carry no POV.
 - **A3** has no Kenji POV, because it is dated after the 2065 realization apart from A3.1.
 - **Generic OC slots.** Movement 1 is exempt from the 20 percent guide, because its OC voices carry the technology showcase.
 

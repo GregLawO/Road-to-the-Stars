@@ -2,7 +2,7 @@
 
 Plans A2, the chapter being written now, and A3, the next chapter. A1 is published and never rewritten. No chapter after A3 is outlined (author ruling, 4 November 2026). Endings, batch lines, echoes, and wants are proposals (decision).
 
-**Status.** A2.1 to A2.15 are drafted and canon (A2a Final, A2b v6, A2c v6). Where an entry below differs from the drafts, the drafts govern. A2.16 to A2.20 and A3 are not drafted.
+**Status.** A2.1 to A2.15 are drafted and canon (A2a Final, A2b v6, A2c v6). A2.16 to A2.20 are drafted (A2d, revised 8 November 2026). Where an entry below differs from the drafts, the drafts govern. A3 is not drafted.
 
 **Key.** Type: [I] investigative, [A] action, [H] hybrid. Ending: P physical event, Q quiet reversal, B held breath, W withheld answer, E emotional beat.
 
@@ -27,12 +27,12 @@ A1 (the body) is live and unchanged.
 Dates run in order inside each chapter, except A2.7 (Vance's ledger, 2051 to 2059) and A2.9 (April 2055 to November 2056, which runs past A2.10 and A2.11).
 **Rulings applied to A2.9 onward (these replace older text).** The foundation is called Janus.
 - Elite sales begin April 2055. Politicians get health, long life and about ten years of rejuvenation, framed as good care. Private rich clients get full rejuvenation (changes A2.5).
-- The unpowered Level 1 frame lifts 2.5 times a normal person's capacity and carries the man inside it. It cannot lift a container.
+- The unpowered Level 1 frame lifts 5 times a normal person's capacity, up to 250 kg, and carries the man inside it. It cannot lift a container.
 - Kenji and Hannah share only three chapters: the first date, the Moon trip, the wedding.
 - The proposal happens on the Moon trip.
 - The shuttle (50 m) is built in six months and carries Kenji and Hannah to the Moon. The starship is under construction until its launch.
 - The raids come after June 2056, at any clinic. Raids and the bomb are by a rival group linked to underworld societies, not Cerberus. The rival knows only that something important is hidden at the site, and bombs it to flush it out. It does not know about the Level 2 pods.
-- Cerberus is first named on the page in A2.18 (2060).
+- Cerberus is first named on the page in 2060 (chapter not yet placed).
 
 ### A2a: the safety net (2051 to early 2053). Every chapter builds the foundation and introduces a new main-cast member.
 
@@ -112,7 +112,7 @@ Tom, Ruth, Danny, and the rigger appear in scenes and carry no POV. Placeholder 
 10. **A2.10 Director (OC), mid 2055 [I] · W. The demonstration.** About 900 words.
    - **Opening detail.** A man in an unpowered steel frame lifts a crate no single man could lift.
    - **Want and deadline.** The director wants the chair and needs something on Strauss before the board votes in three weeks.
-   - **Scene 1, the test yard.** Buyers ask what the Level 1 frame costs and whether it can be copied. Strauss quotes a price and says they could try to copy it. The frame lifts 2.5 times a normal person's capacity. Vance's trained guards, in Level 1 frames, fight each other in the yard.
+   - **Scene 1, the test yard.** Buyers ask what the Level 1 frame costs and whether it can be copied. Strauss quotes a price and says they could try to copy it. The frame lifts 5 times a normal person's capacity, up to 250 kg. Vance's trained guards, in Level 1 frames, fight each other in the yard.
    - **Scene 2, the hospital and the boardroom.** The certificate gives a date, however it says the body was cremated. The thing that's most suspicious is that Strauss looks a lot like a younger version of, and speaks and moves like, Byron Pyrrus. The man also wears Byron's steel ring.
    - **Hook (W).** He starts to ask about the funeral, stops, and says "Fine ring."
 
@@ -152,31 +152,35 @@ Tom, Ruth, Danny, and the rigger appear in scenes and carry no POV. Placeholder 
    - **Scene 2, the order.** If they cannot walk in, they will make it come out. A bought gate guard, a bought lamp contractor, a bought delivery driver. A bomb at the handover.
    - **Hook (B).** His pen is over the order.
 
-### A2d (A2.16 to A2.20)
+### A2d (A2.16 to A2.20), as drafted
 
-16. **A2.16 Hannah (27), a hall on the seawall, June 2058 [I] · W. The wedding.** About 900 words. As drafted in the old A2.11 scene 2 (the ring scene moves to A2.14).
-   - **Opening detail.** Her ring has her name cut inside, so small she needs the clinic's magnifier.
-   - **Scene.** His side is empty. Danny, home on leave for the day, crosses the aisle to sit alone on the groom's side. Two men in dark suits stand against that wall. A man in a gray coat watches the room from the back door. Tom walks her in with his wrench in his back pocket. At the altar Kenji says "Dad." Ruth asks who looks after him and he offers to find her a waiter.
-   - **Hook (W).** Ruth raises her glass to the groom's side. Hannah has a question ready and does not ask it. The man in the gray coat raises his glass.
+16. **A2.16 Hannah (27), a hall on the seawall, June 2058 [I] · W. The wedding.** About 860 words.
+   - **Opening detail.** She reads the name inside her ring under the clinic pharmacy's magnifier the night before.
+   - **Scene.** Her side of the hall is full; his side is empty. Two men in dark suits stand against that wall. A man in a gray coat watches the room from the back door. Tom walks her in with his father's wrench in his back pocket. Danny, up from Houston for the day, answers her question about his post with "Houston" and a task, then crosses the aisle and sits alone on the groom's side. At the altar Kenji says "Dad." Ruth straightens his collar and asks who looks after him; he offers her a waiter, and she asks for tea. Hannah asks who the man in the gray coat is: "He works for me. I asked him to come." "He's the nearest thing to a friend I could put on my side."
+   - **Hook (W).** Ruth raises her glass to Kenji's side. Hannah has a question ready (why her brother sits there) and does not ask. The man in the gray coat raises his glass.
 
-17. **A2.17 Kenji (39), Galveston, early 2059 [I] · P. The review and the bomb.** About 1,000 words, first person.
+17. **A2.17 Kenji (39), Galveston, March 2059 [I] · P. The review and the bomb.** About 710 words, first person.
    - **Opening detail.** The handover board has one five-minute row with no name on it.
-   - **Scene 1, the review.** Marchetti signs the annual review. She asks what happens if someone takes the clinic. "Nothing leaves." He has already moved the handover to Friday, which is one day too late.
-   - **Scene 2, spring, 5:30 a.m.** Danny is on overwatch outside Hannah's roster. The lamp is out, the gate stool is empty, the Thursday van is not due, and a different van comes in riding low. "Stay clear." "I'm walking to it." The radio goes white.
+   - **Scene 1, the review (Wednesday).** Marchetti will not sign for a place she has not stood in. She signs the review with her own line that the row is moved and still open, not closed. Kenji moves the handover to Friday; the new roster reaches the posts at six the next morning. "If someone takes this clinic, what happens?" "Nothing leaves." "And the people in the building?" "I don't know." She asks for a plan, with a date, next year.
+   - **Scene 2, Thursday, 5:20 a.m.** Danny holds the car park on channel four, outside Hannah's roster, on Kenji's order since 2056. The third lamp is out, the gate stool is empty, a van with no lights rides low on the service road. "Stay clear." "I'm walking to it." The screen goes white.
    - **Hook (P).** The chapter ends where A1.4 begins.
 
-18. **A2.18 Helen Marchetti (60), Houston, early 2060 [I] · Q. The meeting.** About 900 words.
-   - **Opening detail.** The undated resignation letter is in her drawer and she checks it.
-   - **Want and deadline.** She must answer an operative's request for a meeting before Whitcombe's faction votes on Friday.
-   - **Scene.** The operative traced the elite patients' one remembered contact to Whitcombe and the trustee. He calls his group Cerberus and tries to turn them to its side. Both are conditioned, so it fails. She tells Kenji and Vance the same night. Vance writes the word in his green book. The three 2058 patent offers were Cerberus's (decision).
-   - **Hook (Q).** The operative leaves a card with no name.
+18. **A2.18 Helen Marchetti (60), Houston, March 2059 [I] · Q. The first calls.** About 750 words.
+   - **Opening detail.** The annual review lies on her kitchen table, her own line above her signature.
+   - **Scene 1, 6:11 a.m.** Ashby phones on the crystal line: the van, Danny dead, Hannah burned and the child lost, every night staff member counted out. She questions him in order: who signed for the driver (nobody; the row was moved), the gate (stool empty, hired staff, not a member), the lamp (out eleven days, three work orders closed as done).
+   - **Scene 2, an hour later.** She calls Whitcombe, Strauss, and Kenji and calls the foundation to meet at nine that night, entered in the minutes. Kenji will not leave Hannah before eight. At nine that morning a sheriff's deputy calls the foundation's line, which rings at her firm's front desk, for the employer of Daniel Shepard, whose pay stub names Janus. The attendant calls Marchetti; she has the attendant promise an answer by noon Friday and give no name.
+   - **Hook (Q).** The employer line names the Janus Foundation, as it does for Vance and every fighter. Nobody outside the foundation knows she is its trustee. The deputy spoke only to a front desk and asked for Janus, and Janus is about to go onto a county record.
 
-19. **A2.19 Kenji (40), a Gulf coast plant, spring 2060 [I] · B. The gate.** As drafted (A3.1 in the old numbering); it is unchanged, with Cerberus named in A2.18 first.
+19. **A2.19 Kenji (39), Houston, the same night [I] · E. The foundation meets.** About 830 words, first person.
+   - **Opening detail.** A photograph of the handover board, FRIDAY in his hand, lies in the middle of Marchetti's table.
+   - **Scene.** Marchetti calls the meeting and dates the pad. Kenji owns the order to hire outsiders for the outer ring; Vance will follow the guard, the lamp man, and the driver to the cutouts. Ashby says the failure was people, and looks at the photograph. Marchetti demands a list of every hired hand and who engaged him, no new guard money until she holds the staff plan, and the death record naming Janus; Kenji will tell Hannah nothing yet, and she enters that she advised otherwise. Whitcombe says the clinic stays open and that one of their own has died. Strauss asks why the droids stood inside the fence; Kenji names a guess, the buyer behind the three offers. Handovers move inside the fence for good.
+   - **Hook (E).** Alone with Vance, Kenji says he told Danny to stay clear. Vance says he read the channel log and that the staff plan goes to Marchetti before the funeral. Kenji puts both hands flat on the table.
 
-20. **A2.20 Kenji (41), mid to late 2061 [I] · B. The launch.** About 1,000 words, first person.
-   - **Opening detail.** The starship stands on its cradle with the owner plate empty.
-   - **Scene.** The first launch and the start of orbital and lunar infrastructure construction. Hannah's firm guards the yard. Brooks's recruitment follows in A3.
-   - **Hook (B).** His pen is over the line that sells the drive.
+20. **A2.20 Vance, Houston, the days after [I] · B. The staff plan.** About 570 words.
+   - **Opening detail.** The gate roster lies on Vance's knee, a small pencil tick beside the fourth line.
+   - **Scene 1, past midnight.** He writes the staff plan in pencil on one page: a count of the night staff at every shift change, one exit per wing with a name posted at it, nobody left in a building without a person whose job is to know they are there. The meeting comes back to him in pieces, and the droids that moved the way he moves. He signed the roster that put the man on the stool.
+   - **Scene 2, Friday afternoon.** The guard does not answer. Two fighters find his flat with the bed made, the duffel gone, the mail on the mat untouched since Monday, and the gate-lock key left on the table. Vance writes down the flat, the lamp contractor, and the Thursday driver.
+   - **Hook (B).** The fighter on Hannah's door phones: she asked why her brother was in her car park at half past five and told him to find someone who knows. Vance has known the answer since 2056. Kenji's order is to tell her nothing yet, and the guard waits on the line.
 
 ## A3. Cheap Hands and Angry Ones (2062 and 2066 to 2069, 10 micro-chapters in two batches)
 

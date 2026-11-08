@@ -35,7 +35,7 @@ He pairs robotics with Dumb AI to build and man his secret bases on Earth and ar
 | Dumb AI | Level Two | |
 | Robotics | Level Three | Oyama sells Level 1 to Level 3 robots (author ruling, 3 November 2026). |
 | Gundarium | Alpha | |
-| Mobile Infantry Powered Suit | Level One | An unpowered exoskeleton. Oyama builds it. It lifts 2.5 times a normal person's capacity and cannot lift a container (A2.10). His own fighters wear it too (the Level 2 suit needs a mini-reactor; date open). |
+| Mobile Infantry Powered Suit | Level One | An unpowered exoskeleton. Oyama builds it. It lifts 5 times a normal person's capacity, up to 250 kg, and cannot lift a container (A2.10). His own fighters wear it too (the Level 2 suit needs a mini-reactor; date open). |
 | Knowledge Upload | Private | Never allowed to spread. |
 | Primaris Project | Private | Never allowed to spread. |
 | CMC Powered Armor | Private | |
