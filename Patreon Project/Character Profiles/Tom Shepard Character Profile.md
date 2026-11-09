@@ -48,3 +48,8 @@ Items marked **(decision)** are invented gap-fills.
 - No proverbs or sayings, no "back in my day," no "I'm just an old man."
 - No explaining machines to Hannah.
 - He never states his suspicion of Kenji aloud.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Early POV pool, but no POV in A2 or A3. Appears in scenes only.
+- **Honesty.** 4 of 5.

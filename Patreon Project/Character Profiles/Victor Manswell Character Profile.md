@@ -49,3 +49,7 @@ First POV is A3.9 (2068). Items marked **(decision)** are invented gap-fills. He
 **4. Dialogue Traps (What to Avoid).**
 - No "trust me," no plain "thank you, you saved me," no sudden brave speech, no admitting the debt in plain words.
 - No "I'm a simple sailor."
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Early POV pool.

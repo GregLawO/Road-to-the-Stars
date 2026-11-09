@@ -23,7 +23,7 @@ Items marked **(decision)** are invented gap-fills, open to overrule.
 - **Prior relationships.** Owes Kenji for the sixty years she was not supposed to have. Her object is a small black notebook ruled in columns, with a rubber band. **(decision)**
 
 ## 4. Story Role & Stakes
-- **Function.** POV and analyst; the network's eventual head. A1.5 recruitment, A3.1 introduction to Kenji, A3.6 slip.
+- **Function.** POV and analyst; the network's eventual head. Office: Chief Intelligence Officer of the Foundation (author ruling, 9 November 2026). A1.5 recruitment, A3.1 introduction to Kenji, A3.6 slip.
 - **External conflict.** Cerberus; the unsolved 2059 bombing file she is handed first and never closes (the bomb was a rival elite's, not Cerberus's).
 - **Stakes.** The network and the people she placed; figures that never add up.
 - **Character arc.** She keeps working past the point anyone else stops and tells no one until she has the full picture; goes quiet when someone is kind and wants nothing, looking for what they want. She never falsifies a record in a way that would hurt one of her own.
@@ -48,3 +48,7 @@ Items marked **(decision)** are invented gap-fills, open to overrule.
 **4. Dialogue Traps (What to Avoid).**
 - Never "I think," "I feel," or "probably." She says "I have not verified that."
 - No condolences, no gloating over a count, no warmth she has not earned, no speeches.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Early POV pool.

@@ -14,13 +14,13 @@
 
 “Come in,” I said. “What do you need?”
 
-“My father's on your list.” He put his palm flat against the doorframe. “Tom Shepard. He took me in when I was eight, after my father's gantry cable snapped. He has three weeks. I've never asked you for anything.”
+“My father's on your list.” He put his palm flat against the doorframe. “Tom Shepard. He took me in when I was eight, after my father's gantry cable snapped. He has three weeks. I didn't name my family when I signed. I wanted them clear of this.” He did not take his eyes off me. “I've never taken anything from you I wasn't working for.”
 
-“I know. It isn't in your terms.”
+“The terms cover your family. Name him.”
 
-“No, sir. I'm asking anyway.”
+“Tom Shepard. Yes, sir. I'm naming him.”
 
-I had a rule against this, made in January. Saving a man's father ties his love for his family to the work. Then I looked at Danny's hand on the frame.
+Tom in the hidden wing would see the hidden wing, and a man who sees it asks what it is. I had counted that cost when I wrote the terms, and it had not changed. I looked at Danny's hand on the frame.
 
 “The public floor runs a Level 1 pod,” I said. “It would clear the cancer, but he's too far gone for it to hold. He needs the Level 2 wing, and I'll move him tonight. Is that enough, or do you need more?”
 
@@ -48,15 +48,15 @@ The card was in my pocket. At four that morning I had sat with a pen over it and
 
 I went out the back and around the building to the front step. Ashby sat in the car at the curb with the lobby on a handheld screen. “They're at the door,” he said in my ear. I slid the card under it and ran for the car.
 
-**Ten days later.** They came to my office together, Tom in a clean shirt and steel-toed boots with his cap in his hands, and Ruth in a cardigan with a ring of keys at her belt. Tom did not sit. He picked up my stapler, turned it over twice, opened it, and looked at the empty channel. He closed it and put it back exactly where it had been.
+**Ten days later.** They came to my office together. Tom wore a clean shirt and steel-toed boots and held his cap in his hands, and Ruth wore a cardigan with a ring of keys at her belt. Tom did not sit. He picked up my stapler, turned it over twice, and opened it to look at the empty channel, the way he checked every tool in a room before he spoke. Then he closed it and put it back exactly where it had been.
 
-“I took the training session,” he said. “Not the other part. Your people said I could turn that down, so I did.” He looked straight at me. “Now. I've got a boy named Danny I haven't seen in five years. He sends money through Ruth and says he works for your group. Do you know where he is?”
+“I took the training session,” he said. “Not the rest of what your people offered. They said I could turn that down, so I did.” He looked straight at me. “Now. I've got a boy named Danny I haven't seen in five years. He sends money through Ruth and says he works for your group. Do you know where he is?”
 
 I had decided on the stairs that I would not lie. “Danny works for a company I run. He saw your name on a list and asked me to move you to the hidden wing. He asked me not to say more, so I'd like to leave it there.”
 
 “Is he all right?”
 
-“As far as I know, yes.”
+“As far as I know, yes. Is that enough, or do you need more?”
 
 Tom nodded slowly. Ruth had not moved. “Mr. Himura,” she said, “who are you?”
 
@@ -64,11 +64,11 @@ Tom nodded slowly. Ruth had not moved. “Mr. Himura,” she said, “who are yo
 
 She looked at me for a long moment. “Mm-hm.” She waited, as though more might come. It did not. “I believe you. But you've told me what you do, not who you are.”
 
-“No, ma'am.”
+“No, ma'am. That is as much as I can say without lying to you.”
 
 “I see.” She folded her hands. “Thank you. For my husband.”
 
-“I have one request. Please don't tell your daughter about Danny and me. She'd most likely ask questions I can't answer.”
+“Is there anything you need from me, Ma'am? I have one request of my own. Please don't tell your daughter about Danny and me. She'd most likely ask questions I can't answer.”
 
 “Won't say a word,” Tom said at once.
 
@@ -76,15 +76,45 @@ Ruth waited a second longer than he had. “Not yet, then.” She was giving me 
 
 “Son,” Tom said, “I ran a shipyard crew for most of my life. I walked your building coming in. The pump room has a gauge reading a number nobody's looked at in two years. Show me the service log.”
 
-“There isn't one.”
+I flinched at “son.” “There isn't one. Nobody has had the job.” I had no one to run the building. “The job is yours, if you want it.”
 
-“That's what I figured. You've got nobody running this place. I'd like the job.”
+“That's what I figured.” He set his cap on the desk. “I'd have asked. I'll take it.”
 
-I flinched at the word, and I hoped he hadn't seen. “I'd be glad if you took it.”
+“Start Monday. Tell me what you need.”
 
-Ruth reached up and straightened my collar, which did not need it. “And who looks after you?” she said. When I did not answer, she nodded, as though she had expected nothing else.
+Ruth reached up and straightened my collar, which did not need it. “And who looks after you?” she said. When I did not answer, she nodded.
 
 I walked them to the stairs.
+
+**December 2053.** Marchetti had nine follow-up dates on her legal pad, a name beside each, and she had rewritten the order three times. I set a gray block on the pad. It was silicon carbide, five centimeters square, with a strip of tape across one face.
+
+"What is it?" she said.
+
+"A Dumb AI. It does one kind of work, and I have given it this one." I put the block in a reader on her desk. "Read it the nine names and dates."
+
+She capped her pen and read them aloud, slowly and all of them, the way she read to clients. By the time she reached the ninth name, a list had filled the reader's screen.
+
+The order was not hers. It had moved two names ahead of where she had put them, and she ran her pen down the list against the terms in her folder and checked those two twice.
+
+"It is right," she said. "Both times." She looked at the screen and not at me. "Nobody told it which two."
+
+"No. It sets the order itself. That is the work it has."
+
+She turned to the service contract, found a clause, and read it to the block. Then she asked what the clause meant. The list stayed where it was. One line appeared under it saying the question was outside its task, and nothing else came.
+
+"It will not answer outside its task," I said. "Nothing you read to it will teach it a new one, because a new task has to be given to it. Is that enough, or do you need more?"
+
+"Not yet." She set the pen across the page. "What will it not do on its own?"
+
+"Rebuild the whole schedule at once. If it is ever told to, it waits for a human to validate that first."
+
+"Who?"
+
+"You."
+
+"Then I will want that written down." She uncapped the pen, dated a clean page, and wrote the first line of the procedure: any rebuild of the schedule is validated by Helen Marchetti, in writing.
+
+She did not ask where the design came from, and I did not say.
 
 ---
 
@@ -98,7 +128,7 @@ When Vance woke from the pod, he could breathe to the bottom of his chest. His b
 
 His first order was to send for Ashby, a radio technician he had found after the trenches, because someone had to hold the radio. He bought a green notebook at the hospital gift shop that afternoon, with the first cash he had carried in a year, and began to write down every site and every threat to it.
 
-**Winter 2051 to spring 2052.** He brought in the first squad of fighters that winter. In the spring, a few months before Byron Pyrrus signed, he added a second squad.
+**Winter 2051 to spring 2052.** He brought in the first squad that winter. In the spring, a few months before Byron Pyrrus signed, he added a second squad.
 
 In the spring he also brought in three intelligence staff, who read court dockets to find the people who might one day buy treatment from Janus.
 
@@ -188,9 +218,9 @@ She looked at him until she saw it was true and that he would say nothing more. 
 
 She wrote it down. Then she asked whether she could retrain the door crew her own way, and he said yes without a pause. By Friday it was done. That evening she took a sheet of paper from the drawer, folded it in thirds, and wrote the date at the head of the first line. *Why does he stand at the edge of every room?* She had decided not to ask him.
 
-**June 2056.** The front desk log for May ran to eleven pages. Hannah read it standing at the desk, the way she read every month’s.
+**June 2056.** The desk's Dumb AI had compiled the front desk log for May into eleven pages, and a clerk had validated it. Hannah read it standing at the desk, the way she read every month’s.
 
-Two hospital chains had asked for inspections, a pharmacists’ guild had filed a complaint, and an insurance board wanted patient records. A European health ministry had asked to visit. Reporters from four countries had phoned to ask who owned the clinic. Marseille and Singapore were getting the same letters, and the clerk had pinned a note on the board saying so. Every request had been answered with a form letter, and none of them had come back.
+Two hospital chains had asked for inspections, a pharmacists’ guild had filed a complaint, and an insurance board wanted patient records. A European health ministry had asked to visit. Reporters from four countries had phoned to ask who owned the clinic. Marseille and Singapore were getting the same letters, and the clerk had pinned a note on the board saying so. Every request had been answered with a form letter that the desk's Dumb AI drafted and the clerk validated, and none of them had come back.
 
 She took the log down the back corridor. Her father was under the pipe above the east wing door, working a valve that had dripped since April. Kenji stood at the far end with one hand on the door frame, and his two quiet men stood beside him.
 
@@ -214,7 +244,7 @@ Her father had stopped turning the wrench. He did not look round. “A man doesn
 
 “Or what he’d gain,” Kenji said. “A government that closes a clinic gets an empty building. The line outside it moves to the next country. Most ministers can count that.”
 
-Hannah turned a page of the log. “Oyama is going to put robot arms and exoskeletons on the market next year. I read the trade notice. Dock crews will lose jobs, and the unions will want to know why. Where are the talks for that?”
+Hannah turned a page of the log. “Oyama is going to put robot arms on the market next year. I read the trade notice. Dock crews will lose jobs, and the unions will want to know why. Where are the talks for that?”
 
 “Those started this spring, in the same countries. The terms are different, and I can’t tell you what they are.”
 
@@ -290,19 +320,27 @@ His employer read the last page standing at his desk. He took a long time over t
 
 ### *Cleveland and Toledo, January 2056*
 
-**January 2056.** A man in an unpowered steel frame lifted a crate that no one man could lift. It was stenciled 310 LB. He took it off the floor of the test yard, carried it twelve paces at chest height, and set it on a truck bed. The frame's joints ticked as they took the weight. The man inside did not breathe any harder than he had before.
+**January 2056.** A man in a gray Gundarium suit stepped off a four-meter platform onto the concrete of the test yard and did not break stride. The fluid struts in the legs took the landing with a dull thump. He walked twelve paces to the buyers' stand and did not breathe any harder than he had before.
 
-The director watched from the buyers' stand with his arms folded. He had sat on Oyama's board for eleven years. In three weeks the board would vote on who held the chair, and he wanted it. Anthony Strauss held it now, and had held it since the old man died more than three years ago. The director needed something to put in front of the board. So far he had a feeling and nothing else.
+The director watched from the stand with his arms folded. He had sat on Oyama's board for eleven years. In three weeks the board would vote on who held the chair, and he wanted it. Anthony Strauss held it now, and had held it since the old man died more than three years ago. The director needed something to put in front of the board. So far he had a feeling and nothing else.
 
-A dozen buyers from four countries stood along the rail. One of them, a port official with a notebook, asked what a frame cost. Strauss gave a price per unit, delivered, and a shipping date. The official wrote the price down twice.
+Strauss stood at the far end of the rail with a buyer's card pinned to his lapel, like the rest. Oyama made no suits. The director could not think why its chairman wanted one.
 
-“It lifts five times what a man can lift alone,” Strauss said. “The load goes down through the legs, so the man inside carries almost none of it. It will not lift a container.”
+Military representatives from the UNAS, the European Union, and the Russian Federation stood along the rail with notebooks, and a port official from a fourth country stood among them. A vice president from Pellam Field Systems ran the demonstration from a lectern. He called the suit the Armored Exoskeleton Mechanical Suit, or AEMS.
 
-“Can it be copied?”
+“A hundred and fifty-five kilos of plate,” he said. “The linkages carry it, so the man inside feels nine. It stops a fifty-caliber round. It has no motor, so it runs on his legs.”
 
-“You could try. Take one apart and see how far you get.” There was no edge in it. “I would rather you ordered forty by the first of October.”
+A Russian officer asked whether it could be copied.
 
-Across the yard, inside a roped square, Strauss's own security men were sparring in frames. Two pairs of them, steel hands closing on steel forearms. One man was thrown onto his back with a bang that rattled the stand. He rose and went in again. They moved as a squad, with no wasted step, and the director had seen plant guards and hired security firms. He had never seen men trained like that. He wrote *not factory men* in the margin of his program.
+“You could try. Take one apart and see how far you get.” There was no edge in it. “For buyers who want a motor, there is the battery variant.” He nodded at a second suit beside the platform. It rose off the concrete on two small jets and held at ten meters. “The Armored Exoskeleton Powered Suit, battery variant, the AEPS-BV. Forty-eight hours a charge. Our field charger, the CFCS, fills it in forty-five minutes from a case one man carries.”
+
+The European officers wrote that down. At the end of the rail Strauss said, “Per AEMS, delivered. And a date for the first forty.” The vice president named a price and said mid-October.
+
+“The first of October,” Strauss said.
+
+“The first,” the vice president said, and wrote it down.
+
+Across the yard, inside a roped square, Pellam's demonstration team was sparring in suits. Two pairs of them, gray gauntlets closing on gray forearms. One man was thrown onto his back with a bang that rattled the stand. He rose and went in again. They moved as a squad, with no wasted step, and the director had seen plant guards and hired security firms. He had never seen men trained like that. He wrote *not factory men* in the margin of his program.
 
 **Nineteen days later.** The records clerk at the hospital in Toledo made him a copy of the death certificate once he showed his board card. It was one page. *Byron Pyrrus. Lung cancer. July 2052.* It gave the day and the hour. Under *Disposition* it said *Cremated*, and under *Next of kin* it said *Anthony Strauss, son (adopted).*
 

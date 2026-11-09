@@ -49,3 +49,7 @@ Name, age, health, and committee are placeholders. Items marked **(decision)** a
 - No stump slogans, no "my fellow," no "sugar," no belle theatrics.
 - No warmth toward Kenji she has not earned.
 - No jokes about health, and no admitting the heart.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Main-cast recruit in the early POV pool. A2 POV: A2.5.

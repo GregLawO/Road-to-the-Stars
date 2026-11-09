@@ -51,3 +51,8 @@ Items marked **(decision)** are invented gap-fills.
 - Never "I'm worried sick," "my baby," or "You can tell me anything."
 - No deducing a secret aloud, and no comfort speeches.
 - She names what she saw, not what it means.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Early POV pool, but no POV in A2 or A3. Appears in scenes only.
+- **Honesty.** 4 of 5.

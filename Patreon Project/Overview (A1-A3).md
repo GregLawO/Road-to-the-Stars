@@ -20,7 +20,9 @@ No character knows he is a transmigrator, and none ever learns how he knows what
 
 - **Recruits.** Vance, then Ashby, then the lawyers (October 2051), then a larger team, then Byron Pyrrus, owner of Oyama Industries (July 2052). Later Danny Shepard (autumn 2052) and Senator Eleanor Whitcombe (February 2053), who leads the organization's political factions.
 - **Main cast.** Byron, the lawyer Helen Marchetti, and Whitcombe are main cast. Names and details are placeholders.
-- **Oyama.** Builds the Primitive Med-Pods (Kenji builds none), L1 to L3 robots, L1 powered suits, Tokamak reactors, L1 anti-gravity, and Gundarium Alpha. It is Cerberus's first target.
+- **Oyama.** Builds the Primitive Med-Pods (Kenji builds none), L1 to L3 robots, Tokamak reactors, L1 anti-gravity, and Gundarium Alpha. It is Cerberus's first target.
+- **Pellam Field Systems.** Run by Anthony Strauss. Builds the AEMS and AEPS-BV suits, the BMUS, and the CFCS.
+- **Dumb AI (author ruling, 9 November 2026).** From A2.6 (December 2053) almost everything the Foundation uses has a Dumb AI assistant: administrative AI in the clinics, design and production AI in the yards, and navigation and ship-status AI on ships, which can also fly the ship if needed. Human members mostly validate, by signature. Med-Pod AIs are exempt.
 - **Fronts.** Three clinics through the Janus Foundation: Galveston, Marseille, and Singapore, opened summer 2053. They sell cloned organs pre-approved through the political faction.
 
 ## The 2059 bombing and the 2065 withdrawals

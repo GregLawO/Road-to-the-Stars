@@ -47,7 +47,7 @@ Then, in the 2060s, ships appeared that could cross to another star in days. The
 
 *A2c:* A2.11 Kenji (36), February 2056 (the four fronts). A2.12 Byron Pyrrus as Strauss (68), 2057 (the drive and the hulls). A2.13 Hannah (26), autumn 2057 (the quay and the first dinner). A2.14 Kenji (38), January 2058 (the Moon and the ring). A2.15 the Rival, early 2058 (the flush). Batch ends on: a pen held over an order for a bomb. Echo: the blank owner line (A2.12, A2.13).
 
-*A2d (drafted):* A2.16 Hannah (27), June 2058 (the wedding). A2.17 Kenji (39), March 2059 (the review and the bomb). A2.18 Marchetti (60), March 2059 (the first calls). A2.19 Kenji (39), the same night (the foundation meets). A2.20 Vance, the days after (the staff plan). Batch ends on: a fighter waiting on the line for what Vance will tell Hannah. Held, not in the current A2 plan: Emil Varga (2065, Lisbon docks) and Colm Farrady (2065, the eleven-month-old firm).
+*A2d (drafted):* A2.16 Hannah (27), June 2058 (the wedding). A2.17 Kenji (39), March 2059 (the review and the bomb). A2.18 Marchetti (60), March 2059 (the first calls). A2.19 Kenji (39), the same night (the foundation meets). A2.20 Vance, the days after (the staff plan). Batch ends on: a operator waiting on the line for what Vance will tell Hannah. Held, not in the current A2 plan: Emil Varga (2065, Lisbon docks) and Colm Farrady (2065, the eleven-month-old firm).
 
 ### A3. Cheap Hands and Angry Ones
 

@@ -49,3 +49,13 @@ Items marked **(decision)** are invented gap-fills, open to overrule.
 **4. Dialogue Traps (What to Avoid).**
 - Never "We need to talk," "How could you?", "I deserve the truth," "I feel like," "boundaries," "I trust you," or "I forgive you."
 - No therapy words and no explaining her own feelings.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Honesty.** 4 of 5.
+- **Her list.** The list of questions she chose not to ask stays secret. It is shown only inside her head.
+- **Kenji and Hannah (A2b and A2c).** Every Hannah-and-Kenji micro-chapter (A2.8, A2.13, A2.14, A2.16) has at least one scene where the two talk, and something between them is different by the end. The change shows in what they say and do, not in what an object means. Kenji tells her no false thing (the A2.14 promise).
+- **The two Level 5 droids.** She takes them for men until spring 2060.
+- **Her firm (decision).** She leaves complex security after the 2059 bomb and founds a private firm in 2060.
+- **Rank (open).** The outline says "Navy lieutenant" in 2054, but A1.1 has her on a single gold stripe in 2053. Avoid the rank in A2.8.
+- **POV in A2.** A2.8 and A2.13. No fixed count of her POV chapters for now (author, 7 November 2026).

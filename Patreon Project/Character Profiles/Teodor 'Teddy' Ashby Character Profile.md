@@ -23,7 +23,7 @@ Items marked **(decision)** are invented gap-fills.
 - **Prior relationships.** Owes Vance, who found him after the trenches, Kenji for the treatment that fixed his knee and lungs, and the squad.
 
 ## 4. Story Role & Stakes
-- **Function.** Author-built locked character; no POV in the current A2 outline. Recruited autumn 2051, a few months after Vance, as Kenji's radio and communications man; one more network engineer joins him autumn 2052 (decision). Serves for life. Conditioned from the start of his service. He and Vance guard Kenji, including when Kenji recruits the lawyers (October 2051), until the two Level 5 guards are finished in summer 2053. Does not know who is behind the network or why.
+- **Function.** Director of Communications for the Foundation (author ruling, 9 November 2026). Author-built locked character; no POV in the current A2 outline. Recruited autumn 2051, a few months after Vance, as Kenji's radio and communications man; one more network engineer joins him autumn 2052 (decision). Serves for life. Conditioned from the start of his service. He and Vance guard Kenji, including when Kenji recruits the lawyers (October 2051), until the two Level 5 guards are finished in summer 2053. Does not know who is behind the network or why.
 - **External conflict.** A drive that gives him nothing to hear.
 - **Stakes.** A machine he approved failing and killing people.
 - **Arc.** He reports every fault in writing at once, even when no one wants to know, and says "all right" and keeps listening when told not to worry. He teaches others to listen and reads the squad's names aloud on the day they died.
@@ -49,3 +49,8 @@ Items marked **(decision)** are invented gap-fills.
 **4. Dialogue Traps (What to Avoid).**
 - Never "it's fine," "don't worry," or "trust me" about anything he has not heard.
 - No information dumps, no sound metaphors, no "I froze," no jokes about the squad.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Born 2030, first appears in A2.2. Early POV pool, Author-built and locked.
+- **Honesty.** 4 of 5.

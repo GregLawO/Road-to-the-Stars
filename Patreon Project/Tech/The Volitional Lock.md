@@ -76,7 +76,6 @@ The lock is set at first treatment, but the people on each tier change. The Lead
 
 - **One shared list, one personal list.** Tier 1, Tier 3, and the roster of Tier 4 peers are the same for every member. Tier 2 is personal to each member.
 - **Updates ride on follow-up treatments.** Members already return for follow-up treatment for as long as they serve. At each one the lock is refreshed. The shared lists are brought up to date, and the member's own Tier 2 is rewritten to match their family now.
-- **Renewal.** A member who signs a new term is refreshed at the same visit.
 - **The gap.** Between visits, the lock holds the last list it was given. A new Tier 1 person is not yet protected by the default, and a new recruit is not yet a peer. The betrayal block is not affected, because it protects the organization as a whole and not a list of names.
 
 ## IV. BEHAVIORAL INTERFACE

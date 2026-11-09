@@ -80,7 +80,7 @@ At the back door the man in the gray coat raised his glass.
 
 ### *Galveston, 2059*
 
-**March 2059.** The handover board in the dock office had one row with no name on it. Every other row gave a day, a time, a carrier, a driver, and a signature. This one said Thursday, 5:30 to 5:35 a.m. The carrier was filled in and the driver's box was blank.
+**March 2059.** The dock office's Dumb AI kept the handover schedule, and the wall board showed it. One row had no name on it. Every other row gave a day, a time, a carrier, a driver, and a signature. This one said Thursday, 5:30 to 5:35 a.m. The carrier was filled in and the driver's box was blank, and a shift lead had validated the row anyway.
 
 Marchetti stood in front of it in her good heels, with the annual review on a clipboard. She had told me that morning that she did not sign for a place she had not stood in. Her pen came off its cap and went back on.
 
@@ -94,19 +94,19 @@ Marchetti stood in front of it in her good heels, with the annual review on a cl
 
 She looked at the dock door and then at the board. She did not ask what a droid could do from inside. "I will not sign the review without a line about that row. I will write that it is moved and still open, and the date it was moved."
 
-"I'll move it tonight. The handover goes to Friday, and the new roster reaches the posts at six tomorrow morning." I squared the board against the wall. "Is that enough, or do you need more?"
+"I'll move it tonight. The handover goes to Friday, the AI rebuilds the roster, I validate it, and it reaches the posts at six tomorrow morning." I squared the board against the wall. "Is that enough, or do you need more?"
 
 "It is enough to sign against. I will not call the row closed." The pen stopped. "I have a second question. If someone takes this clinic, what happens?"
 
-"Nothing leaves. A pod taken from its guards destroys its own core. The designs belong to the foundation, and the foundation is you. What would be left is a building."
+"Nothing leaves. A pod taken from its guards destroys its own core. The foundation holds the designs, and you are its trustee. What would be left is a building."
 
 "And the people in the building?"
 
-"I don't know." I had never said that to her before.
+"Vance writes a staff plan. Night counts, one exit per wing, a named person for everyone in the building. You will hold it in writing by the thirty-first."
 
-She wrote nothing down. "Then that is the line I will want a plan for. Next year, with a date." She signed the review, wrote her own line above her name, and left the pen capped on the clipboard.
+She wrote nothing down. "Then that is the line I will write: the plan, and the thirty-first. I will not call it done until I hold it." She signed the review, wrote her own line above her name, and left the pen capped on the clipboard.
 
-I rubbed out Thursday and wrote FRIDAY across the row. Then I read the Thursday posts once more: the gate guard, the lamp contractor's visit, the dock hand.
+I told the AI to move the row and validated the new roster on its screen. Then I rubbed out Thursday and wrote FRIDAY across the board. Then I read the Thursday posts once more: the gate guard, the lamp contractor's visit, the dock hand.
 
 That night I gave the new roster to the shift leads at nine, one at a time, and made each of them say the new hour back to me. Nobody else heard it. I went home after midnight and slept four hours.
 
@@ -168,7 +168,7 @@ Helen set the pen down and laid both hands flat on the review. She wrote the tim
 
 "Then whoever sent it knew the old row and had not heard it was moved." She wrote that down. "Who was on the gate?"
 
-"The stool was empty. The roster has a man on it, and his coffee cup was gone."
+"The stool was empty. The roster has a man on it, validated and signed, and his coffee cup was gone."
 
 "A member?"
 
@@ -176,7 +176,7 @@ Helen set the pen down and laid both hands flat on the review. She wrote the tim
 
 "And the lamp over the car park?"
 
-"Out eleven days. Three work orders, each one closed as done by the contractor."
+"Out eleven days. Three work orders, each one closed as done by the contractor and validated without anyone going out to look."
 
 She wrote *stool, lamp, driver* and drew a line under the three words. "Did any equipment fail?"
 
@@ -216,7 +216,7 @@ She dialed the last number on the officers' list in her desk. Himura answered hi
 
 At nine that morning the attendant at the front desk of her firm called her. The foundation's line rang there, and a deputy from the county sheriff's office had just used it. He had asked the attendant for the employer of Daniel Shepard, deceased, for the record of death, and said the name Janus was on a pay stub in the dead man's wallet. He had left a number to call back. Helen told her to say the foundation would answer by noon on Friday, to give no name, and to write down the deputy's name.
 
-She did not need the file. She had drafted Danny Shepard's seven-year contract herself, in the autumn of 2052, and the employer line named the Janus Foundation, as it did for Vance and every fighter he had brought in. Nobody outside the foundation knew she was its trustee. The deputy had spoken only to a front desk and asked for Janus, and Janus was about to go onto a county record.
+She did not need the file. She had drafted Danny Shepard's service contract herself, in the autumn of 2052, and the employer line named the Janus Foundation, as it did for Vance and everyone he had brought in. Nobody outside the foundation knew she was its trustee. The deputy had spoken only to a front desk and asked for Janus, and Janus was about to go onto a county record.
 
 ---
 
@@ -232,7 +232,7 @@ Marchetti dated the pad aloud. "The trustee calls this meeting of the Janus Foun
 
 "I'll start with the stool." I squared the photograph. "The man on it was hired. He was never a member, and members don't sell their posts. He did. We stop hiring outsiders for posts. We bring in more members."
 
-Vance spoke first. "Listen. Forty fighters hold nine posts, four to a post, around the clock. That leaves four for everything else. We filled the outer ring with hired hands because there was nobody else to put there, and I signed those rosters."
+Vance spoke first. "Listen. Forty of us in battery suits hold nine posts, four to a post, around the clock. That leaves four for everything else. We filled the outer ring with hired hands because there was nobody else to put there, and I validated those rosters."
 
 "I ordered it," I said. "We were short, and I would not wait for more members. That one is mine."
 
@@ -244,7 +244,7 @@ He took a slow breath through his nose. "Then give me the guard, the lamp man, a
 
 Ashby did not look at me. "The equipment was sound. Every channel was clear until it went white. The failure was people." He was looking at the photograph, at FRIDAY in my handwriting. I had moved the row a day too late, and he meant me as well.
 
-Marchetti uncapped her pen. "I have three demands. Every hired hand on every site is listed by name, with who engaged him, and I hold the list. No foundation money goes to new guards until I hold the staff plan in writing. And the death record. The employer is the Janus Foundation, and I am its trustee. Hannah will read that line."
+Marchetti uncapped her pen. "I have three demands. Every hired hand on every site is listed by name, with who engaged him, and I validate the list and hold it. No foundation money goes to new guards until I hold the staff plan in writing. And the death record. The employer is the Janus Foundation, and I am its trustee. Hannah will read that line."
 
 "Write what is true. Janus paid him."
 
@@ -284,11 +284,11 @@ Neither of us said more. I put both hands flat on the table.
 
 ### *Houston, the days after*
 
-The gate roster lay on Vance's knee, open to the Thursday page. Beside the fourth line stood a small pencil tick. He had put it there three weeks ago, when he checked the stool and the man on it answered to his name.
+The gate roster, printed from the roster AI, lay on Vance's knee, open to the Thursday page. Beside the fourth line stood a small pencil tick. He had put it there three weeks ago, when he checked the stool and the man on it answered to his name.
 
 He sat alone in the warehouse office east of the city, past midnight, with one lamp on the desk. Marchetti wanted the staff plan in her hands before Danny's funeral. Kenji had given him the hunt. Both started tonight.
 
-He took a slow breath through his nose and began with the plan, because the plan could be written. One count of the night staff at every shift change. One exit for each wing, with a name posted at it. Nobody left in a building without a person whose job was to know they were there. He wrote it in pencil on one page and did not read it back.
+He took a slow breath through his nose and began with the plan, because the plan could be written. One count of the night staff at every shift change. One exit for each wing, with a name posted at it. Nobody left in a building without a person whose job was to know they were there. One CFCS charging case at every post, and a count of the AEPS-BV suits plugged into it at every shift change. He wrote it in pencil on one page and did not read it back. The roster AI would turn the page into shifts once Marchetti validated it.
 
 The meeting came back in pieces while he wrote.
 
@@ -296,9 +296,9 @@ Ashby had said the failure was people. He had not said it to anyone's face, and 
 
 Strauss had asked why the droids were inside the fence. Vance had said nothing. He had watched those droids on the night rounds for six years, and they moved the way he moved. They had been forty paces from the dock, and they had moved right, and it had not mattered.
 
-He stopped writing and put his hand in the pocket of the gray coat. The tags from his old squad lay at the bottom, where they always were. He knew how to hold a gate against men with guns. A stool, a lamp, and a van on the wrong day had been bought with paper he could not see, and he had signed the roster that put the man on the stool.
+He stopped writing and put his hand in the pocket of the gray coat. The tags from his old squad lay at the bottom, where they always were. He knew how to hold a gate against men with guns. A stool, a lamp, and a van on the wrong day had been bought with paper he could not see, and he had validated the roster that put the man on the stool.
 
-**Friday afternoon.** He started with the stool, because it was his. He rang the guard's number and it rang out. At one he sent two fighters to the man's flat. They called back at three.
+**Friday afternoon.** He started with the stool, because it was his. He rang the guard's number and it rang out. At one he sent two operators to the man's flat. They called back at three.
 
 "Bed's made," one of them said. "His duffel is gone. The mail on the mat hasn't been touched since Monday."
 
@@ -310,7 +310,7 @@ He stopped writing and put his hand in the pocket of the gray coat. The tags fro
 
 Then he turned the roster on his knee until the tick was under the lamp. The man was gone. The tick stayed where he had made it.
 
-The second phone on the desk buzzed. It was the guard at Hannah's door, a fighter he had trained himself.
+The second phone on the desk buzzed. It was the guard at Hannah's door, an operator he had trained himself.
 
 "Gunny. She's awake. She hasn't asked for anyone. She asked me one thing."
 

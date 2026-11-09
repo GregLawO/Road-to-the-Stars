@@ -23,8 +23,8 @@ Name and rank are placeholders. Items marked **(decision)** are invented gap-fil
 - **Prior relationships.** Owes Kenji for his lungs and years, and the men of his old squad. Brings in Ashby.
 
 ## 4. Story Role & Stakes
-- **Function.** Main-cast POV (A2.7 ledger, A2.20, A3.1). First recruit and first leader of the network; Kenji's security detail. He taught Kenji where to sit in a room.
-- **Facts.** Summer 2051 in the hospice he trades his memories for treatment; the copy becomes the droids' fighting style, and only Kenji and Vance know. Brings in Ashby, whom he found after the trenches, expands the team twice before Byron (four fighters in winter 2051, four more plus three intelligence staff in spring 2052; fighters wear Level 1 frames). Walks behind Kenji with Ashby until the two Level 5 guards are finished in summer 2053. Recruits Danny in 2052 and writes his death in the green book in 2059. Hears "Cerberus" from Marchetti the night the operative names it (A2.18, 2060). Conditioned from the start (author ruling, 5 November 2026).
+- **Function.** Main-cast POV (A2.7 ledger, A2.20, A3.1). First recruit and first leader of the network; Kenji's security detail. He taught Kenji where to sit in a room. Office: Chief Security Officer of the Foundation (author ruling, 9 November 2026).
+- **Facts.** Summer 2051 in the hospice he trades his memories for treatment; the copy becomes the droids' fighting style, and only Kenji and Vance know. Brings in Ashby, whom he found after the trenches, expands the team twice before Byron (four operators in winter 2051, four more plus three intelligence staff in spring 2052; operators wear Level 1 frames). Walks behind Kenji with Ashby until the two Level 5 guards are finished in summer 2053. Recruits Danny in 2052 and writes his death in the green book in 2059. Hears "Cerberus" from Marchetti the night the operative names it (A2.18, 2060). Conditioned from the start (author ruling, 5 November 2026).
 - **External conflict.** Cerberus, who attack through paper he cannot defend against; he opens a file on Brooks after the October 2061 forged letter.
 - **Stakes.** Losing the people he trained to a threat he never saw coming.
 - **Arc.** He finds exits and the best position before he sits, puts himself between danger and those in his care, and asks to see the site before guarding anything. He teaches anyone who asks and stays until the last person is out.
@@ -50,3 +50,13 @@ Name and rank are placeholders. Items marked **(decision)** are invented gap-fil
 **4. Dialogue Traps (What to Avoid).**
 - No "oorah," "locked and loaded," "boots on the ground," or lectures on tactics.
 - No cleverness about money or law, and no remark about the dead.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Gunnery Sergeant Dominic Vance, USMC, retired. Locked recurring OC and main cast, in the early POV pool. POV in A2.7 (dated ledger, 2051 to summer 2053), A2.20 (the days after the 2059 bomb), and A3.1 (2062). No fixed limit applies to his POV chapters (author, 8 November 2026).
+- **Want.** His chapters carry a want too, though he is main cast and not an exposition slot.
+- **A3.1 gestures.** A3.1 must match every gesture of the published A1.5: gray coat in July, the quarter-turned chair, the four-second pause, the hidden sidearm.
+- **Network history.** First recruit (summer 2051). Brings in Ashby in autumn 2051; the two are Kenji's security detail when Kenji recruits the lawyers. Expands the team twice before Byron (July 2052). Stops walking behind Kenji when the two Level 5 guards are finished (summer 2053).
+- **Conditioning.** Conditioned from the start of his service (author ruling, 5 November 2026). Only the Shepards are not conditioned.
+- **Secret.** Only Kenji and Vance know his memories became the droids' fighting style.
+- **Honesty.** 4 of 5.

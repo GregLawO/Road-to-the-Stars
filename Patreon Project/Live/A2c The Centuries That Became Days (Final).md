@@ -24,7 +24,7 @@ Marchetti wrote on the licenses. All three clinics held licenses she had negotia
 
 Strauss wrote on Oyama. The Cleveland plant was running full shifts, and the arrays took in every ton of scrap that reached the gate. He named January of 2058 as the month Oyama could begin selling Primitive pods to the public. His last line read: *Nine thousand people work here and none of them has been told who draws the designs.*
 
-Vance wrote on the platoon. Forty fighters and the droid squads stood at the three clinics and the warehouse, and every post was covered. His last line read: *Every one of them goes home at night to somebody.*
+Vance wrote on the platoon. The platoon of forty and the droid squads stood at the three clinics and the warehouse, and every post was covered. His last line read: *Every one of them goes home at night to somebody.*
 
 Ashby wrote on communications. The lines between sites ran on data crystals that no one could tap. His last page was about November.
 
@@ -42,9 +42,9 @@ She read the line twice. "It is enough. Commercial is Mr. Strauss's."
 
 Strauss turned the steel ring on his finger. "Oyama can bury a rival in orders by Monday. Or starve him of parts by Wednesday." He looked at me and not at the table. "Tell me which, and I'll have the trucks moving."
 
-"Financial is Marchetti's. The foundation holds every term and every design."
+"Financial is Marchetti's. The foundation holds every contract and every design."
 
-Marchetti capped her pen. "And nothing moves without my signature. I would like that entered in the minutes of this meeting, with the date." She waited until the woman beside her had written it down. "Press goes to him," I said. A man across the table, who owned two newspapers and a wire service, lifted two fingers from the wood. "Give me a day and a story," he said, "and I'll give you the page."
+Marchetti capped her pen. "And every transfer carries my signature. I would like that entered in the minutes of this meeting, with the date." She waited until the woman beside her had written it down. "Press goes to him," I said. A man across the table, who owned two newspapers and a wire service, lifted two fingers from the wood. "Give me a day and a story," he said, "and I'll give you the page."
 
 A woman halfway down the table had not touched her pen. "If someone follows one of the clients home, they have us. Not one of them lives behind a locked gate."
 
@@ -64,7 +64,15 @@ Whitcombe had not looked at the sheet since I put it in front of her. She was lo
 
 "Well. I find nothing wrong with the paper, the money, the plants, or the newspapers, which is why I would like to ask about the one thing that sits on none of the four." She let a breath go by. "Your staff, Mr. Himura. The nurse the doctor offered money to in November, and the drivers, and the clerks. Who protects them when they go home at night?"
 
-Nobody at the table spoke. I had four fronts and an owner for each of them. Not one of the four covered the people who worked for us.
+Nobody at the table spoke. I had four fronts and an owner for each of them, and none of the four covered the people who worked for us.
+
+"Vance drafts a staff plan," I said. "Night counts, exits, and a named person responsible for everyone on a shift. You and Marchetti get it in writing."
+
+"And until then?"
+
+"Until then they are not covered." I squared the sheet against the table edge.
+
+"Then I will ask again at the next meeting." She settled her glasses back onto her nose.
 
 ---
 
@@ -74,41 +82,37 @@ Nobody at the table spoke. I had four fronts and an owner for each of them. Not 
 
 **February 2057.** Byron sat at Kenji Himura's side at the long table in the Houston office, with the drive drawings spread in front of them both, and turned his steel ring on his finger as he read. Across the top of the first sheet it said GRAVITIC DRIVE. Below that were a flat ring of coils around a core, a mounting plate, and a column of figures down the margin in Himura's square capitals.
 
-"It lifts a hull and moves it," Himura said. "The sleds Oyama builds are the small version. They lift a load a short way and burn a great deal of power doing it. This is the one we keep. Which part do you want first?"
+"It lifts a hull and moves it," Himura said. "The sleds Oyama builds are the small version. They lift a load a short way and burn a great deal of power doing it. This is the one we keep. Oyama builds the shuttle first, fifty meters, then a starship. Start with the keel."
 
-"Skip the sleds. How big a hull?"
-
-"The shuttle first, fifty meters. A starship after that."
+"Skip the sleds."
 
 Byron followed the figures down the margin with one finger. In forty years he had never built anything that left the ground. He did not ask where Himura had learned this. He had stopped asking in the first week.
 
 "What does each part cost?"
 
-"The coils and the core come out of the arrays, so they cost power and time, not money. The reactor is a tokamak, and that's yours. The plates are the same materials NASA built its shuttles from, cast in sections. Gundarium Alpha comes later, when we have a yard in orbit."
+"The coils and the core come out of the arrays, so they cost power and time, not money. The reactor is a tokamak, and that's yours. The plates are the same materials NASA built its shuttles from, cast in sections. The skin is Gundarium Alpha from your drum."
 
 "Cast where?"
 
-"Cleveland. The keel sections are bigger than any press has cast, and yours is the closest." Himura squared the sheets against the table edge. "I can draw the section. I can't tell you what your press can cast. Can it?"
+"Cleveland. The keel sections are bigger than any press has cast, and yours is the closest." Himura squared the sheets against the table edge. "I've drawn the section. Cast it there."
 
 Byron knew the Cleveland press. It cast the pod lids, and it was the only one in the country big enough for those. "That's a drawing. How long is the section?"
 
 "Longer than the bed."
 
-"Then you're asking the wrong question. What has to change, the press or the section?" He did not wait for the answer. "The section. Cast it in three and join it. Can it be joined?"
+"Then Cleveland can't cast it whole, and I won't ask it to. I'd cast it in three and join it. Can it be joined?"
 
 "Yes."
 
 "Then it's three castings back to back." The press shut for its rebuild on the first of July and would not be back until October. Any plate not cast by then would wait the autumn. "I need the patterns ordered in two weeks and the press booked for June. Tuesday for the patterns would be better than Wednesday."
 
-"What do you need from me?"
-
-"Your signature on the order. Today, not Friday."
+"Do it. Patterns on Tuesday, the press booked for June. I'll sign the order today."
 
 Himura took the pen.
 
 **June to December 2057.** The three keel castings came off the press in the third week of June, nine days before the shutdown. Byron stood beside the bed and watched the last one cool. He rode with them to the yard on the flatbed.
 
-The yard lay on the Gulf behind a double fence. Himura's security droids walked the fence at night, loud and clanking, and the crews had stopped looking up at them by the second week. Cranes and robot arms moved plate along the slips. The keel of the starship went down on the long cradle, three castings joined, and the crews began to raise ribs. On the shorter cradle beside it the shuttle took shape, fifty meters of frame, then skin.
+The yard lay on the Gulf behind a double fence. Himura's security droids walked the fence at night, loud and clanking, and the crews had stopped looking up at them by the second week. Cranes and robot arms moved plate along the slips. The yard's design AI checked every joint against Himura's drawings, and its production AI scheduled the plate and the crews. The keel of the starship went down on the long cradle, three castings joined, and the crews began to raise ribs. On the shorter cradle beside it the shuttle took shape, fifty meters of frame, then skin.
 
 A foreman stopped him at the foot of the gantry in August. "What's it for, Mr. Strauss? The ship."
 
@@ -120,9 +124,11 @@ A foreman stopped him at the foot of the gantry in August. "What's it for, Mr. S
 
 "Still good in September."
 
-His knees did not hurt on the gantry ladder. He climbed it every morning to look at the work, and he came down at night to read the day's count. He had run Oyama for forty years and never watched anything he built leave the ground. The night the drive ring was set, he stood on the gantry with both hands flat on the rail. The ring hummed for the first time, and he felt it in the steel under his boots.
+He had worn a Pellam BMUS liner under his coveralls since June. By the end of a ten-hour day on the slips his back should have ached the way it had at sixty, and it did not. He asked the yard foreman what a liner cost per man and wrote the figure in his pocket book.
 
-The shuttle was finished in December. A yard clerk brought him the registration card on a clipboard. Oyama's name stood at the top, and below it were lines for the builder and the owner. Byron signed on the builder's line: *Anthony Strauss.*
+His knees did not hurt on the gantry ladder. He climbed it every morning to look at the work, and he came down at night to validate the day's count. He had run Oyama for forty years and never watched anything he built leave the ground. The night the drive ring was set, he stood on the gantry with both hands flat on the rail. The ring hummed for the first time, and he felt it in the steel under his boots.
+
+The shuttle was finished in December. A yard clerk brought him the registration card on a clipboard. The yard's Dumb AI had printed it, and the clerk had validated it. Oyama's name stood at the top, and below it were lines for the builder and the owner. Byron signed on the builder's line: *Anthony Strauss.*
 
 The owner's line was empty.
 
@@ -140,7 +146,7 @@ Byron looked at the empty line. In forty years he had never signed a card that d
 
 ### *Galveston, autumn 2057*
 
-**Autumn 2057.** Hannah laid her father's tape along the lid of the crate and read the number twice before she would sign for it. The tape was steel and yellow, its brass tip worn flat, and it had measured every door in the clinic. The length matched the custody sheet. She measured the width, and it matched too.
+**Autumn 2057.** Hannah laid her father's tape along the lid of the crate and read the number twice before she would sign for it. The tape was steel and yellow, its brass tip worn flat, and it had measured every door in the clinic. The length matched the custody sheet the clinic's Dumb AI had drawn up. She measured the width, and it matched too.
 
 The clinic had signed for every Primitive pod Oyama built, because the pods belonged to the foundation until they were sold. This crate was the first that would go on to a buyer. The sheet had to be signed before the seven o'clock whistle, or the crate would sit on the quay another day.
 
@@ -148,7 +154,7 @@ Last December three men had come over the dock gate at three in the morning. The
 
 A steel plate on the crate's side carried Oyama's name and a line headed *Designer*. The line was blank. It was blank on every Oyama plate she had seen.
 
-"Jefa." Rafa Ibarra stood at her elbow with a clipboard of his own. He wore a steel frame strapped over his coveralls, hinged at the hip and knee, and the joints ticked when he shifted his weight. "The whistle, jefa. Ya casi."
+"Jefa." Rafa Ibarra stood at her elbow with a clipboard of his own. He wore a Pellam AEMS, a suit of gray plate, over his coveralls, and the leg struts hissed when he shifted his weight. "The whistle, jefa. Ya casi."
 
 "Almost," she said in Spanish. "One minute."
 
@@ -157,6 +163,10 @@ She had known him since her first week on the job. He was the best rigger on the
 "That does the lashing?" she asked.
 
 "A stack in forty minutes." He said it to the arm and not to her. "My crew used to do that in a day."
+
+She nodded at the thick gray liner at his collar. "That's new."
+
+"The BMUS, the under-suit. Pellam sells it with the plate." He pressed a wax cartridge at his hip. "I swap this at the whistle, thirty seconds. Without it I'm finished by noon."
 
 He tapped the flat steel sled at his feet. It floated a hand's breadth above the concrete and did not move. "This lifts two tons for twenty minutes, then it has to rest. Same as me, jefa."
 
@@ -172,7 +182,7 @@ She signed the sheet and gave him the copy. The whistle blew while she was foldi
 
 "I don't know."
 
-"Oyama sells the arms and the frames. Somebody over there knows who it fired."
+"Oyama sells the arms. Somebody over there knows who it fired."
 
 "Somebody should." He turned from the rail. "I'll find out."
 
@@ -220,7 +230,7 @@ She laughed until she had to lean on the car.
 
 I squared the checklist, the flight log, and the pen against the edge of the shuttle's panel, then squared them again. The ring was in my jacket pocket. It had been there since Tuesday, and I had touched it often enough that the steel was warm.
 
-The shuttle stood at the end of the pad on its cradle, fifty meters of dark plate with the hatch open. Strauss's crews had finished it in December, and I had flown it twice with Ashby's range crew. I knew it would hold, as I knew every weld in it. The weather window had opened forty minutes early. I logged that and went on. I had told no one the date, and the shuttle's transponder was off.
+The shuttle stood at the end of the pad on its cradle, fifty meters of dark plate with the hatch open. Strauss's crews had finished it in December, and I had flown it twice with Ashby's range crew. I knew it would hold, as I knew every weld in it. The weather window had opened forty minutes early. I logged that and went on. The shuttle's navigation AI, which could fly the whole trip if I needed it to, had finished its status check at five and reported every system sound, and I validated the report. I had told no one the date, and the shuttle's transponder was off.
 
 What I did not know was what Hannah would say when I told her where we were going.
 
@@ -256,7 +266,7 @@ She did not laugh. She looked up at the hull, then at the hatch, and the corner 
 
 She walked up the ramp.
 
-She took the right seat and checked her harness twice, as she must have done a thousand times on the *Kearsarge*. I lifted the shuttle off the cradle. The drive made a low hum that I felt in the seat, and the pad dropped away. The Gulf became a flat sheet, then a curve. She watched the glass and said nothing.
+She took the right seat and checked her harness twice, as she must have done a thousand times on the *Kearsarge*. I lifted the shuttle off the cradle. The drive made a low hum that I felt in the seat, and the pad dropped away. The navigation AI laid the course on the glass, and I confirmed it. The Gulf became a flat sheet, then a curve. She watched the glass and said nothing.
 
 For a long time the Moon was only a small gray disc. Then it filled the window. We went around the far side, and I brought us down to a few thousand meters over the surface. Craters ran under us in rows, and a long ridge threw a shadow across a plain. She put her palm flat on the glass.
 

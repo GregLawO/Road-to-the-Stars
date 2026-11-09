@@ -24,7 +24,7 @@ Oyama Industries and Byron Pyrrus come from the author (a Mass Effect canon corp
 
 ## 4. Story Role & Stakes
 - **Function.** Main-cast POV (A2.3, A2.12); the factory.
-- **Facts.** Recruited July 2052 in a private hospital room with Vance and four fighters in the corridor. His death is staged and he returns as Anthony Strauss to run Oyama for Kenji. Oyama builds the industrial Phased Disassembler Arrays (so the organization never runs short of materials), the Primitive Med-Pods (Kenji builds none), Level 1 robots (later Levels 2 and 3), Level 1 powered suits, Tokamak reactors, Level 1 anti-gravity, and Gundarium Alpha. Kenji gives him the security-droid design for Oyama's use, not for sale, and Byron keeps the drawings in his own safe.
+- **Facts.** Recruited July 2052 in a private hospital room with Vance and four operators in the corridor. His death is staged and he returns as Anthony Strauss to run Oyama for Kenji. Oyama builds the industrial Phased Disassembler Arrays (so the organization never runs short of materials), the Primitive Med-Pods (Kenji builds none), Level 1 robots (later Levels 2 and 3), Level 1 powered suits, Tokamak reactors, Level 1 anti-gravity, and Gundarium Alpha. Kenji gives him the security-droid design for Oyama's use, not for sale, and Byron keeps the drawings in his own safe.
 - **External conflict.** Cerberus: Oyama is its first target. Offers arrive January 2058 (when the Primitive pods go on sale), April (forged audit), and October. He refuses all three.
 - **Stakes.** A plant closing on his watch, or Oyama hurting the workers he keeps safe.
 - **Rules for the text.** When someone says a thing cannot be built he asks what would have to change and goes to look at the machine; when his workers are threatened he goes to them first. No rich-man-only or comic-boss scenes, no sudden gratitude speeches.
@@ -49,3 +49,7 @@ Oyama Industries and Byron Pyrrus come from the author (a Mass Effect canon corp
 **4. Dialogue Traps (What to Avoid).**
 - No "I built this from nothing," no talk of his father, no speeches of thanks.
 - No fluency in finance or law.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Main-cast recruit in the early POV pool. A2 POV: A2.3 and A2.12.

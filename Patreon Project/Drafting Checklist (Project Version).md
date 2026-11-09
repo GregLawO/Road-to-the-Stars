@@ -109,7 +109,7 @@ Use this when story files are in the Project. Project files are read-only copies
 - [ ] Second-POV scenes match every gesture of the first. A3.1 matches A1.5: gray coat, quarter-turned chair, four-second pause, hidden sidearm [G39, S11]
 - [ ] Later chapters follow only what the world could have seen [G41]
 - [ ] Machines act at their tier [G42, S13]
-- [ ] Recruitment order: Vance, Ashby, lawyers, larger team, Byron. Fighters wear Level 1 frames. Oyama builds Primitive pods (Kenji builds none) and sells Level 1 to 3 robots. Level 5 guards look and move like men, with Kenji from summer 2053, told to act low-key, Hannah takes them for men until spring 2060 [S13]
+- [ ] Recruitment order: Vance, Ashby, lawyers, larger team, Byron. The platoon wears Level 1 frames. Oyama builds Primitive pods (Kenji builds none) and sells Level 1 to 3 robots. Level 5 guards look and move like men, with Kenji from summer 2053, told to act low-key, Hannah takes them for men until spring 2060 [S13]
 - [ ] Primitive grade of anything leaving the room is one the world could have invented unaided [S13]
 - [ ] Operatives carry no POV apart from Vance [S13]
 - [ ] Warp flights before the first crewed crossing (2064) are unmanned and private [S13]

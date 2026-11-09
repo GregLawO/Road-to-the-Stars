@@ -9,18 +9,18 @@ Items marked **(decision)** are invented gap-fills. Supporting character, no POV
 - **Voice & mannerisms.** Spanish first, then English with a Gulf Coast accent the Army sanded down; switches to Spanish with frightened people and when tired. **(decision)** Even, low, short; explains by pointing, does not fill silences. Lays a flat palm on the nearest wall or post; when it is bad he stays pressed against it. Sapper-dry humor ("If it holds, it's a design. If it doesn't, it's a lesson"); never jokes about the two men he lost.
 
 ## 2. Psychology & Internal World
-- **Core goal.** Immediate: see his adoptive father walk out of the frosted doors, then keep his post covered. Overall: finish his seven-year term in autumn 2059 and stay anyway by choice, and be the brother Hannah thinks he is. **(decision)**
+- **Core goal.** Immediate: see his adoptive father walk out of the frosted doors, then keep his post covered. Overall: serve Kenji by choice for the rest of his life, and be the brother Hannah thinks he is. **(decision)**
 - **Needs vs. wants.** He wants to be useful. He needs to believe he is welcome when he is not.
 - **Internal conflict.** Kenji's order of silence against his family's need to know. He chooses the order, and it costs him Hannah's trust when she asks straight out where he works and he answers with something that says nothing. **(decision)**
 - **Flaws.** Thinks he is welcome only when useful; assumes Hannah is better off not knowing where he works and underrates what his silence costs her; reads his own fear as weakness. Honesty 3 of 5: as a conditioned recruit he cannot tell his family what he does, so he lies about where he is stationed and whether he is all right.
-- **Fears & secrets.** Fear: being absent when someone he is responsible for needs him. Secrets: since 2056, on Kenji's off-the-books order, he watches over Hannah from outside her roster; he has decided to stay after his term and told no one. **(decision)**
+- **Fears & secrets.** Fear: being absent when someone he is responsible for needs him. Secrets: since 2056, on Kenji's off-the-books order, he watches over Hannah from outside her roster; he has told no one. **(decision)**
 - **Worldview.** Grateful and uneasy: the machine gave him his legs back, and he sees the organization runs on people who cannot say no, and is glad he chose to stay.
 
 ## 3. Backstory & History
 - **Upbringing & family.** Galveston. His father Ray Iglesias, a welder on Tom's crew, died when a gantry cable failed in 2029; his mother died the next year; Tom and Ruth took him in at eight. **(decision)** Memory: under a gantry at eight while Tom said, "We check it twice, so nobody has to ask why we didn't."
 - **Defining moment.** In 2047 a collapsed building crushed his legs and killed two men under his charge; he held a beam over them for forty seconds and both died anyway. He left Galveston in 2048 without telling anyone why. **(decision)**
 - **Education & occupation.** Army combat engineer (sapper); second-best, rigger. Network wage from 2052, spends almost none, sends money home through Ruth without saying where it is from. Object: his father's chipping hammer, head worn smooth. **(decision)**
-- **Prior relationships.** Owes Tom and Ruth, Kenji for his legs (repaid with seven years), and the two men he lost.
+- **Prior relationships.** Owes Tom and Ruth, Kenji for his legs (repaid with a lifetime of service), and the two men he lost.
 
 ## 4. Story Role & Stakes
 - **Function.** Vance's recruit; the man who asks Kenji to save Tom; Hannah's silent guardian. Conditioned recruit. He appears alive in at least two scenes before 2059.
@@ -49,3 +49,7 @@ Items marked **(decision)** are invented gap-fills. Supporting character, no POV
 **4. Dialogue Traps (What to Avoid).**
 - No "I'll always be there," no goodbyes, no "family is everything," no announcing that he is useful.
 - No Spanish as decoration.
+
+
+## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
+- **Casting.** Appears in scenes and carries no POV.
