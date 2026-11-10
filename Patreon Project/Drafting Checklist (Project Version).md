@@ -53,7 +53,7 @@ Use this when story files are in the Project. Project files are read-only copies
 - [ ] Length at or under 1,500 words. May hold two or three dated scenes [G44, S1]
 - [ ] Dates in order inside the chapter, apart from set exceptions (A3.1, A2.7, A2.9) [G40]
 - [ ] Earlier micro-chapters unchanged when one is appended
-- [ ] Published A1 is not rewritten
+- [ ] Published A1 is not rewritten, except in the A1 rewrite that plants the A2 changes
 
 **Style**
 - [ ] Slow Gear paragraphs 1 to 5 sentences, sentences mostly 5 to 22 words [G2]
@@ -91,13 +91,13 @@ Use this when story files are in the Project. Project files are read-only copies
 - [ ] Character knows only what they have seen, read, or been told [G24]
 - [ ] Exposition from someone who wants something by a deadline [G32]
 - [ ] POV is old enough, alive, and matches the cast list [S14]
-- [ ] Tom, Ruth, Danny, and operatives carry no POV [S13, S14]
+- [ ] Found-family servants and operatives carry no POV, apart from Vance and Danny (his fight chapter only) [S13, S14]
 
 **Information and secrets**
 - [ ] Reader knowledge separate from character knowledge [G33]
 - [ ] A secret stays secret; no document states it [G34, G36]
 - [ ] Reaper secrecy holds [S12]
-- [ ] Incidents shown as the outline sets them; the raids and the 2059 bomb are a rival elite's, not Cerberus's; there is no 2056 shakedown; no one knows who leads Cerberus early [S12]
+- [ ] Incidents shown as the outline sets them; the raids and the 2059 assault are a rival elite's, not Cerberus's; there is no 2056 shakedown; no one knows who leads Cerberus early [S12]
 - [ ] Cerberus named only through the operative in A2.18 (2060), written "Cerberus" or "they," never "it" [S12]
 - [ ] In-universe documents never contain the conspiracy or the truth of the 2125 killing [S12]
 - [ ] Hannah's list of unasked questions shown only inside her head [S12]
@@ -111,7 +111,7 @@ Use this when story files are in the Project. Project files are read-only copies
 - [ ] Machines act at their tier [G42, S13]
 - [ ] Recruitment order: Vance, Ashby, lawyers, larger team, Byron. The platoon wears Level 1 frames. Oyama builds Primitive pods (Kenji builds none) and sells Level 1 to 3 robots. Level 5 guards look and move like men, with Kenji from summer 2053, told to act low-key, Hannah takes them for men until spring 2060 [S13]
 - [ ] Primitive grade of anything leaving the room is one the world could have invented unaided [S13]
-- [ ] Operatives carry no POV apart from Vance [S13]
+- [ ] Operatives carry no POV apart from Vance and, in his fight chapter, Danny [S13]
 - [ ] Warp flights before the first crewed crossing (2064) are unmanned and private [S13]
 - [ ] Kenji keeps advanced technology hidden unless someone he holds dear is in danger, and then makes it look ordinary [S13]
 
@@ -128,4 +128,4 @@ Use this when story files are in the Project. Project files are read-only copies
 - [ ] No character is ever told how Kenji knows what he knows [G34, S10]
 
 **Open items to label, not settle (S19)**
-- [ ] If the draft touches Oyama's robot-line dates, the security-droid upgrade date, the date of Level 2 suits, droid noise levels, or the 2054 and 2056 rank against the single gold stripe in A1.1, say so in the delivery note in one or two plain sentences [G49, G55]
+- [ ] If the draft touches Oyama's robot-line dates, the date of Level 2 suits, or droid noise levels, say so in the delivery note in one or two plain sentences [G49, G55]
