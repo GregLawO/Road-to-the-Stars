@@ -48,7 +48,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 - [x] **Protagonist and Timeline.** Edit the timeline row ("The 2059 bomb (the rival's)") and section 4.8 ("the 2059 bomb that hit the Galveston clinic and killed Danny Shepard").
 - [x] **Specific Writing Rules section 12.** Edit "the bomb (spring 2059) are a rival elite's."
 - [x] **Specific Writing Rules sections 13 and 14.** Section 13, "Operatives carry no POV, apart from Vance," needs "and Danny in the fight chapter." Section 14 (POV age and cast) needs the same.
-- [ ] **Excerpt Bank, casting rules.** Same two edits: the Cerberus bullet, and "network operatives carry no POV, apart from the marine."
+- [x] **Excerpt Bank, casting rules.** Same two edits: the Cerberus bullet, and "network operatives carry no POV, apart from the marine."
 - [ ] **Drafting Checklist.** Edit the incidents line, and "Tom, Ruth, Danny, and operatives carry no POV."
 
 ### 1C. Character profiles
@@ -149,7 +149,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 ## 6. References to the old A2.18
 
 - [ ] **Act_I_Outline.** Replace the A2.18 entry (Marchetti, first calls) with the Danny chapter, and update the A2d cast line.
-- [ ] **Excerpt Bank.** The A2d cast line "A2.18 Marchetti (60), March 2059 (the first calls)" becomes the Danny chapter.
+- [x] **Excerpt Bank.** The A2d cast line "A2.18 Marchetti (60), March 2059 (the first calls)" becomes the Danny chapter.
 - [x] **Human_Characters.** Ruling 36 and the Marchetti entry cite A2.18 for the foundation line and the front desk. Point them to A2.19.
 - [ ] **Active_Plot_Threads.** Rows citing A2.18 ("Marchetti is the hidden trustee," "The county inquiry," and others) need the same change.
 
@@ -214,7 +214,7 @@ A1 is no longer fixed. The edits below plant the new canon so A2 and A3 can pick
 - [ ] **A2.20.** Her question about why her brother was in the car park lands on the planted car.
 
 ### 8G. Files that say A1 is fixed
-- [ ] **Edit these lines.** Specific Writing Rules section 1 ("Only A1 is published and never rewritten"), Overview and Human_Characters (A1 "stays as published"; Kenji unnamed and without POV in A1 stays true), Excerpt Bank status lines, General Writing Rules where it says A1 is published. Replace with: A1 is being rewritten to plant the A2 changes; Kenji stays unnamed and without POV in A1. (Overview, Human Characters and Specific Writing Rules done.)
+- [ ] **Edit these lines.** Specific Writing Rules section 1 ("Only A1 is published and never rewritten"), Overview and Human_Characters (A1 "stays as published"; Kenji unnamed and without POV in A1 stays true), Excerpt Bank status lines, General Writing Rules where it says A1 is published. Replace with: A1 is being rewritten to plant the A2 changes; Kenji stays unnamed and without POV in A1. (Overview, Human Characters, Specific Writing Rules and Excerpt Bank done.)
 - [ ] **Drafting Checklist.** Remove "Published A1 is not rewritten" for the A1 rewrite only.
 
 ---
@@ -293,6 +293,6 @@ Where this section conflicts with sections 0 to 8, this section governs. **Settl
 - [x] **Human_Characters.md.** Rewrite ruling 3 (no pregnancy, no Danny death, the assault), ruling 19 (remove Tom and Ruth from the pool, add Danny), rulings 32, 37, 38 (Hannah knows Danny works for the Foundation), and 39 (promise stands). Move Tom and Ruth to a Reserve section and rewrite the Hannah and Danny entries and section 5 ("The Shepards and Kenji" becomes Hannah, Danny and Kenji). Remove "Hannah's firm" and the "Tom is treated in the hidden wing" lines.
 - [ ] **Profiles.** Hannah (Navy career, no firm, no parents, debt from Danny's care, no child, her goal and fears), Danny (9C), Kenji (no "son", no Mom or Dad, "Owes Tom", the child, the 2059 line), Tom and Ruth (retag Reserve, strip all ties, they need a different surname when used), Vance ("recruits Danny in 2052", "writes Danny's death"), Brooks (the 2059 file text).
 - [ ] **Overview, Protagonist and Timeline.** Remove Tom and Ruth, "Hannah's firm" (Overview open questions, Protagonist 4.10), the child, and Danny's death. Edit the 2059 section and the found-family lines. (Overview and Protagonist and Timeline done, including Danny's recruitment date.)
-- [ ] **Specific Writing Rules, Excerpt Bank, Drafting Checklist.** Casting lists, the open rank item (closed by 9C), and "Tom, Ruth, Danny, and operatives carry no POV" (Danny carries POV in his fight chapter). Check the Alexandra line in Specific Writing Rules section 12: she must be born well after A3 (the later-chapter files are not in the Project).
+- [ ] **Specific Writing Rules, Excerpt Bank, Drafting Checklist.** Casting lists, the open rank item (closed by 9C), and "Tom, Ruth, Danny, and operatives carry no POV" (Danny carries POV in his fight chapter). Check the Alexandra line in Specific Writing Rules section 12: she must be born well after A3 (the later-chapter files are not in the Project). (Specific Writing Rules and Excerpt Bank done; the Alexandra line needs no change.)
 - [ ] **Active_Plot_Threads.md.** Delete "Ruth's doubt", "Tom's suspicion of Kenji", and "Danny's silence and overwatch". Rewrite "Hannah distrusts Kenji" (she keeps asking, but now as the Navy's liaison), "Hannah's list", "The bomb, the lost child, Kenji's guilt", "The county inquiry", and "Kenji's promise".
 - [ ] **Sections 1 to 5 of this list.** Items about Tom, Ruth, the child, "Danny names Tom", and Danny's death are void.
