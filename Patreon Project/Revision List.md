@@ -46,8 +46,8 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 - [x] **Overview, "The 2059 bombing and the 2065 withdrawals."** Replace "something important is hidden in the east wing and wants to flush it out" with the underground building and the armored assault.
 - [x] **Overview, "Patron characters."** "Found-family servants ... carry no POV" needs an exception for Danny.
 - [x] **Protagonist and Timeline.** Edit the timeline row ("The 2059 bomb (the rival's)") and section 4.8 ("the 2059 bomb that hit the Galveston clinic and killed Danny Shepard").
-- [ ] **Specific Writing Rules section 12.** Edit "the bomb (spring 2059) are a rival elite's."
-- [ ] **Specific Writing Rules sections 13 and 14.** Section 13, "Operatives carry no POV, apart from Vance," needs "and Danny in the fight chapter." Section 14 (POV age and cast) needs the same.
+- [x] **Specific Writing Rules section 12.** Edit "the bomb (spring 2059) are a rival elite's."
+- [x] **Specific Writing Rules sections 13 and 14.** Section 13, "Operatives carry no POV, apart from Vance," needs "and Danny in the fight chapter." Section 14 (POV age and cast) needs the same.
 - [ ] **Excerpt Bank, casting rules.** Same two edits: the Cerberus bullet, and "network operatives carry no POV, apart from the marine."
 - [ ] **Drafting Checklist.** Edit the incidents line, and "Tom, Ruth, Danny, and operatives carry no POV."
 
@@ -75,13 +75,13 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 ## 3. Droids and suits
 
 - [x] **Overview, robots paragraph.** Edit "Level 2 at first, Level 3 from summer 2053, and Level 3 droids guard every Level 2 pod" to Level 3 from 2056 (assumption A).
-- [ ] **Specific Writing Rules section 13 (Security).** Same edit, in the first and third bullets. Section 19's open item on the date can then be closed.
+- [x] **Specific Writing Rules section 13 (Security).** Same edit, in the first and third bullets. Section 19's open item on the date can then be closed.
 - [x] **Protagonist and Timeline, sections 4.2, 4.3, and 4.5.** Edit the Robotics row of the technology table and the droid lines in 4.3 and 4.5. The two Level 5 droids stay as written.
 - [x] **Human_Characters ruling 31.** Same edit.
 - [ ] **Act_I_Outline, A2.4 and A2.7.** A2.7 has Level 3 droids on every pod from summer 2053. A2.4 has a squad of four Level 2 droids in the warehouse in October 2052. Both need to match the production chain. Enter no production numbers.
 - [ ] **Tech_List.md, 2A table.** The "Mobile Infantry Powered Suit" row needs the AEPS-BV first-sale date (assumption B) and the note that the underground group bought and stole suits.
 - [ ] **Nonvolitional droid sheet.** Add interior guard of underground pod buildings to the Tier III role (assumption C).
-- [ ] **Droid posting rule (author, 9 November 2026).** Droids do not patrol. At night they reposition to assigned spots (walls, entrances, key points) and stand still, observing their sectors. They move only to take a post or to answer something, and they make noise only when they move. Add to the droid sheet, Specific Writing Rules section 13, and the Overview robots paragraph. Use it in A2.17 and the Danny chapter: every droid at its post, no movement on the screens, then the repositioning is the first sign of the assault. (Overview done.)
+- [ ] **Droid posting rule (author, 9 November 2026).** Droids do not patrol. At night they reposition to assigned spots (walls, entrances, key points) and stand still, observing their sectors. They move only to take a post or to answer something, and they make noise only when they move. Add to the droid sheet, Specific Writing Rules section 13, and the Overview robots paragraph. Use it in A2.17 and the Danny chapter: every droid at its post, no movement on the screens, then the repositioning is the first sign of the assault. (Overview and Specific Writing Rules done.)
 
 ---
 
@@ -214,7 +214,7 @@ A1 is no longer fixed. The edits below plant the new canon so A2 and A3 can pick
 - [ ] **A2.20.** Her question about why her brother was in the car park lands on the planted car.
 
 ### 8G. Files that say A1 is fixed
-- [ ] **Edit these lines.** Specific Writing Rules section 1 ("Only A1 is published and never rewritten"), Overview and Human_Characters (A1 "stays as published"; Kenji unnamed and without POV in A1 stays true), Excerpt Bank status lines, General Writing Rules where it says A1 is published. Replace with: A1 is being rewritten to plant the A2 changes; Kenji stays unnamed and without POV in A1. (Overview and Human Characters done.)
+- [ ] **Edit these lines.** Specific Writing Rules section 1 ("Only A1 is published and never rewritten"), Overview and Human_Characters (A1 "stays as published"; Kenji unnamed and without POV in A1 stays true), Excerpt Bank status lines, General Writing Rules where it says A1 is published. Replace with: A1 is being rewritten to plant the A2 changes; Kenji stays unnamed and without POV in A1. (Overview, Human Characters and Specific Writing Rules done.)
 - [ ] **Drafting Checklist.** Remove "Published A1 is not rewritten" for the A1 rewrite only.
 
 ---
