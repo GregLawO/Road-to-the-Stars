@@ -35,12 +35,12 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 ## 1. The 2059 event, canon reference files
 
 ### 1A. Human_Characters.md
-- [ ] **Ruling 3 (The 2059 bomb).** Rewrite. Remove: the bought gate guard, lamp contractor, and driver; "a different van took its place"; the rival "accepted that the night staff would be on the dock"; Danny reaching the driver's door "before it went off." Add: the armored assault by the underground group's own men; the van as breach vehicle; the blast as the breach; the fight below ground and behind the main complex between the attackers and the droids and Security Department; Danny leading the defenders in a BMUS and AEPS-BV; Danny surviving the blast and dying after the fight. Keep: Hannah's "Never again" exchange, and that the rival knows only that something important is hidden, not about the Level 2 pods.
-- [ ] **Ruling 28.** Check "the 2059 bomb are the work of a rival elite (ruling 3)." Use "assault" where the whole event is meant.
-- [ ] **Section 5, "Elite sales and the rival."** Replace "orders a bomb at the handover: a bought gate guard, a bought lamp contractor and a bought driver" with the armored assault.
-- [ ] **Supporting characters.** Delete the entry "The Galveston guard with the bought stool." Edit "The rival elite" to say he orders the raids and the assault.
-- [ ] **Danny facts block and Danny entry.** "Dies in the 2059 bomb" becomes "dies after the fight." "No POV" becomes POV in the Danny fight chapter.
-- [ ] **Ruling 19 (the early pool).** Add Danny to the characters who carry POV.
+- [x] **Ruling 3 (The 2059 bomb).** Rewrite. Remove: the bought gate guard, lamp contractor, and driver; "a different van took its place"; the rival "accepted that the night staff would be on the dock"; Danny reaching the driver's door "before it went off." Add: the armored assault by the underground group's own men; the van as breach vehicle; the blast as the breach; the fight below ground and behind the main complex between the attackers and the droids and Security Department; Danny leading the defenders in a BMUS and AEPS-BV; Danny surviving the blast and dying after the fight. Keep: Hannah's "Never again" exchange, and that the rival knows only that something important is hidden, not about the Level 2 pods.
+- [x] **Ruling 28.** Check "the 2059 bomb are the work of a rival elite (ruling 3)." Use "assault" where the whole event is meant.
+- [x] **Section 5, "Elite sales and the rival."** Replace "orders a bomb at the handover: a bought gate guard, a bought lamp contractor and a bought driver" with the armored assault.
+- [x] **Supporting characters.** Delete the entry "The Galveston guard with the bought stool." Edit "The rival elite" to say he orders the raids and the assault.
+- [x] **Danny facts block and Danny entry.** "Dies in the 2059 bomb" becomes "dies after the fight." "No POV" becomes POV in the Danny fight chapter.
+- [x] **Ruling 19 (the early pool).** Add Danny to the characters who carry POV.
 
 ### 1B. Overview, Protagonist and Timeline, Specific Writing Rules, Excerpt Bank, Drafting Checklist
 - [x] **Overview, "The 2059 bombing and the 2065 withdrawals."** Replace "something important is hidden in the east wing and wants to flush it out" with the underground building and the armored assault.
@@ -65,7 +65,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 ## 2. The underground pod buildings
 
 - [x] **Overview.** In the clinic bullet ("Three clinics ... hidden wings"), say that the Level 2 pods at each clinic sit in a separate underground building.
-- [ ] **Human_Characters.** Same wording where it describes the hidden wing.
+- [x] **Human_Characters.** Same wording where it describes the hidden wing.
 - [ ] **Protagonist and Timeline section 4.4.** "A hidden wing treats recruits with Level 2" needs the same edit.
 - [ ] **The_Med_Pod.md.** The Location row ("Hidden wings") needs the same edit.
 - [ ] **Danny profile.** "The hidden-wing referral list" needs the same edit.
@@ -77,7 +77,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 - [x] **Overview, robots paragraph.** Edit "Level 2 at first, Level 3 from summer 2053, and Level 3 droids guard every Level 2 pod" to Level 3 from 2056 (assumption A).
 - [ ] **Specific Writing Rules section 13 (Security).** Same edit, in the first and third bullets. Section 19's open item on the date can then be closed.
 - [ ] **Protagonist and Timeline, sections 4.2, 4.3, and 4.5.** Edit the Robotics row of the technology table and the droid lines in 4.3 and 4.5. The two Level 5 droids stay as written.
-- [ ] **Human_Characters ruling 31.** Same edit.
+- [x] **Human_Characters ruling 31.** Same edit.
 - [ ] **Act_I_Outline, A2.4 and A2.7.** A2.7 has Level 3 droids on every pod from summer 2053. A2.4 has a squad of four Level 2 droids in the warehouse in October 2052. Both need to match the production chain. Enter no production numbers.
 - [ ] **Tech_List.md, 2A table.** The "Mobile Infantry Powered Suit" row needs the AEPS-BV first-sale date (assumption B) and the note that the underground group bought and stole suits.
 - [ ] **Nonvolitional droid sheet.** Add interior guard of underground pod buildings to the Tier III role (assumption C).
@@ -87,8 +87,8 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 
 ## 4. Family perk and firmer stance (carried over from the earlier review)
 
-- [ ] **Human_Characters, Kenji entry.** Delete "He has a rule against treating the family of staff, because it ties a man's love to the work. He breaks it for Tom (A2.6)."
-- [ ] **Human_Characters ruling 36.** Add family coverage to the terms.
+- [x] **Human_Characters, Kenji entry.** Delete "He has a rule against treating the family of staff, because it ties a man's love to the work. He breaks it for Tom (A2.6)."
+- [x] **Human_Characters ruling 36.** Add family coverage to the terms.
 - [ ] **Danny profile.** "Asks Kenji to save Tom" becomes: he names Tom under the family terms, and his flaw (believing he is welcome only when useful) is why he stands in the doorway for a minute before claiming it.
 - [ ] **Act_I_Outline, A2.6.** Remove the "rule against treating family of staff." Danny did not name his family when he signed. Kenji makes the job offer after admitting he has no one to run the building.
 - [ ] **Act_I_Outline, A2.3 and A2.5.** Add the terms to the offers: treatment continues for as long as the member serves, and covers family. Byron has no family. Whitcombe hides her heart from hers.
@@ -142,7 +142,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 ### 5J. A2.20, Vance, the days after
 - [ ] **Draft and outline.** Cut the guard's flat (the bed made, the duffel gone, the gate key) and the roster tick. The staff plan already exists, so the pencil page needs a new first task.
 - [ ] **Keep:** the hook (B), the door guard's call about Hannah asking why her brother was in the car park.
-- [ ] **Human_Characters.** The guard's flat is listed as canon (author ruling, 8 November 2026) and needs a note that it is superseded.
+- [x] **Human_Characters.** The guard's flat is listed as canon (author ruling, 8 November 2026) and needs a note that it is superseded.
 
 ---
 
@@ -150,7 +150,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 
 - [ ] **Act_I_Outline.** Replace the A2.18 entry (Marchetti, first calls) with the Danny chapter, and update the A2d cast line.
 - [ ] **Excerpt Bank.** The A2d cast line "A2.18 Marchetti (60), March 2059 (the first calls)" becomes the Danny chapter.
-- [ ] **Human_Characters.** Ruling 36 and the Marchetti entry cite A2.18 for the foundation line and the front desk. Point them to A2.19.
+- [x] **Human_Characters.** Ruling 36 and the Marchetti entry cite A2.18 for the foundation line and the front desk. Point them to A2.19.
 - [ ] **Active_Plot_Threads.** Rows citing A2.18 ("Marchetti is the hidden trustee," "The county inquiry," and others) need the same change.
 
 ---
@@ -214,7 +214,7 @@ A1 is no longer fixed. The edits below plant the new canon so A2 and A3 can pick
 - [ ] **A2.20.** Her question about why her brother was in the car park lands on the planted car.
 
 ### 8G. Files that say A1 is fixed
-- [ ] **Edit these lines.** Specific Writing Rules section 1 ("Only A1 is published and never rewritten"), Overview and Human_Characters (A1 "stays as published"; Kenji unnamed and without POV in A1 stays true), Excerpt Bank status lines, General Writing Rules where it says A1 is published. Replace with: A1 is being rewritten to plant the A2 changes; Kenji stays unnamed and without POV in A1. (Overview done.)
+- [ ] **Edit these lines.** Specific Writing Rules section 1 ("Only A1 is published and never rewritten"), Overview and Human_Characters (A1 "stays as published"; Kenji unnamed and without POV in A1 stays true), Excerpt Bank status lines, General Writing Rules where it says A1 is published. Replace with: A1 is being rewritten to plant the A2 changes; Kenji stays unnamed and without POV in A1. (Overview and Human Characters done.)
 - [ ] **Drafting Checklist.** Remove "Published A1 is not rewritten" for the A1 rewrite only.
 
 ---
@@ -290,7 +290,7 @@ Where this section conflicts with sections 0 to 8, this section governs. **Settl
 
 ### 9F. File edits
 
-- [ ] **Human_Characters.md.** Rewrite ruling 3 (no pregnancy, no Danny death, the assault), ruling 19 (remove Tom and Ruth from the pool, add Danny), rulings 32, 37, 38 (Hannah knows Danny works for the Foundation), and 39 (promise stands). Move Tom and Ruth to a Reserve section and rewrite the Hannah and Danny entries and section 5 ("The Shepards and Kenji" becomes Hannah, Danny and Kenji). Remove "Hannah's firm" and the "Tom is treated in the hidden wing" lines.
+- [x] **Human_Characters.md.** Rewrite ruling 3 (no pregnancy, no Danny death, the assault), ruling 19 (remove Tom and Ruth from the pool, add Danny), rulings 32, 37, 38 (Hannah knows Danny works for the Foundation), and 39 (promise stands). Move Tom and Ruth to a Reserve section and rewrite the Hannah and Danny entries and section 5 ("The Shepards and Kenji" becomes Hannah, Danny and Kenji). Remove "Hannah's firm" and the "Tom is treated in the hidden wing" lines.
 - [ ] **Profiles.** Hannah (Navy career, no firm, no parents, debt from Danny's care, no child, her goal and fears), Danny (9C), Kenji (no "son", no Mom or Dad, "Owes Tom", the child, the 2059 line), Tom and Ruth (retag Reserve, strip all ties, they need a different surname when used), Vance ("recruits Danny in 2052", "writes Danny's death"), Brooks (the 2059 file text).
 - [ ] **Overview, Protagonist and Timeline.** Remove Tom and Ruth, "Hannah's firm" (Overview open questions, Protagonist 4.10), the child, and Danny's death. Edit the 2059 section and the found-family lines. (Overview done, including Danny's recruitment date.)
 - [ ] **Specific Writing Rules, Excerpt Bank, Drafting Checklist.** Casting lists, the open rank item (closed by 9C), and "Tom, Ruth, Danny, and operatives carry no POV" (Danny carries POV in his fight chapter). Check the Alexandra line in Specific Writing Rules section 12: she must be born well after A3 (the later-chapter files are not in the Project).
