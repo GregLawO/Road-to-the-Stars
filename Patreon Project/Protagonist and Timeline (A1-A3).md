@@ -57,8 +57,8 @@ A man wakes up in a world very different from the one he knew when he last went 
 | Years | Milestone |
 |---|---|
 | 2050 to 2052 | He wakes (2050), builds the Level 2 Med-Pod and writes the tier sheet (2051). The network begins with Vance (summer 2051), then Ashby, then the lawyers and the Janus Foundation (October 2051). Vance expands the team twice; Byron Pyrrus and Oyama join (July 2052). |
-| 2053 to 2058 | Whitcombe joins (February 2053). Three clinics open summer 2053 and he meets the Shepards. Elite sales begin (April 2055). Raids by a rival elite's hires hit the clinics (December 2056 to early 2058). He proposes on the Moon (January 2058). Oyama's pods go on sale (January 2058) and draw three offers, the last in October 2058. He marries Hannah in June 2058. |
-| 2058 to 2062 | The 2059 bomb (the rival's). Cerberus is named (2060). Hannah founds her private firm in 2060 (decision) and learns what the two guards are. The foundation plant is complete (2060), the first assembly yard opens (2061), and the industrial and logistics puppets begin. The forged letter closes Galveston (2061). Brooks is recruited (2062). |
+| 2053 to 2058 | Whitcombe joins (February 2053). Three clinics open summer 2053, and he meets Danny and Hannah Shepard. Elite sales begin (April 2055). Raids by a rival elite's hires hit the clinics (December 2056 to early 2058). He proposes on the Moon (January 2058). Oyama's pods go on sale (January 2058) and draw three offers, the last in October 2058. He marries Hannah in June 2058. |
+| 2058 to 2062 | The 2059 assault (the rival's). Cerberus is named (2060). Hannah learns what the two guards are (2060). The foundation plant is complete (2060), the first assembly yard opens (2061), and the industrial and logistics puppets begin. The forged letter closes Galveston (2061). Brooks is recruited (2062). |
 | 2062 to 2065 | First unmanned warp flights, private (2061 to 2063). Space-industry puppets established; first crewed crossing beyond the Solar System follows (2064); the hidden service reports vaguely familiar organizations. |
 | 2065 | The Manswell announcement, the realization (B1.2), the lenders' withdrawal, the rescue. |
 
@@ -79,8 +79,8 @@ A man wakes up in a world very different from the one he knew when he last went 
 
 | Technology | Public | Private |
 |---|---|---|
-| Med-Pod | L1 (Primitive, clinic grade: cures and mends only), built by Oyama | L2 (full technology, hidden wing: rejuvenation and longevity, with the memory seal) |
-| Robotics | L1 to L3, sold by Oyama (decision on dates) | Security droids: L2 from autumn 2052, L3 from summer 2053 (guarding every Level 2 pod), on a data crystal system. Two L5 droids with Kenji from summer 2053. |
+| Med-Pod | L1 (Primitive, clinic grade: cures and mends only), built by Oyama | L2 (full technology, in a separate underground building at each clinic, "the lower building": rejuvenation and longevity, with the memory seal) |
+| Robotics | L1 to L3, sold by Oyama (decision on dates) | Security droids: L2 from autumn 2052 (guarding the pods), L3 from 2056 (guarding every Level 2 pod), on a data crystal system. Two L5 droids with Kenji from summer 2053. |
 | Dumb AI | L1 (task controllers) | L2 (adaptive assistants) |
 | Cloning | L1 (tissue and organ) | L2 (whole body, natural growth) |
 | Mobile Infantry Powered Suit | AEMS (unpowered) and AEPS-BV (battery-powered), both Gundarium Alpha, built by Pellam Field Systems; the platoon wears the AEMS | Reactor-powered suit (date open) |
@@ -91,23 +91,23 @@ A man wakes up in a world very different from the one he knew when he last went 
 
 ### 4.3 Recruitment and the network (2051 to 2053)
 - **Who and why.** He recruits veterans and experts, each serving for life, a life given for a life, in exchange for being restored to their prime. They become the secret organization that protects him. Recruits are the dying, the crippled, the abandoned, and skilled professionals with terminal illnesses. Each goes through treatment, a quiet offer, a training upload, and a placement.
-- **Order (author ruling, 3 November 2026).** Vance (summer 2051), Ashby (autumn 2051), the lawyers Helen Marchetti and Samuel Ortega (October 2051), with Vance and Ashby standing guard; Vance expands the team twice (winter 2051 and spring 2052); Byron Pyrrus (July 2052). Danny Shepard joins autumn 2052; Senator Eleanor Whitcombe February 2053.
+- **Order (author ruling, 3 November 2026).** Vance (summer 2051), Ashby (autumn 2051), the lawyers Helen Marchetti and Samuel Ortega (October 2051), with Vance and Ashby standing guard; Vance expands the team twice (winter 2051 and spring 2052); Byron Pyrrus (July 2052). Senator Eleanor Whitcombe joins February 2053 and Danny Shepard June 2053.
 - **The network's founding (2051 to 2052).** It begins in summer 2051 with Vance, who brings in Ashby, a radio technician Vance found after the trenches. The two are Kenji's security detail. Vance expands the team twice: four operators in winter, four more operators plus three intelligence staff in spring, before Byron. The intelligence team finds his buyers first.
-- **The platoon and droids.** The platoon wears Pellam's AEMS suits, because Kenji has no powered suit yet. After Byron is recruited, Oyama builds the first Level 2 security droid squad to a design Kenji hands over for internal use (not for sale), with Kenji's data crystals and Level 2 Dumb AI. The droids carry Vance's combat routines. Kenji builds two Level 5 droids himself, with Oyama money, between October 2052 and summer 2053. They look and move like men and are with him at all times. By autumn 2053 the platoon has forty members.
-- **Vance (2051 to 2062, author ruling).** Dying in a hospice in summer 2051, he is Kenji's first recruit. He trades his memories, experience, and expertise for treatment through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to hone the droids' combat abilities; the routines are the only place it lives. Vance is the network's first member and leader. He recruits Danny Shepard in autumn 2052 and loses him in the 2059 bomb. He stops walking behind Kenji in summer 2053, when the two Level 5 guards are finished. After the forged letter closes Galveston in October 2061 he concludes guards and locked doors cannot defend against paper, and opens a file on Maya Brooks. Kenji approves it (A2.13), and Vance recruits her in Marseille in 2062 and brings her to Kenji a week later. (Profile: Dominic_Vance_Character_Profile.md; A2.7, A3.1.)
+- **The platoon and droids.** The platoon wears Pellam's AEMS suits, because Kenji has no powered suit yet. After Byron is recruited, Oyama builds the first Level 2 security droid squad to a design Kenji hands over for internal use (not for sale), with Kenji's data crystals and Level 2 Dumb AI. Tier I fixture units are built first and form the line that makes Tier II frames. Tier II units start as guards and are converted to operator class by crystal swap as Tier III units take over the guard roles (decision, 9 November 2026). The droids carry Vance's combat routines. Kenji builds two Level 5 droids himself, with Oyama money, between October 2052 and summer 2053. They look and move like men and are with him at all times. By autumn 2053 the platoon has forty members.
+- **Vance (2051 to 2062, author ruling).** Dying in a hospice in summer 2051, he is Kenji's first recruit. He trades his memories, experience, and expertise for treatment through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to hone the droids' combat abilities; the routines are the only place it lives. Vance is the network's first member and leader. He posts Danny Shepard to Galveston's lower building in summer 2053. He stops walking behind Kenji in summer 2053, when the two Level 5 guards are finished. After the forged letter closes Galveston in October 2061 he concludes guards and locked doors cannot defend against paper, and opens a file on Maya Brooks. Kenji approves it (A2.13), and Vance recruits her in Marseille in 2062 and brings her to Kenji a week later. (Profile: Dominic_Vance_Character_Profile.md; A2.7, A3.1.)
 
 ### 4.4 Clinics and elite sales (2053 onward)
-- **The clinics.** Three clinics open in summer 2053 through the Janus Foundation: Galveston, Marseille, Singapore. Public floors run Primitive Med-Pods that Oyama builds, curing disease and mending injury and nothing more. A hidden wing treats recruits with Level 2. The clinics also offer cloned organs for sale, pre-approved through the political faction.
-- **The Shepards.** In 2053 Danny asks whether the treatment can save his dying adoptive father Tom, which is how Kenji meets the Shepards. Danny is Hannah's adoptive brother and dies in the 2059 bombing.
+- **The clinics.** Three clinics open in summer 2053 through the Janus Foundation: Galveston, Marseille, Singapore. Public floors run Primitive Med-Pods that Oyama builds, curing disease and mending injury and nothing more. The Level 2 pods, which treat recruits, sit in a separate underground building at each clinic, "the lower building." The clinics also offer cloned organs for sale, pre-approved through the political faction.
+- **Hannah and Danny.** In June 2053 Danny, a crippled, sickly UNAS Army veteran, is released after treatment, with his sister Hannah, an active UNAS Navy officer and his guardian, countersigning. That is how Kenji meets them. Danny is Hannah's blood-related younger brother, and he survives the 2059 assault.
 - **Elite sales.** When the organization is ready, he offers the same treatment to the world's elites from April 2055 through Whitcombe's factions, to win favor and influence.
 
 ### 4.5 Security (author ruling, revised 3 November 2026)
 - The platoon wears AEMS suits. Private sites are guarded by security droids driven by Dumb AI on a data crystal system nobody can hack. The first droid squad (autumn 2052) is Level 2.
-- From summer 2053, every site holding a Level 2 pod is guarded around the clock by Level 3 droids (author ruling, 5 November 2026; the date is a decision).
+- From 2056, every site holding a Level 2 pod is guarded around the clock by Level 3 droids (author ruling, 5 November 2026; the date is a decision, 9 November 2026). Before that, Level 2 droids guard the pods from autumn 2052.
 - No Level 2 pod moves without Kenji knowing. Every pod carries an anti-theft precaution: if its guards are defeated and it is taken, its core components disintegrate (author ruling, 5 November 2026).
 - Oyama sells Level 1 to Level 3 robots to the public (dates are decisions: Level 1 from 2057, Levels 2 and 3 from 2066). Two Level 5 droids stay with Kenji.
 - No client who knew of him would risk a long life by fighting him, because follow-up treatments come only through him. The exception is Cerberus.
-- **Good protection is not complete safety (author ruling).** His network members are human and his droids are not sentient, so they make mistakes, and a dedicated enemy willing to die can still reach him and the people he loves. This is how the 2059 bomb gets through.
+- **Good protection is not complete safety (author ruling).** His network members are human and his droids are not sentient, so they make mistakes, and a dedicated enemy willing to die can still reach him and the people he loves. This is how the 2059 assault gets through.
 
 ### 4.6 Loyalty and the memory seal
 **Loyalty has four layers.**
@@ -135,11 +135,11 @@ The found family is the exception and is not conditioned.
 - **The puppet companies.** Many puppet companies in sectors: medical, finance and insurance, industrial automation, space logistics and mining, colony development, media and lobbying, security contracting. Each sits under layered holding companies in many jurisdictions with a servant-manager at the top, and no company knows the whole network.
 - **Income comes mainly from the world's elites (author ruling), who pay heavily for Level 2 rejuvenation and longevity. That money funds the public Primitive clinics.** Every such treatment carries the memory seal. A smaller part comes from licensing the technologies he allows to spread.
 - After the wedding in 2058 he slowly spreads his inventions through legal and shell companies (author ruling).
-- **The hidden service.** An intelligence and wet-work organization protects the network. Collection gathers intelligence. Influence funds pro-colonial politicians and places friends in regulators. Action carries out wet work as a last resort, disguised as accident, never repeating a pattern. It takes its three layers in 2058 to 2062, after the 2059 bomb; Brooks joins in 2062.
+- **The hidden service.** An intelligence and wet-work organization protects the network. Collection gathers intelligence. Influence funds pro-colonial politicians and places friends in regulators. Action carries out wet work as a last resort, disguised as accident, never repeating a pattern. It takes its three layers in 2058 to 2062, after the 2059 assault; Brooks joins in 2062.
 
 ### 4.8 Enemies: the rival and Cerberus
 **The rival elite (not Cerberus).**
-- A rival elite, not Cerberus, orders the raids on the clinics (December 2056 to early 2058) and the 2059 bomb that hit the Galveston clinic and killed Danny Shepard.
+- A rival elite, not Cerberus, orders the raids on the clinics (December 2056 to early 2058) and the 2059 assault on the Galveston clinic, an armored attack by the underground group's own men in which Danny Shepard leads the defenders and survives.
 - There is no 2056 shakedown.
 
 **Cerberus (author ruling).**
@@ -161,4 +161,3 @@ Manswell announces the Alpha Centauri expedition, and Kenji realizes where he is
 
 ### 4.10 Open decisions
 - **Warp tests (decision).** The first unmanned hull flies a measured light year in a day in 2063, and the drive is private until a Primitive version is sold. The first crewed crossing beyond the Solar System is in 2064, so the A2 excerpt's "no human being had gone beyond the Solar System" holds.
-- **Hannah's firm (decision).** She leaves complex security after the 2059 bomb and founds a private firm in 2060, which takes its first guard jobs in 2062 and escorts the first public crossings.

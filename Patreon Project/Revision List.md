@@ -45,7 +45,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 ### 1B. Overview, Protagonist and Timeline, Specific Writing Rules, Excerpt Bank, Drafting Checklist
 - [x] **Overview, "The 2059 bombing and the 2065 withdrawals."** Replace "something important is hidden in the east wing and wants to flush it out" with the underground building and the armored assault.
 - [x] **Overview, "Patron characters."** "Found-family servants ... carry no POV" needs an exception for Danny.
-- [ ] **Protagonist and Timeline.** Edit the timeline row ("The 2059 bomb (the rival's)") and section 4.8 ("the 2059 bomb that hit the Galveston clinic and killed Danny Shepard").
+- [x] **Protagonist and Timeline.** Edit the timeline row ("The 2059 bomb (the rival's)") and section 4.8 ("the 2059 bomb that hit the Galveston clinic and killed Danny Shepard").
 - [ ] **Specific Writing Rules section 12.** Edit "the bomb (spring 2059) are a rival elite's."
 - [ ] **Specific Writing Rules sections 13 and 14.** Section 13, "Operatives carry no POV, apart from Vance," needs "and Danny in the fight chapter." Section 14 (POV age and cast) needs the same.
 - [ ] **Excerpt Bank, casting rules.** Same two edits: the Cerberus bullet, and "network operatives carry no POV, apart from the marine."
@@ -66,7 +66,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 
 - [x] **Overview.** In the clinic bullet ("Three clinics ... hidden wings"), say that the Level 2 pods at each clinic sit in a separate underground building.
 - [x] **Human_Characters.** Same wording where it describes the hidden wing.
-- [ ] **Protagonist and Timeline section 4.4.** "A hidden wing treats recruits with Level 2" needs the same edit.
+- [x] **Protagonist and Timeline section 4.4.** "A hidden wing treats recruits with Level 2" needs the same edit.
 - [ ] **The_Med_Pod.md.** The Location row ("Hidden wings") needs the same edit.
 - [ ] **Danny profile.** "The hidden-wing referral list" needs the same edit.
 
@@ -76,7 +76,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 
 - [x] **Overview, robots paragraph.** Edit "Level 2 at first, Level 3 from summer 2053, and Level 3 droids guard every Level 2 pod" to Level 3 from 2056 (assumption A).
 - [ ] **Specific Writing Rules section 13 (Security).** Same edit, in the first and third bullets. Section 19's open item on the date can then be closed.
-- [ ] **Protagonist and Timeline, sections 4.2, 4.3, and 4.5.** Edit the Robotics row of the technology table and the droid lines in 4.3 and 4.5. The two Level 5 droids stay as written.
+- [x] **Protagonist and Timeline, sections 4.2, 4.3, and 4.5.** Edit the Robotics row of the technology table and the droid lines in 4.3 and 4.5. The two Level 5 droids stay as written.
 - [x] **Human_Characters ruling 31.** Same edit.
 - [ ] **Act_I_Outline, A2.4 and A2.7.** A2.7 has Level 3 droids on every pod from summer 2053. A2.4 has a squad of four Level 2 droids in the warehouse in October 2052. Both need to match the production chain. Enter no production numbers.
 - [ ] **Tech_List.md, 2A table.** The "Mobile Infantry Powered Suit" row needs the AEPS-BV first-sale date (assumption B) and the note that the underground group bought and stole suits.
@@ -292,7 +292,7 @@ Where this section conflicts with sections 0 to 8, this section governs. **Settl
 
 - [x] **Human_Characters.md.** Rewrite ruling 3 (no pregnancy, no Danny death, the assault), ruling 19 (remove Tom and Ruth from the pool, add Danny), rulings 32, 37, 38 (Hannah knows Danny works for the Foundation), and 39 (promise stands). Move Tom and Ruth to a Reserve section and rewrite the Hannah and Danny entries and section 5 ("The Shepards and Kenji" becomes Hannah, Danny and Kenji). Remove "Hannah's firm" and the "Tom is treated in the hidden wing" lines.
 - [ ] **Profiles.** Hannah (Navy career, no firm, no parents, debt from Danny's care, no child, her goal and fears), Danny (9C), Kenji (no "son", no Mom or Dad, "Owes Tom", the child, the 2059 line), Tom and Ruth (retag Reserve, strip all ties, they need a different surname when used), Vance ("recruits Danny in 2052", "writes Danny's death"), Brooks (the 2059 file text).
-- [ ] **Overview, Protagonist and Timeline.** Remove Tom and Ruth, "Hannah's firm" (Overview open questions, Protagonist 4.10), the child, and Danny's death. Edit the 2059 section and the found-family lines. (Overview done, including Danny's recruitment date.)
+- [ ] **Overview, Protagonist and Timeline.** Remove Tom and Ruth, "Hannah's firm" (Overview open questions, Protagonist 4.10), the child, and Danny's death. Edit the 2059 section and the found-family lines. (Overview and Protagonist and Timeline done, including Danny's recruitment date.)
 - [ ] **Specific Writing Rules, Excerpt Bank, Drafting Checklist.** Casting lists, the open rank item (closed by 9C), and "Tom, Ruth, Danny, and operatives carry no POV" (Danny carries POV in his fight chapter). Check the Alexandra line in Specific Writing Rules section 12: she must be born well after A3 (the later-chapter files are not in the Project).
 - [ ] **Active_Plot_Threads.md.** Delete "Ruth's doubt", "Tom's suspicion of Kenji", and "Danny's silence and overwatch". Rewrite "Hannah distrusts Kenji" (she keeps asking, but now as the Navy's liaison), "Hannah's list", "The bomb, the lost child, Kenji's guilt", "The county inquiry", and "Kenji's promise".
 - [ ] **Sections 1 to 5 of this list.** Items about Tom, Ruth, the child, "Danny names Tom", and Danny's death are void.
