@@ -52,7 +52,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 - [x] **Drafting Checklist.** Edit the incidents line, and "Tom, Ruth, Danny, and operatives carry no POV."
 
 ### 1C. Character profiles
-- [ ] **Daniel Shepard profile.** Rewrite the header ("Supporting character, no POV ... dies in the 2059 bombing"), the Facts bullet about the empty guard stool, and "External conflict: A rival elite's bomb, which he dies stopping." Add: he leads the defenders wearing a BMUS and AEPS-BV, and carries POV in the fight chapter.
+- [x] **Daniel Shepard profile.** Rewrite the header ("Supporting character, no POV ... dies in the 2059 bombing"), the Facts bullet about the empty guard stool, and "External conflict: A rival elite's bomb, which he dies stopping." Add: he leads the defenders wearing a BMUS and AEPS-BV, and carries POV in the fight chapter.
 - [ ] **Tom Shepard profile.** Check "the night of the 2059 bomb he wanted to stay and shut the oxygen line" against the underground pod building.
 
 ### 1D. Active_Plot_Threads.md
@@ -68,7 +68,7 @@ Each segment can be done on its own. Tick a box when its edit is done. One quest
 - [x] **Human_Characters.** Same wording where it describes the hidden wing.
 - [x] **Protagonist and Timeline section 4.4.** "A hidden wing treats recruits with Level 2" needs the same edit.
 - [ ] **The_Med_Pod.md.** The Location row ("Hidden wings") needs the same edit.
-- [ ] **Danny profile.** "The hidden-wing referral list" needs the same edit.
+- [x] **Danny profile.** "The hidden-wing referral list" needs the same edit.
 
 ---
 
@@ -291,7 +291,7 @@ Where this section conflicts with sections 0 to 8, this section governs. **Settl
 ### 9F. File edits
 
 - [x] **Human_Characters.md.** Rewrite ruling 3 (no pregnancy, no Danny death, the assault), ruling 19 (remove Tom and Ruth from the pool, add Danny), rulings 32, 37, 38 (Hannah knows Danny works for the Foundation), and 39 (promise stands). Move Tom and Ruth to a Reserve section and rewrite the Hannah and Danny entries and section 5 ("The Shepards and Kenji" becomes Hannah, Danny and Kenji). Remove "Hannah's firm" and the "Tom is treated in the hidden wing" lines.
-- [ ] **Profiles.** Hannah (Navy career, no firm, no parents, debt from Danny's care, no child, her goal and fears), Danny (9C), Kenji (no "son", no Mom or Dad, "Owes Tom", the child, the 2059 line), Tom and Ruth (retag Reserve, strip all ties, they need a different surname when used), Vance ("recruits Danny in 2052", "writes Danny's death"), Brooks (the 2059 file text).
+- [ ] **Profiles.** Hannah (Navy career, no firm, no parents, debt from Danny's care, no child, her goal and fears), Danny (9C), Kenji (no "son", no Mom or Dad, "Owes Tom", the child, the 2059 line), Tom and Ruth (retag Reserve, strip all ties, they need a different surname when used), Vance ("recruits Danny in 2052", "writes Danny's death"), Brooks (the 2059 file text). (Danny done.)
 - [ ] **Overview, Protagonist and Timeline.** Remove Tom and Ruth, "Hannah's firm" (Overview open questions, Protagonist 4.10), the child, and Danny's death. Edit the 2059 section and the found-family lines. (Overview and Protagonist and Timeline done, including Danny's recruitment date.)
 - [x] **Specific Writing Rules, Excerpt Bank, Drafting Checklist.** Casting lists, the open rank item (closed by 9C), and "Tom, Ruth, Danny, and operatives carry no POV" (Danny carries POV in his fight chapter). Check the Alexandra line in Specific Writing Rules section 12: she must be born well after A3 (the later-chapter files are not in the Project). (Specific Writing Rules, Excerpt Bank and Drafting Checklist done; the Alexandra line needs no change.)
 - [ ] **Active_Plot_Threads.md.** Delete "Ruth's doubt", "Tom's suspicion of Kenji", and "Danny's silence and overwatch". Rewrite "Hannah distrusts Kenji" (she keeps asking, but now as the Navy's liaison), "Hannah's list", "The bomb, the lost child, Kenji's guilt", "The county inquiry", and "Kenji's promise".

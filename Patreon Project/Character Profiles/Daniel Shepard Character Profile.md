@@ -1,39 +1,39 @@
 # Daniel "Danny" Shepard: Character Profile
 
-Items marked **(decision)** are invented gap-fills. Supporting character, no POV. Tom and Ruth's adopted son, Hannah's adoptive older brother, one of Vance's first recruits; dies in the 2059 bombing.
+Items marked **(decision)** are invented gap-fills. Supporting character; POV only in the 2059 fight chapter (A2.18, third person). Hannah's blood-related younger brother and her only living family, a crippled UNAS Army veteran recruited in June 2053; survives the 2059 assault.
 
 ## 1. Basic Identity & Demographics
-- **Name & nicknames.** Daniel Shepard, born Daniel Iglesias. Tom and Hannah say "Danny"; Ruth says "Daniel" when worried. Dislikes "Sarge." Calls Kenji "sir" and Vance "Gunny." **(decision)**
-- **Age.** Born 2022; thirty-one in 2053, dies spring 2059 (thirty-six by birth year; the earlier profile said thirty-seven, open). **(decision)**
+- **Name & nicknames.** Daniel Shepard. Hannah says "Danny." Dislikes "Sarge." Calls Kenji "sir" and Vance "Gunny." **(decision)**
+- **Age.** Born 2032; twenty-one in 2053, twenty-six or twenty-seven in spring 2059. **(decision)**
 - **Appearance.** Broad shoulders, a plain tired face, an Army engineer's castle tattooed inside the left wrist. His legs work perfectly after treatment, but the left foot still trails on stairs. Stands with weight low, like a man expecting a load to shift.
-- **Voice & mannerisms.** Spanish first, then English with a Gulf Coast accent the Army sanded down; switches to Spanish with frightened people and when tired. **(decision)** Even, low, short; explains by pointing, does not fill silences. Lays a flat palm on the nearest wall or post; when it is bad he stays pressed against it. Sapper-dry humor ("If it holds, it's a design. If it doesn't, it's a lesson"); never jokes about the two men he lost.
+- **Voice & mannerisms.** English first, with a Gulf Coast accent the Army sanded down, and working Spanish like Hannah's; he slips into Spanish with frightened people and when tired. **(decision)** Even, low, short; explains by pointing, does not fill silences. Lays a flat palm on the nearest wall or post; when it is bad he stays pressed against it. Sapper-dry humor ("If it holds, it's a design. If it doesn't, it's a lesson"); never jokes about the two men he lost.
 
 ## 2. Psychology & Internal World
-- **Core goal.** Immediate: see his adoptive father walk out of the frosted doors, then keep his post covered. Overall: serve Kenji by choice for the rest of his life, and be the brother Hannah thinks he is. **(decision)**
-- **Needs vs. wants.** He wants to be useful. He needs to believe he is welcome when he is not.
-- **Internal conflict.** Kenji's order of silence against his family's need to know. He chooses the order, and it costs him Hannah's trust when she asks straight out where he works and he answers with something that says nothing. **(decision)**
-- **Flaws.** Thinks he is welcome only when useful; assumes Hannah is better off not knowing where he works and underrates what his silence costs her; reads his own fear as weakness. Honesty 3 of 5: as a conditioned recruit he cannot tell his family what he does, so he lies about where he is stationed and whether he is all right.
-- **Fears & secrets.** Fear: being absent when someone he is responsible for needs him. Secrets: since 2056, on Kenji's off-the-books order, he watches over Hannah from outside her roster; he has told no one. **(decision)**
+- **Core goal.** Immediate: walk out of the frosted doors on his own feet, then keep his post covered. Overall: be whole and useful again, serve Kenji by choice for the rest of his life, and be the brother Hannah never gave up on. **(decision)**
+- **Needs vs. wants.** He wants to be whole and useful again. He needs to believe he is welcome when he is not useful.
+- **Internal conflict.** What he cannot tell Hannah about the Foundation against her need to know where he is. He answers "I can't say," and it costs him each time. **(decision)**
+- **Flaws.** Thinks he is welcome only when useful, a belief that comes from the hospital year; reads his own fear as weakness; underrates what "I can't say" costs Hannah. He is honest with her on everything but Foundation information and does not lie about where he is or whether he is all right.
+- **Fears & secrets.** Fear: being absent when someone he is responsible for needs him. Secrets: none from Hannah except Foundation information. **(decision)**
 - **Worldview.** Grateful and uneasy: the machine gave him his legs back, and he sees the organization runs on people who cannot say no, and is glad he chose to stay.
 
 ## 3. Backstory & History
-- **Upbringing & family.** Galveston. His father Ray Iglesias, a welder on Tom's crew, died when a gantry cable failed in 2029; his mother died the next year; Tom and Ruth took him in at eight. **(decision)** Memory: under a gantry at eight while Tom said, "We check it twice, so nobody has to ask why we didn't."
-- **Defining moment.** In 2047 a collapsed building crushed his legs and killed two men under his charge; he held a beam over them for forty seconds and both died anyway. He left Galveston in 2048 without telling anyone why. **(decision)**
-- **Education & occupation.** Army combat engineer (sapper); second-best, rigger. Network wage from 2052, spends almost none, sends money home through Ruth without saying where it is from. Object: his father's chipping hammer, head worn smooth. **(decision)**
-- **Prior relationships.** Owes Tom and Ruth, Kenji for his legs (repaid with a lifetime of service), and the two men he lost.
+- **Upbringing & family.** Hannah's younger brother and her only living family. Their parents are dead and never appear. **(decision)**
+- **Defining moment.** He enlists at eighteen (2050). In early 2052 a building collapse crushes his legs and kills the two men under his charge; he held a beam over them for forty seconds and both died anyway. He is discharged and kept in hospital by an illness that follows (left unnamed). Hannah is his legal guardian. **(decision)**
+- **Education & occupation.** UNAS Army combat engineer (sapper) from 2050 until the collapse; second-best, rigger. Network wage from June 2053, spends almost none.
+- **Prior relationships.** Owes Hannah, who never gave up on him and carries his hospital bills as debt; Kenji for his legs (repaid with a lifetime of service); and the two men he lost.
 
 ## 4. Story Role & Stakes
-- **Function.** Vance's recruit; the man who asks Kenji to save Tom; Hannah's silent guardian. Conditioned recruit. He appears alive in at least two scenes before 2059.
-- **External conflict.** A rival elite's bomb, which he dies stopping.
-- **Stakes.** Hannah or Tom hurt because of his silence or his absence. In 2059 he leaves his post for family and runs at the van.
-- **Facts.** Tom reaches the clinic by a napkin address from a foreman, so Danny does not bring him in; Danny sees "T. Shepard" on the hidden-wing referral list and asks Kenji to put his father in the wing. The empty guard stool in A1.4 belongs to a bought guard, not Danny; Danny is on overwatch in the car park outside Hannah's roster, sees the delivery van riding low, goes after it, and dies near the blast. Hannah knows he is alive and believes he works for a security contractor in Houston; she does not link that to Kenji's organization until after the bomb. He was told about the directive before he signed but did not take in what it meant (A2.6). **(decision)**
-- **Rules for the text.** No saintly martyr, no scene where he exists only to be mourned, no speeches. He puts his hand on a structure before saying a word; when asked something he cannot answer he gives a small true answer that says nothing and changes the subject to a task.
+- **Function.** Hannah's younger brother and the first to buy into Kenji's offer. Vance posts him to Galveston's lower building from summer 2053 as guard lead. Conditioned recruit; from June 2058 he is Tier 1 as the Leader's brother-in-law. He appears alive in several scenes before 2059 (A1.1, A2.6, A2.8, A2.16).
+- **External conflict.** A rival elite's armored assault, which he helps stop as leader of the defenders.
+- **Stakes.** Hannah hurt because of what he cannot say, or his absence. In 2059 he leaves his post when he sees her at the staff door, then leads the defenders in a BMUS and AEPS-BV. He survives the blast and the fight. The cost of the fight is the author's open slot (Revision List 9E); until it is decided, write no death and no loss.
+- **Facts.** The terms were stated to Danny and Hannah in the hospital; Danny signed and Hannah countersigned as his guardian (A1.1, June 2053). Hannah knows he works for the Foundation and gets scheduled contact, a visit right, and notice within a day of any serious injury or change of city, but never site details. He keeps no secret from her except Foundation information. **(decision)**
+- **Rules for the text.** No saintly martyr, no scene where he exists only to be mourned, no speeches. He puts his hand on a structure before saying a word; when asked about Foundation information he gives a small true answer ("I can't say") and changes the subject to a task.
 
 ## 5. Dialogue Voice Guide **(decision; built from this profile; sample lines are mine, not canon)**
 
 **1. Vocabulary & Word Choice.**
 - Engineer nouns: load, brace, post, plate, joint. "Yeah." "Sure." "Sir" at the end of a request. Calls Vance "Gunny."
-- Spanish first. It comes out when he is tired or someone is frightened: "Quédate cerca." He translates only if the other person needs it.
+- English first. Spanish comes out when he is tired or someone is frightened: "Quédate cerca." He translates only if the other person needs it.
 - Sapper-dry humor, never about the two men he lost.
 - Samples: "Can't give it. I'll take you to the person who can, and I'm walking in front." / "Work's work. Hot out, though."
 
@@ -43,7 +43,7 @@ Items marked **(decision)** are invented gap-fills. Supporting character, no POV
 - Reply length: usually two short sentences. A one-word answer is about one in five, never more than two in a row. He rarely asks questions.
 
 **3. Nervous Habits & Tells.**
-- When he cannot answer, he gives a small true answer about a task in the same tone. That answer is also how he lies about where he is stationed and whether he is all right: what it says is true, and what it leaves out is the lie.
+- When he cannot answer about Foundation information, he gives a small true answer about a task in the same tone. What it says is true, and he does not use it to lie to Hannah about where he is or whether he is all right.
 - Moved, he gets quieter and shorter.
 
 **4. Dialogue Traps (What to Avoid).**
@@ -52,4 +52,4 @@ Items marked **(decision)** are invented gap-fills. Supporting character, no POV
 
 
 ## 6. Story rules (moved from Specific Writing Rules, 9 November 2026)
-- **Casting.** Appears in scenes and carries no POV.
+- **Casting.** Carries POV only in the 2059 fight chapter (A2.18, third person). Appears in other scenes without POV.
