@@ -91,7 +91,7 @@ Rules that apply to every micro-chapter. Trimmed: the Marcus worked example, the
 
 ### Chapter shape and format
 - **Page length.** Every chapter runs 2 to 4 pages.
-- **Word range (was rule 44).** Investigative micro-chapters 600 to 1,000 words, action 400 to 700, hybrid about 750.
+- **Word limit (was rule 44; author ruling, 9 November 2026).** A micro-chapter runs at most 1,500 words. There is no minimum and no per-type range.
 - **Opening header on every chapter (was rule 42).** The excerpt goes first, word for word, then the attribution, then the chapter title and prose. The excerpt's tone does not limit the emotion in the chapter.
 - **Match the previous chapter's format (was rule 43).** Byline and place line follow the previous chapter's layout.
 - **Prose limits.** Rules 7 and 8 do not apply to the excerpt text.

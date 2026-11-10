@@ -50,7 +50,7 @@ Use this when story files are in the Project. Project files are read-only copies
 - [ ] Excerpt text matches Excerpt_Bank.md and names no author
 - [ ] Byline and place line match the previous chapter [G43]
 - [ ] One POV only [G18]
-- [ ] Length in range: investigative 600 to 1,000, action 400 to 700, hybrid about 750. A2b about 850 to 900 and may hold two or three dated scenes [G44, S1]
+- [ ] Length at or under 1,500 words. May hold two or three dated scenes [G44, S1]
 - [ ] Dates in order inside the chapter, apart from set exceptions (A3.1, A2.7, A2.9) [G40]
 - [ ] Earlier micro-chapters unchanged when one is appended
 - [ ] Published A1 is not rewritten

@@ -21,7 +21,7 @@ Trimmed: A4 to G5 excerpts and casts, and the Movement 2 and later casting notes
 - Kenji starts the tier system in A2.1. The Primitive grade must always be one the world could have invented unaided. Kenji builds no Primitive pod; Oyama does after Byron Pyrrus is recruited (July 2052).
 - Ending types (P, Q, B, W, E) follow Act_I_Outline.md. A batch of five has at most two physical events, and its strongest hook sits in the fifth chapter.
 
-**Key.** [I] investigative (600 to 1,000 words), [A] action (400 to 700), [H] hybrid (about 750).
+**Key.** [I] investigative, [A] action, [H] hybrid. Every micro-chapter is at most 1,500 words.
 
 **Draft format (author ruling).** Every chapter draft opens with its excerpt, at the very top and above any title or byline: the chapter's title only as a heading, the text word for word in italics inside quotation marks, then the attribution "— *The Road to the Stars*", no author named. Each micro-chapter's byline (act, movement, code, narrator, place, year) and prose follow. An excerpt's description of how the written accounts read applies to the in-universe record only; the micro-chapters carry full emotion.
 

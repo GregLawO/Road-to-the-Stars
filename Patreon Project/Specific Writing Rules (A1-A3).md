@@ -13,7 +13,7 @@ Rules specific to this story's chapters, dates, tiers, and secrets. Character ru
 - **Published canon.** Only A1 is published and never rewritten. A2.1 to A2.15 are drafted and canon (7 November 2026): A2a Final, A2b v6, A2c v6. A2.16 onward and A3 are not drafted. The first release is the first batch of A2 (A2.1 to A2.5).
 - **Chapter sizes.** A2 has 20 micro-chapters in four batches of 5. A3 has 10 in two batches.
 - **Date-order exceptions.** A3.1 (2062) leads A3 as a step back to A1.5. A2.7 is Vance's ledger (2051 to summer 2053), ordered by its start date. A2.9 (April 2055 to November 2056) is ordered by its start date and runs past A2.10 and A2.11.
-- **Micro-chapter length (A2b).** About 850 to 900 words, may hold two or three dated scenes in one POV.
+- **Micro-chapter length (author ruling, 9 November 2026).** At most 1,500 words. May hold two or three dated scenes in one POV.
 - **Chapter excerpt header format (author ruling).** Each excerpt comes from Excerpt_Bank.md and sits at the very top, above any title or byline:
   1. The excerpt's title only, as a heading, no code and no "Excerpt" label.
   2. The excerpt text in italics inside quotation marks.
@@ -65,7 +65,7 @@ Names already set in the story (Med-Pod, Primitive, Level 2, the ending types) a
 - [ ] File opens with the excerpt header (title, italic quoted text, attribution)
 - [ ] Byline and place line match the previous chapter's format
 - [ ] One POV only
-- [ ] Word count in range
+- [ ] Word count at or under 1,500
 
 **Style**
 - [ ] Slow Gear paragraphs 1 to 5 sentences, plain sentences mostly 5 to 22 words, dialogue never a run of one-line replies
