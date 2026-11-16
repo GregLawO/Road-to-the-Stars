@@ -1,11 +1,5 @@
 # Road to the Stars: Outline A1 to A3 (Refined, with Author's Notes)
 
-**Conflicts to settle before drafting**
-
-- **Aoki's ages.** They jumped a year between segments. They now run 24, 25 and 26.
-- **"Guard Fleet" before 2136.** I used Household Vanguard (IJN-KSH-) hulls in A2.7 and A3.5 (decision).
-- **Togo in A3.10.** IJN Amaterasu-no-Yaiba is Solaris-4D and has no micro-jump. He leads the strike from a Solaris-7 Line Cruiser (decision).
-
 **Conventions for every segment (not repeated below)**
 
 - Each segment runs 1,000 to 2,000 words.
@@ -13,13 +7,14 @@
 - The segment opens on a concrete detail that raises a question.
 - Dialogue tags are "said" and "asked", with action beats instead.
 - Past-life hints for Kenji stay under three sentences per chapter.
+- Each A1 scene carries a word target. If a draft runs long, trim the last scene's tail, never the ending beat.
 - The "Write it" notes say how to draft each scene. Names, ages and ranks marked (decision) are open to overrule.
 
 ---
 
 ## ERA I: THE EVE OF THE TEMPEST (2130 to 2132)
 
-### A1. THE QUIET EDGE (2130 to 2131) \[Intrigue-weighted, 6 Intrigue + 4 Action\]
+### A1. THE QUIET EDGE (2130 to 2131) [Intrigue-weighted, 6 Intrigue + 4 Action]
 
 **Batch 1.** Opens with the excerpt "On the Quiet Decade," *Annals of the Chrysanthemum Restoration*.
 
@@ -27,76 +22,78 @@
 
 **Echo:** a seal, a log and a badge that don't match (A1.2, A1.4, A1.5).
 
-**A1.1. Emperor Kenji Himura (38, 2130, Kyoto-Heian Imperial Citadel). Intrigue. Ending E.**
+**A1.1. Emperor Kenji Himura (38, 2130, Kyoto-Heian Imperial Citadel). Intrigue. Ending E. (~1,700 words)**
 
-1. In a workshop under the Citadel, Kenji checks a weld seam on a lattice bracket. He has grease on his palms and ink on one knuckle. He tells the welder to take the afternoon and sleep. Lady Shizuka arrives with her ledger: the third dock is three weeks behind. Kenji asks what is actually stuck. The answer is tired hands, not steel, so he orders a night rotation and double rations.
-2. Envoys from Seoul and Taipei come to finalize the mutual-defense and maritime-technology protocols. Before anyone signs, Kenji states the cost: Imperial hulls that come to their aid leave when the fight ends, and no Imperial flag stays on their soil. The Korean envoy asks who commands in the field. Kenji says they do.
-3. At dinner Kiyoshi, 16, asks to join the cadet company. Kenji tells him to clear his plate first. Later, alone, Kaguya asks when he last slept and nothing more. Kenji steals half her sea bream.
-
-*Write it:*
-
-- Open on the weld seam under Kenji's thumb while the welder watches, waiting for the verdict.
-- Stay in slow gear throughout. Kenji's voice is plain, relaxed and American, with comparisons from welds, engines and food.
-- The cost statement in scene 2 is two or three sentences. It is a promise, not a speech.
-- Show his enjoyment (the bream, a clean seam) as the one past-life hint.
-- Kaguya asks only about sleep. Dreams never come up.
-- Close on warmth, with no hook.
-
-**A1.2. Audit-Marshal Sano Mitsuko (\~29, 2131, Hakata port, Kyushu) (decision). Action. Ending W.**
-
-1. Before dawn, Sano, a junior Audit-Marshal, stands in a customs warehouse the Directorate has sealed for the night. High Censor Kurosawa arrives after Ashigaru-4 sentinels already hold every door. He offers the smugglers one chance to hand over a crate of banned self-modifying relay cores. He does not raise his voice.
-2. One crewman refuses and fires. The fight is short. Sano cuffs her first armed man. The Ashigaru-4 move only when Kurosawa signals.
-3. Kurosawa reads the manifest: a replaced seal and a timestamp that arrived late. A captured crewman asks what the Directorate keeps in its vaults. Kurosawa's jaw clamps shut and he presses two fingers to his breastbone. Sano sees it. He starts to tell her which port the manifest lists, and stops.
+1. *Design bay, morning (~600).* The Quantum-Optical VI chimes its bronze bell tone over the design table, and the table projects a Solaris-4B core model with one phase conduit glowing a different amber. Kenji reshaped that conduit a minute ago to hold the core's 45% mass-shedding at a lower load. The VI finishes its run and the model holds, as he expected. He approves the revised core on the table's console, and the file goes to the Kinki-Kyoku foundry, where Kōgyō-4 automata will build the test unit and the engineers will run it. Ayame, 4, sits on a cushion by the table watching the model turn, and she points at the next conduit. Kenji says that one will not change anything, and rotates it anyway. Shizuka comes in with a bowl and a one-line report: the third dock launched its hull ahead of the ledger, and she wants the core spec frozen for the next batch. Kenji says tomorrow, once the test unit's numbers come back. He eats standing at the table while the next model loads.
+2. *Council anteroom, midday (~500).* Minister Kitagawa Sōichirō comes to the design bay before the afternoon session with the envoys from Seoul and Taipei. Kenji hands him the terms in a few sentences: Imperial hulls that come to an ally's aid leave when the fight ends, no Imperial flag stays on their soil, and the field command is theirs. Kitagawa asks how firmly to hold the point. Kenji says to put it in the text. Kitagawa bows and goes to sign, and Kenji does not attend the session.
+3. *Evening (~600).* Kiyoshi, 16, walks into the design bay at the end of the day, as he has since he was small, and tells his father he wants to join the cadet company. Kenji asks which branch he wants. Kiyoshi says the Legions, leading a fireteam with automata. Kenji says Tachibana's instructors will test him hard on it, and that he would have picked the same. Kaguya arrives to collect them both for dinner. She tells Kiyoshi the cadet commandant already expects him on the next intake list, since she saw this coming a month ago. At the family table with Ayame, Kenji laughs and steals half Kaguya's sea bream, and she lets him.
 
 *Write it:*
 
-- Open on the sentinels already standing at the doors before anyone arrives.
-- Slow gear for Kurosawa's offer. Fast gear from the shot until the cuffs close, with Sano's grip on the cuffs as the body detail.
-- Sano is the observer. She sees the jaw and the fingers and nothing else. Never name the Lock or say he cannot speak.
-- End plainly: Kurosawa opens his mouth to name the port, looks at the crew still in earshot, and says only "Not here."
+- Open on the bronze bell tone and the one conduit glowing a different amber.
+- Kenji designs and improves his own technology. Automata and Kinki-Kyoku engineers build and test what he draws. He never handles tools or materials.
+- The design table is open to family, and Ayame sits at it without anyone sending her out.
+- The enjoyment of the model holding as predicted and the bream is the single past-life hint, kept under three sentences.
+- Kenji is relaxed and plain-spoken, with comparisons from engines, welds and food. He never hesitates about his own machines.
+- Address: Kitagawa and the engineer say *Heika*. Kiyoshi says *Chichi-sama*. Shizuka may use "Kenji" in the private bay.
+- The treaty exchange is two or three plain sentences in dialogue, not a speech.
+- Kiyoshi comes to his father easily and is answered easily. The family is warm and has no tension.
+- Kaguya runs the household and is a step ahead of everyone in it. She never asks about sleep and never mentions dreams. Close on warmth, with no hook.
 
-**A1.3. Capt. Han Jae-won (South Korea, \~33, 2131, DMZ ridge) (decision). Intrigue. Ending E.**
+**A1.2. Audit-Marshal Sano Mitsuko (~29, 2131, Hakata port, Kyushu) (decision). Action. Ending W. (~1,600)**
 
-1. Han walks a frozen ridge with a Seoul staff colonel, checking fresh concrete on a line of bunkers. He argues that bunkers hold ground. The colonel calls the treaty-supplied Helios-2 automata expendable.
-2. An Imperial Legion advisor runs a night drill. A Helios-2 fireteam walks into simulated artillery first, and Korean NCOs follow with no losses. Han's staff mutter that sending machines first is cowardice.
-3. Han keeps the bunker plan. He also assigns one trial fireteam to the left flank, the least finished stretch of the line, and signs the order himself.
+1. *Warehouse before dawn (~550).* Sano stands in the dark of the Hakata customs warehouse beside a door post where an Ashigaru-4 stands with its slits dimmed. Three days ago she flagged this shipment, when the freight log and the declared cargo stopped matching. She let the cargo in, and forty minutes ago five crewmen came through the side loading door to collect one crate. She shut that door behind them and sealed it with a Directorate key, and the sentinels took their posts at every door. The crew has not yet worked out that the building is closed. Kurosawa arrives after the doors are held and stops off-angle from the entrance, out of the light. Sano gives him the crate's location, the crew count and the weapons count in three sentences, and he nods once. He steps into the open and offers the crew one chance to set the crate on the floor and walk away from it. He asks them nothing else. The crew leader asks by what authority. Kurosawa names the Kansatsu-In and the 2119 Edict, and the relay cores in the crate. He repeats the offer once. A crewman's hand goes into his coat.
+2. *The fight (~450, fast gear).* One crewman refuses and fires. The round hits a pillar. Sano closes on him, takes his wrist and cuffs him, with the cuffs in her grip as the body detail. Kurosawa gives the signal, and the sentinels move for the first time and pin the other four without firing a shot.
+3. *The manifest (~600).* Kurosawa reads a replaced seal and a late timestamp. A captured crewman asks what the Directorate keeps in its vaults. Kurosawa's jaw clamps shut and he presses two fingers to his breastbone. Sano sees it. He starts to name the port the manifest lists, looks at the crew still in earshot, and says only "Not here."
 
 *Write it:*
 
-- Open on Han's thumb sinking into a pour that is still soft under a skin of frost.
-- Han is stubborn and practical, and respectful of the advisor without being awed.
+- Open on the sealed side door and the sentinel beside it, slits dimmed, with Sano's key still in her hand.
+- Slow gear through Sano's report and Kurosawa's offer. Fast gear starts at the shot in scene 2.
+- Sano set the trap and knows it. The Directorate fires no shot, and no one on its side is hurt.
+- Sano's report is three plain sentences. Kurosawa nods once and says nothing to her.
+- Kurosawa stays off-angle from the light until he steps out to make the offer. His voice stays even, and he never raises it.
+- The offer is a few plain sentences, not a speech. He asks the crew nothing, and answers the crew leader's question about authority with the bureau's name, the Edict and the cargo.
+- The sentinels stay silent until Kurosawa signals in scene 2, then move with the clack of clamps and amber slits.
+- Sano observes the jaw and the fingers in scene 3 and nothing more.
+- Never name the Lock, never say he cannot speak, and never use "conditioned."
+
+**A1.3. Capt. Han Jae-won (South Korea, ~33, 2131, DMZ ridge) (decision). Intrigue. Ending E. (~1,500)**
+
+1. *Ridge (~600).* Han's thumb sinks into a soft pour under a skin of frost. A Seoul staff colonel calls the treaty-supplied Helios-2 automata expendable, and Han argues that bunkers hold ground.
+2. *Night drill (~600).* An Imperial Legion advisor runs the drill. A Helios-2 fireteam walks into simulated artillery first, and Korean NCOs follow with no losses. Han's staff mutter that sending machines first is cowardice.
+3. *Order (~300).* Han keeps the bunker plan. He assigns one trial fireteam to the left flank, the least finished stretch, and signs the order himself. Say plainly that the left flank is the unfinished stretch.
+
+*Write it:*
+
+- Han is stubborn, practical, and respectful without being awed.
 - The advisor speaks little and never mentions Imperial secrets.
-- Put the doctrinal argument in the colonel's and Han's mouths, not the narration.
-- The ending is the signature on the order. Say plainly that the left flank is the unfinished stretch.
+- The doctrinal argument sits in dialogue.
 
-**A1.4. Maj. Élodie Marchand (EU, \~34, 2131, Lunar Station Copernicus) (decision). Intrigue. Ending Q.**
+**A1.4. Maj. Élodie Marchand (EU, ~34, 2131, Lunar Station Copernicus) (decision). Intrigue. Ending Q. (~1,550)**
 
-1. At Copernicus, Marchand tallies Japanese freight against declared Japanese steel exports. The numbers do not match. Her Brussels directorate reads it as exhaustion and drafts a sanctions package.
-2. On a call, a Kyoto trade envoy accepts a smaller steel quota without bargaining. Marchand notes how fast he agreed.
-3. On a secure link, General Williams in Cheyenne Mountain shows her optical tracks of Japanese hulls over Luna: acceleration with no exhaust and no drive signature. She pulls her own telescope logs from the same night. They show the same track. Brussels votes on the sanctions in the morning.
-
-*Write it:*
-
-- Open on the two columns of figures that should match, with her re-keying one number.
-- Her thinking is analytic, with no guesses about the cause. Williams speaks only from what the telescopes caught.
-- The envoy never shows hurry, and that is what she notices.
-- The ending is a plain fact: her own log matches his, and the sanctions vote goes ahead anyway.
-
-**A1.5. Sgt. Ōtsuka Gen (\~28, 2131, low-orbit sovereign shipyard) (decision). Action. Ending B.**
-
-1. Ōtsuka holds a hatch on night watch beside four Ashigaru-4 standing silent in their alcoves, slits dimmed. He checks every badge number against the roster. Lord Commander Tachibana passes on Lady Shizuka's inspection route in a Gin-Musha exosuit, scanning hands and shadow angles.
-2. An armed sabotage team reaches a power conduit. A security trigger wakes the Ashigaru-4 and they move. Tachibana closes the distance in zero-G on her Solaris-4M Ember core. Ōtsuka follows his fireteam into the breach. The team is stopped before the conduit is cut.
-3. One captured man wears a yard worker's badge. Tachibana asks Ōtsuka who stood the hatch before his shift. He has the night roster on his slate. He opens it, and the scene cuts.
+1. *Ledger (~550).* Two columns of figures that should match, and she re-keys one number. Japanese freight does not match declared steel exports. Brussels reads this as exhaustion and drafts sanctions.
+2. *Call (~400).* A Kyoto trade envoy accepts a smaller steel quota without bargaining. She notes how fast he agreed.
+3. *Williams link (~600).* Williams shows optical tracks of Japanese hulls over Luna with acceleration and no exhaust. Her own telescope logs from the same night match. Brussels votes in the morning.
 
 *Write it:*
 
-- Open on the badge check, with Ōtsuka reading numbers aloud against the roster.
-- The Ashigaru-4 are silent until the trigger. Then the clack of clamps and amber slits, with no wandering.
-- Tachibana fights in angles, distance and single impacts, with no taunts.
-- Ōtsuka's thumb on the slate is the body detail.
-- End plainly: the roster has a name for the previous shift, and he opens the file as the scene cuts.
+- She is analytic and guesses nothing about the cause.
+- End on the plain fact that her log matches his and the vote goes ahead anyway.
 
-**Tech list (new this batch):** Ashigaru-4 automata, Gin-Musha exosuit with Solaris-4M Ember core, Helios-2 sealed casings and automata, gravitic lattice brackets.
+**A1.5. Sgt. Ōtsuka Gen (~28, 2131, low-orbit sovereign shipyard) (decision). Action. Ending B. (~1,500)**
+
+1. *Badge watch (~500).* Ōtsuka holds a hatch beside four silent Ashigaru-4. The slipway builds itself under Kōgyō-4 automata, so his watch is security only. He reads badge numbers against the roster. Tachibana passes on Shizuka's inspection route in a Gin-Musha exosuit.
+2. *Sabotage (~600, fast gear).* A saboteur team reaches a power conduit. A security trigger wakes the Ashigaru-4. Tachibana closes the distance in zero-G on her Solaris-4M Ember core, and Ōtsuka follows his fireteam into the breach. The conduit is not cut.
+3. *Roster (~400).* A captured man wears a yard worker's badge. Tachibana asks who stood the hatch before Ōtsuka. His thumb is on the slate, and he opens the night roster as the scene cuts.
+
+*Write it:*
+
+- Open on the badge check, read aloud.
+- The Ashigaru-4 are silent until the trigger, then the clack of clamps and amber slits.
+- Tachibana fights in angles and single impacts, with no taunts.
+
+**Tech list (new this batch):** Ashigaru-4 automata, Kōgyō-4 foundry automata, Gin-Musha exosuit with Solaris-4M Ember core, Helios-2 sealed casings and automata, Quantum-Optical VI design table.
 
 **Author's Note: A1, Batch 1**
 
@@ -114,74 +111,49 @@ I know it’s a lot to ask you to trust me on a reboot like this, and I’m actu
 
 **Closing feeling:** everyone is a step behind what they have already seen.
 
-**Echo:** the crossing-vector error (A1.6 to A1.9), the left flank (A1.3 to A1.10) and "finish your plate" (A1.1 to A1.7).
+**Echo:** the crossing-vector error (A1.6 to A1.9), the left flank (A1.3 to A1.10), and Kiyoshi's request for a posting (A1.1 to A2.6).
 
-**A1.6. Lt. Aoki Shun (\~24, 250m Corvette IJN-DNK-LE, 2131, lunar shadow) (decision). Action. Ending P.**
+**A1.6. Lt. Aoki Shun (~24, 250m Corvette IJN-DNK-LE, 2131, lunar shadow) (decision). Action. Ending P. (~1,500)**
 
-1. Aoki's corvette is one of four in a 1:4 pack led by a Frigate (36 bow tubes in all). The pack rehearses a silent approach in lunar shadow under Eclipse stealth. The 99.5% dampening pulls the crew in their harnesses on every turn. The young helm officer forgets the lunar drift vector and the corvette slides off line.
-2. Aoki corrects it and the pack holds station. Fleet Admiral Togo watches over the link. He criticizes the doctrine first and the officer second.
-3. A formation pivot sends Aoki's corvette across the Frigate's vector. Togo orders a hard correction.
+1. *Rehearsal (~550).* The 1:4 pack (36 bow tubes) rehearses a silent approach under Eclipse stealth. The helm officer's hand stops over a drift number he has not entered. The 99.5% dampening tugs the crew in their harnesses, and the corvette slides off line.
+2. *Correction (~450).* Aoki corrects and the pack holds station. Togo, heard only over the link in bearings and seconds, criticizes the doctrine first and the officer second.
+3. *Crossing (~500, fast gear).* A formation pivot sends the corvette across the Frigate's vector. Togo orders a hard correction. Aoki grips his harness buckle. End on the correction carried out.
 
-*Write it:*
+**A1.7. Empress Kaguya Himura (38, 2131, Throneside Medical Bureau, Kyoto). Intrigue. Ending Q. (~1,550)**
 
-- Open on the helm officer's hand stopped over a drift number he has not entered.
-- Togo is heard only over the link, in short sentences with bearings and seconds.
-- Show the harness tug in the body.
-- Fast gear starts at the crossing, with Aoki's grip on his harness buckle as the detail.
-- End on the correction being carried out.
-
-**A1.7. Empress Kaguya Himura (38, 2131, Throneside Medical Bureau, Kyoto). Intrigue. Ending Q.**
-
-1. Kaguya oversees the final pre-war Tier II immersions. Kiyoshi, 17, carries food trays for the first time. Togo and Yamashita come out of the tanks younger and hungry, and she feeds them first. Lady Shizuka reads shift rosters aloud beside her.
-2. In a quiet corridor, Masamune tells Kaguya alone that he declines treatment. An elder steps aside in his own time. She pours his tea before her own. He tells her to watch the boy.
-3. Kiyoshi asks whether his father will still look like these men when Kiyoshi is Masamune's age. Kaguya answers plainly: yes. Kiyoshi says nothing.
+1. *Tank door (~650).* Kaguya sets the first hot bowl on the tank rim before the door opens. Togo and Yamashita emerge from the last pre-war Tier II immersions ravenously hungry. She feeds them first, and Shizuka reads the post-immersion supply tally aloud. Kiyoshi, 17, volunteered to carry trays and carries them steadily.
+2. *Corridor (~450).* Masamune tells Kaguya alone that he declines treatment, since an elder steps aside in his own time. She pours his tea before her own. He tells her to watch the boy.
+3. *Kiyoshi (~450).* Kiyoshi asks whether his father will still look like these men when Kiyoshi is Masamune's age. Kaguya says yes. He nods and says that gives him time to learn things properly. She tells him to take a bowl for himself and a tray to his father in the bay, and he goes. She writes *declined* beside Masamune's name on the next cycle's roster and asks Shizuka for the supply list.
 
 *Write it:*
 
-- Open on the tray rattling in Kiyoshi's hands as the tank door opens.
-- Kaguya's care is concrete: food, warmth, tea. She smooths her sleeve once when something displeases her and never sighs.
-- Masamune's refusal is gruff, not sentimental.
-- Show Kiyoshi's reaction through his hands going still.
-- Say plainly in the closing beats that he now knows his father will not age beside him.
+- Kaguya is composed. Her care is food, warmth and tea, with no speeches.
+- Masamune is gruff, not sentimental.
+- Kiyoshi's reaction is curiosity. His hands stay steady.
+- The Q ending is the plain fact that the cycle roster is one name shorter.
 
-**A1.8. Lt. Cmdr. Chen Yu-ting (Taiwan, \~31, 2131, Taipei Maritime Enclave) (decision). Intrigue. Ending E.**
+**A1.8. Lt. Cmdr. Chen Yu-ting (Taiwan, ~31, 2131, Taipei Maritime Enclave) (decision). Intrigue. Ending E. (~1,450)**
 
-1. Chen inspects the Helios-2 shield emitters on her destroyer. The casing is seamless with no hatch, and her technician cannot open it.
-2. In a joint exercise room, an Imperial liaison corrects her patrol grid with a three-dimensional orbital plot. Chen admits Taiwan has never fought a modern war. The liaison shows her, politely, how a picket would be bypassed.
-3. That night Chen redraws the grid by hand and sets a new drill for her crew at dawn.
+1. *Casing (~450).* A technician's tool slides off a seamless Helios-2 shield emitter casing with no hatch.
+2. *Exercise room (~600).* An Imperial liaison corrects her patrol grid with a three-dimensional orbital plot. Chen admits in one plain sentence that Taiwan has never fought a modern war. The liaison politely shows how a picket would be bypassed.
+3. *Lamp (~400).* That night she redraws the grid by hand and sets a new drill for dawn. End on the hand-drawn grid under the lamp.
 
-*Write it:*
+**A1.9. Ryunosuke Himura (~27, 2131, Kyoto). Intrigue. Ending B. (~1,550)**
 
-- Open on the technician's tool sliding off a casing with no seam.
-- Chen is precise, dry and proud. Her admission is one plain sentence with no melodrama.
-- The liaison is concrete and courteous, and says nothing about Imperial secrets.
-- End on the hand-drawn grid under a lamp, as a quiet emotional beat.
-
-**A1.9. Ryunosuke Himura (\~27, 2131, Kyoto). Intrigue. Ending B.**
-
-1. Ryunosuke arrives five minutes early to the Privy Council to take the seat nearest Kenji. He argues for aggressive patrols to claim the Earth-Luna corridor. Masamune asks what it will cost. Kenji keeps the patrol schedule and adds retraining drills. Ryunosuke adjusts a cufflink.
-2. Late that night, a staff officer with no ship of his own, he reads Togo's after-action logs on the lunar-shadow drill. He finds the crossing-vector error and sees he would have made it too.
-3. Togo stops at the records-room door. Ryunosuke asks him for a ship. Togo draws a breath to answer, and the scene cuts.
+1. *Council (~650).* He arrives five minutes early and takes the seat nearest Kenji. He argues for aggressive patrols to claim the Earth-Luna corridor. Masamune asks the cost. Kenji keeps the schedule and adds retraining drills, and Ryunosuke adjusts a cufflink.
+2. *Records room (~550).* Late that night he reads Togo's after-action logs on the lunar-shadow drill and finds the crossing-vector error. He sees he would have made it too.
+3. *Door (~350).* Togo stops at the door. Ryunosuke asks him for a ship. Togo draws a breath to answer, and the scene cuts.
 
 *Write it:*
 
-- Open on the chair nearest the head of the table, taken with five minutes in hand.
-- His council voice is brisk and prestige-minded ("claim", "hesitate"). The cufflink moves when he is outvoted.
-- The records-room voice drops: collar loose, quieter, rubbing the back of his neck.
-- End plainly: he has asked for a ship, and Togo is about to answer.
+- The council voice is brisk and prestige-minded.
+- The records-room voice is quieter, with his collar loose and a hand rubbing his neck.
 
-**A1.10. Maj. Ri Hyok-chol (DPRK, \~38, early 2132, northern DMZ) (decision). Action. Ending W.**
+**A1.10. Maj. Ri Hyok-chol (DPRK, ~38, early 2132, northern DMZ) (decision). Action. Ending W. (~1,550)**
 
-1. Ri leads a night patrol to the foot of the southern ridge and measures the bunker pours by eye. The left flank is unfinished concrete, with a row of still frames standing at post, optical slits dim.
-2. A patrolman steps on a trip-line. The frames wake and answer. Ri's sergeant is hit and the frame keeps coming. Ri pulls the patrol back.
-3. At northern staff headquarters, the chief of staff asks how long the southern line will hold. Ri starts to say the frames did not stop when hit, and does not, because the chief has already written three days on the plan.
-
-*Write it:*
-
-- Open on Ri pacing a pour by boot-lengths.
-- "Frames" is Ri's own word (decision). Keep them silent until the trip-line.
-- Fast gear from the trip-line, with the sergeant's fall as the body detail.
-- End plainly: Ri decides the chief will not hear that the frames kept coming.
+1. *Pour (~450).* Ri paces a bunker pour in boot-lengths. The left flank is unfinished concrete with a row of still frames at post, slits dim.
+2. *Trip-line (~700, fast gear).* A patrolman steps on a trip-line. The frames wake and answer. Ri's sergeant is hit and the frame keeps coming. The sergeant's fall is the body detail. Ri pulls the patrol back.
+3. *Headquarters (~400).* The chief of staff asks how long the southern line will hold. Ri decides the chief will not hear that the frames kept coming, because the plan already reads three days.
 
 **Tech list (new this batch):** Eclipse stealth, 99.5% inertial dampening with crash harnesses, Chōju immersion tanks.
 
@@ -189,7 +161,7 @@ I know it’s a lot to ask you to trust me on a reboot like this, and I’m actu
 
 If you just came straight over from Batch 1, welcome to the second half of the rewritten opening! Replacing both original chapters with these two batches was my way of making sure you didn't feel shortchanged after the reset, though I am definitely refreshing my stats nervously while you guys read through the changes.
 
-Batch 1 gave you the broad strokes of the Empire from the outside and the inside, so here I wanted to zoom in on the people you're actually going to be stuck with for the long haul: a rookie corvette officer trying not to mess up, a mother watching her kid grow up too fast, a cousin hungry for his own command, and two soldiers staring at each other across the same frozen ridge.
+Batch 1 gave you the broad strokes of the Empire from the outside and the inside, so here I wanted to zoom in on the people you're actually going to be stuck with for the long haul: a rookie corvette officer trying not to mess up, a mother running the quietest, steadiest part of the war, a cousin hungry for his own command, and two soldiers staring at each other across the same frozen ridge.
 
 I deliberately avoided big battles here in favor of drills, council arguments, and quiet hallways. Before the shooting starts, I really want you to feel the quieter stuff: pride, impatience, and that nagging fear of not being good enough. Putting soldiers from both sides on the same hill felt like the most honest way to set the board without turning anyone into a cartoon villain.
 
@@ -199,7 +171,7 @@ That officially wraps up the prologue era! Keep scrolling into **A2 Batch 1** ri
 
 ## ERA II: THE IRON TEMPEST (2132 to 2136)
 
-### A2. THE AUTUMN SPARK AND COSTLY LESSONS (2132) \[Action-weighted, 7 Action + 3 Intrigue\]
+### A2. THE AUTUMN SPARK AND COSTLY LESSONS (2132) [Action-weighted, 7 Action + 3 Intrigue]
 
 **Batch 1.** Opens with the excerpt "The Autumn Opening," *Post-Settlement Naval Monograph, Kyoto*.
 
@@ -207,7 +179,7 @@ That officially wraps up the prologue era! Keep scrolling into **A2 Batch 1** ri
 
 **Echo:** Kurosawa's seal and timestamp (A1.2), and Chen's hand-drawn grid (A1.8).
 
-**A2.1. Audit-Marshal Sano Mitsuko (\~30, Oct 12, Yokohama) (decision). Action. Ending B.**
+**A2.1. Audit-Marshal Sano Mitsuko (~30, Oct 12, Yokohama) (decision). Action. Ending B.**
 
 1. Sano walks the dock a step behind High Censor Kurosawa. Ashigaru-4 sentinels hold the warehouse exits in silence.
 2. The team intercepts a Pact covert extraction team and breaks the smuggling ring. Sano watches Kurosawa check a seal and a timestamp before anyone speaks.
@@ -221,7 +193,7 @@ That officially wraps up the prologue era! Keep scrolling into **A2 Batch 1** ri
 - She sees only a header with a date two days out.
 - End plainly: Kurosawa turns to her and opens his mouth to say who must hear the codes first.
 
-**A2.2. Admiral Boris Mikhailovich (\~27, Oct 13, Baikonur-Orbital). Intrigue. Ending W.**
+**A2.2. Admiral Boris Mikhailovich (~27, Oct 13, Baikonur-Orbital). Intrigue. Ending W.**
 
 1. Mikhailovich walks a drydock catwalk and inspects welds himself.
 2. He briefs his staff on masking real kinetic-rod carriers among hundreds of cheap radar-decoy freighters.
@@ -249,7 +221,7 @@ That officially wraps up the prologue era! Keep scrolling into **A2 Batch 1** ri
 - Fast gear when the second wave appears, with his hands clasped tighter behind his back.
 - End on "Re-form the line."
 
-**A2.4. Lt. Aoki Shun (\~25, 250m Corvette IJN-DNK-LE, Oct 15) (decision). Action. Ending P.**
+**A2.4. Lt. Aoki Shun (~25, 250m Corvette IJN-DNK-LE, Oct 15) (decision). Action. Ending P.**
 
 1. Aoki's corvette sits in a wolfpack still organized 1:4 (one Frigate and four Corvettes, 36 bow tubes). It launches a Type-90C salvo at a CPF dreadnought group.
 2. The CPF commander detonates conventional nuclear flak along the approach vector, leaving a shrapnel cloud across the torpedo path.
@@ -262,7 +234,7 @@ That officially wraps up the prologue era! Keep scrolling into **A2 Batch 1** ri
 - Aoki stays competent and makes the call to run. The helm officer from A1.6 may be at his station.
 - End on the pack burning past its sink limit as it breaks away.
 
-**A2.5. Cmdr. Chen Yu-ting (Taiwan, destroyer, \~32, Oct 16) (decision). Action. Ending W.**
+**A2.5. Cmdr. Chen Yu-ting (Taiwan, destroyer, ~32, Oct 16) (decision). Action. Ending W.**
 
 1. Chen breaks formation to chase retreating CPF landing craft.
 2. A coastal railgun kill-zone opens. A 750m IJN-DNK-SP takes heavy armor damage shielding her crippled hull.
@@ -293,24 +265,24 @@ You’ll probably notice most of the camera time sits right before or right afte
 
 **Closing feeling:** grief and resolve, with the next lesson already paid for.
 
-**Echo:** "Finish eating first" (A1.1 to A2.6), and Ryunosuke's new habit of writing down his errors.
+**Echo:** Kiyoshi's request for a posting (A1.1 to A2.6), and Ryunosuke's new habit of writing down his errors.
 
 **A2.6. Emperor Kenji Himura (40, Oct 18, Kyoto). Intrigue. Ending E.**
 
 1. The Privy Council reviews the opening orbital and coastal scars. Ryunosuke demands the seizure of coastal mainland enclaves. Kenji refuses. Masamune warns against overreach.
-2. Kiyoshi, 18, asks for a posting to a line unit. Kenji tells him to finish eating first. He then grants a posting inside the Kyoto garrison under Tachibana's watch (decision).
+2. Kiyoshi, 18, asks for a posting to a line unit. Kenji asks him one practical question about the work first, mirroring the branch question in A1.1. He then grants a posting inside the Kyoto garrison under Tachibana's watch (decision).
 3. Kenji orders fleet-wide retraining in 3D void geometry. Kaguya fills the council's cups before her own.
 
 *Write it:*
 
 - Open on the damage slate with its short list of scarred hulls.
 - Kenji refuses in two or three plain sentences with a mechanic's comparison. Ryunosuke's cufflink moves when he is outvoted. Masamune uses "scars", "ashes" and "price".
-- Kenji is steady and shows no worry. One small enjoyment (the meal) is the past-life hint.
+- Kenji is steady and shows no worry. One small enjoyment (a good cup of tea) is the past-life hint.
 - End on Kaguya's cups, as a warm moment with no hook.
 
 **A2.7. Himura Kiyoshi (18, Oct 22, Kyoto) (decision). Action. Ending P.**
 
-1. Kiyoshi, a junior Legion officer in the Kyoto garrison, watches Household Vanguard (IJN-KSH-) cruisers hunt Pact kinetic-rod platforms from the ground.
+1. Kiyoshi, a junior Legion officer in the Kyoto garrison, watches Imperial Guard cruisers hunt Pact kinetic-rod platforms from the ground.
 2. Tachibana orders him under cover on a link, and a Hatamoto officer stands beside him. He obeys and resents it.
 3. A platform releases a rod at Kyoto. The Type-90A Hari interceptors have seconds.
 
@@ -321,7 +293,7 @@ You’ll probably notice most of the camera time sits right before or right afte
 - Fast gear from the release, with one-line paragraphs counting the seconds.
 - The Haris break the rod high above the city. The flash lights Kyoto white for a moment (decision). End on the flash.
 
-**A2.8. Maj. Han Jae-won (South Korea, \~34, Nov, DMZ ridge) (decision). Action. Ending E.**
+**A2.8. Maj. Han Jae-won (South Korea, ~34, Nov, DMZ ridge) (decision). Action. Ending E.**
 
 1. Han holds a frozen DMZ ridge against DPRK artillery and armor.
 2. Static bunker doctrine and mismanaged treaty-supplied Helios-2 automaton squads cost the ridge's left flank.
@@ -334,7 +306,7 @@ You’ll probably notice most of the camera time sits right before or right afte
 - Fast gear in the breach, then slow gear for the count.
 - End on Han saying the names aloud, as a quiet emotional beat with no hook.
 
-**A2.9. General Williams (\~26, Nov, UNAS). Intrigue. Ending W.**
+**A2.9. General Williams (~26, Nov, UNAS). Intrigue. Ending W.**
 
 1. Williams orders UNAS orbital wings into the Pacific to enforce a blockade zone against Japan.
 2. He presses his knuckles on the plotting table and tells his staff the blockade will cost ships.
@@ -347,7 +319,7 @@ You’ll probably notice most of the camera time sits right before or right afte
 - He folds a sheet of telemetry once when he absorbs bad news.
 - End plainly: he is asked, folds the sheet and says only "Plot the next orbit."
 
-**A2.10. Ryunosuke Himura (\~28, Dec, 500m Frigate IJN-DNK-EL, Western Pacific). Action. Ending Q.**
+**A2.10. Ryunosuke Himura (~28, Dec, 500m Frigate IJN-DNK-EL, Western Pacific). Action. Ending Q.**
 
 1. Togo gave him a frigate in the spring (decision). Ryunosuke pushes it into a UNAS orbital picket near geostationary orbit.
 2. Western fighter-interceptor swarms exploit blind spots in his pre-war turret arcs.
@@ -372,7 +344,7 @@ You finally get to spend real time with Kiyoshi here, which I was nervous about 
 
 ---
 
-### A3. TWO-FRONT ORBITAL CRUCIBLE (2133 to 2134) \[Action-weighted, 7 Action + 3 Aftermath/Intrigue\]
+### A3. TWO-FRONT ORBITAL CRUCIBLE (2133 to 2134) [Action-weighted, 7 Action + 3 Aftermath/Intrigue]
 
 **Batch 1.** Opens with the excerpt "The Shattered Ring," *Post-Settlement Naval Monograph, Kyoto*.
 
@@ -394,7 +366,7 @@ You finally get to spend real time with Kiyoshi here, which I was nervous about 
 - He observes only what the gun camera and his eyes caught: the shield planes were already angled toward his line before he fired.
 - End plainly: a medic asks what hit him. He starts to say what the shield did and says only "I need to see the gun camera first."
 
-**A3.2. Lt. Cmdr. Aoki Shun (\~26, 500m Frigate, Sea of Japan Squadron, 2133) (decision). Action. Ending P.**
+**A3.2. Lt. Cmdr. Aoki Shun (~26, 500m Frigate, Sea of Japan Squadron, 2133) (decision). Action. Ending P.**
 
 1. After early losses, including the pack's original Frigate, Aoki takes command of the Frigate. He sits in a chair still set for someone else and drills the crew on vertical inclination shifts. The pack now runs 1:2 (one Frigate, two Corvettes) under Togo's restructured doctrine.
 2. They bypass Russian coastal railguns at Vladivostok by changing orbital plane.
@@ -422,7 +394,7 @@ You finally get to spend real time with Kiyoshi here, which I was nervous about 
 - He answers the envoy with the same term from A1.1: they leave when Seoul says the fight is over, and no Imperial flag stays.
 - The envoy has it written into the record. State plainly that Imperial ground troops will now cross to Korean soil.
 
-**A3.4. Lt. Ibuki Reiko (\~25, Navigator, Line Cruiser, Earth-Luna corridor, 2134) (decision). Action. Ending P.**
+**A3.4. Lt. Ibuki Reiko (~25, Navigator, Line Cruiser, Earth-Luna corridor, 2134) (decision). Action. Ending P.**
 
 1. Ibuki sits at her station as Togo's Solaris-7 Arashi line debuts 100,000 km Single-Fold Tactical Micro-Jumps against the dense UNAS/EU blockade.
 2. Ryunosuke, newly a Line Cruiser Captain, orders the jump. Ibuki plots it on the chart she has.
@@ -439,7 +411,7 @@ You finally get to spend real time with Kiyoshi here, which I was nervous about 
 **A3.5. Date Munetaka (Vassal Clan head, 2134, Kyoto) (decision). Action. Ending W.**
 
 1. Date is in Kyoto for Sankin-Kōtai and has been told his clan's Helios-2 militias will stay home.
-2. Over a link in the Privy Council antechamber he hears the Household Vanguard fleet intercept a Russian/CPF saturation barrage. Tachibana's gunners stagger Type-90A Hari interceptors against maneuvering warheads.
+2. Over a link in the Privy Council antechamber he hears the Imperial Guard fleet intercept a Russian/CPF saturation barrage. Tachibana's gunners stagger Type-90A Hari interceptors against maneuvering warheads.
 3. An officer reports a barrage pattern Tachibana has not seen. Tachibana is about to name what it implies and does not.
 
 *Write it:*
@@ -469,7 +441,7 @@ Every scene here is really about the shock of something new hitting the field: a
 
 **Echo:** Ryunosuke's notebook (A2.10 to A3.9) and Chen's grid (A1.8, A2.5 to A3.6).
 
-**A3.6. Cmdr. Chen Yu-ting (Taiwan, Frigate, \~34, 2134) (decision). Action. Ending P.**
+**A3.6. Cmdr. Chen Yu-ting (Taiwan, Frigate, ~34, 2134) (decision). Action. Ending P.**
 
 1. Chen applies the 2132 lessons and holds a tight defensive formation in the Taiwan Strait. Asked why she does not chase, she answers in her own plain words.
 2. Alongside Imperial 1:2 wolfpacks she sinks a second CPF amphibious task force.
@@ -481,7 +453,7 @@ Every scene here is really about the shock of something new hitting the field: a
 - She lets the Imperial packs make the chase and keeps her formation.
 - End on the second task force going down.
 
-**A3.7. Admiral Boris Mikhailovich (\~29, 2134). Intrigue. Ending W.**
+**A3.7. Admiral Boris Mikhailovich (~29, 2134). Intrigue. Ending W.**
 
 1. Mikhailovich reorganizes surviving Pact squadrons behind dense Kessler debris belts.
 2. He briefs on a new Imperial focus on Asia. He does not like it.
@@ -505,7 +477,7 @@ Every scene here is really about the shock of something new hitting the field: a
 - Fast gear at touchdown, then slow gear for the weighing. Blowing the tether also costs the EU its heavy lift.
 - End plainly: her hand is on the key and the segment cuts before she gives the order.
 
-**A3.9. Ryunosuke Himura (\~30, 2134). Aftermath. Ending E.**
+**A3.9. Ryunosuke Himura (~30, 2134). Aftermath. Ending E.**
 
 1. Ryunosuke works beside damage-control crews on the crippled Line Cruiser limping home.
 2. He takes responsibility for the jump and asks to be put on the repair shift. Ibuki starts to speak and he cuts her off.
@@ -519,7 +491,7 @@ Every scene here is really about the shock of something new hitting the field: a
 
 **A3.10. Fleet Admiral Togo Kazuhiko (49, late 2134, Puget Sound). Action. Ending P.**
 
-1. A coordinated multi-squadron micro-jump strike hits UNAS orbital drydocks at Puget Sound. Togo directs it from a Solaris-7 Line Cruiser (decision).
+1. A coordinated multi-squadron micro-jump strike hits UNAS orbital drydocks at Puget Sound. Togo directs it from a Solaris-7 Line Cruiser.
 2. Western Pacific orbital projection ends without a landing on North American soil.
 
 *Write it:*
