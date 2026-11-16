@@ -8,7 +8,7 @@
 
 **A1.1. Emperor Himura** *2130 — Kyoto-Heian Imperial Citadel, Kyoto*
 
-A smear of dark blue ink sat across the second knuckle of Emperor Kenji Himura’s right hand. He had put it there an hour ago and had not looked at it since. The cedar worktable was cool under his forearm, and the tray of rice balls at his elbow had gone cold beside the telemetry slates.
+A smear of dark blue ink sat across the second knuckle of Emperor Himura Kenji’s right hand. He had put it there an hour ago and had not looked at it since. The cedar worktable was cool under his forearm, and the tray of rice balls at his elbow had gone cold beside the telemetry slates.
 
 Three heavy kinetic-rod platforms of the Eurasian-Continental Pact had moved into equatorial slots above the Marianas. Himura laid each slot against the Pacific picket schedule, one line at a time. Two sat inside the arc of the existing patrols. The third sat just outside it, and he circled that one with the ink brush.
 
@@ -138,9 +138,9 @@ Sato looked at the plot. Probe Two had stopped rotating.
 
 Its sensor mast was turning toward the cruiser.
 
-**A1.3. Empress Kaguya Himura** *2131 — Throneside Medical Bureau, Kyoto*
+**A1.3. Empress Himura Kaguya** *2131 — Throneside Medical Bureau, Kyoto*
 
-Steam rose from six immersion tanks along the stone floor of the subterranean medical hall. Empress Kaguya Himura stood beside the diagnostic rail in a dark silk kimono and watched the vital traces move across the slate. The tanks had run for fourteen days. In a few minutes the first lid would lift.
+Steam rose from six immersion tanks along the stone floor of the subterranean medical hall. Empress Himura Kaguya stood beside the diagnostic rail in a dark silk kimono and watched the vital traces move across the slate. The tanks had run for fourteen days. In a few minutes the first lid would lift.
 
 The hall smelled of hot minerals and cold stone. Amber light ran along the vaulted ceiling in long strips, and each tank glowed a faint silver from within. Five of them held a sleeping figure. The fourth had been filled and warmed for Grand Uncle Masamune, and it stood open and empty.
 
@@ -272,11 +272,11 @@ The door closed on its slow hydraulic arm.
 
 Miller stayed at the table. The tracking wall hummed behind him, and the three prints lay in front of him under the dim light. He pulled the second one toward himself and put his finger on the velocity curve. It rose in a straight line from the lunar limb and ended in a straight stop. Nothing he knew of could do that.
 
-**A1.5. Lord Commander Haruka Tachibana** *2131 — Low-Orbit Sovereign Shipyard*
+**A1.5. Lord Commander Tachibana Haruka** *2131 — Low-Orbit Sovereign Shipyard*
 
 Three men stood at the Solaris-4A conduit junction with no tether clips on their belts. The high gantries required them.
 
-Haruka Tachibana saw the bare belts from twenty meters away. She had walked Lady Shizuka’s inspection route for forty minutes in her Gin-Musha exosuit, along a zero-gravity catwalk that ran between the structural ribs of an unfinished cruiser. Her magnetic boots clicked softly on the deck plates. Scaffolding crossed overhead in long diagonal shadows, and loose tether lines hung from the rails.
+Tachibana Haruka saw the bare belts from twenty meters away. She had walked Lady Shizuka’s inspection route for forty minutes in her Gin-Musha exosuit, along a zero-gravity catwalk that ran between the structural ribs of an unfinished cruiser. Her magnetic boots clicked softly on the deck plates. Scaffolding crossed overhead in long diagonal shadows, and loose tether lines hung from the rails.
 
 The cruiser’s hull stood open to the dark on three sides, its armor plates only half hung. Welding arcs flickered along the keel in short blue flashes. Each flash threw a hard-edged shadow across the catwalk that jumped once and was gone. Crews in gray coveralls worked in pairs, one holding a plate against the frame while the other sealed the seam. The air smelled of hot metal and cold coolant, and a low thrum from the yard’s forge core ran up through the soles of her boots.
 

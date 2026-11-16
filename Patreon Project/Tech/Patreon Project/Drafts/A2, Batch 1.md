@@ -4,8 +4,8 @@
 
 — *Post-Settlement Naval Monograph, Kyoto*
 
-**A2.1. High Censor Renji Kurosawa**   *2132 — Yokohama Harbor, Yokohama*
-Rain slicked the black asphalt of Dock Four as High Censor Renji Kurosawa stepped into the shadow of Warehouse Fourteen. The sea air smelled of salt, heavy fuel oil, and cold iron. Beside the rusted corrugated doors, four Ashigaru-4 line automata stood in recessed wall alcoves, their dark-iron samurai plates motionless and their horizontal optical slits dimmed to a faint, steady ember.
+**A2.1. High Censor Kurosawa Renji**   *2132 — Yokohama Harbor, Yokohama*
+Rain slicked the black asphalt of Dock Four as High Censor Kurosawa Renji stepped into the shadow of Warehouse Fourteen. The sea air smelled of salt, heavy fuel oil, and cold iron. Beside the rusted corrugated doors, four Ashigaru-4 line automata stood in recessed wall alcoves, their dark-iron samurai plates motionless and their horizontal optical slits dimmed to a faint, steady ember.
 
 Kurosawa adjusted the collar of his dark coat and checked his physical pocket cipher notebook. The handwritten ledger entries recovered from the illegal Kyushu AI rig pointed directly to this bay. Two Audit-Marshals in dark indigo uniforms stood on the catwalk above, their hands resting on their holstered compliance carbines.
 
@@ -50,10 +50,10 @@ Mikhailovich looked at the optical print clipped to his board—a grainy, high-r
 
 He opened his mouth to explain how he expected the Japanese shadow pickets to maneuver when the first saturation wave crossed the terminator line, but his jaw set hard. He turned his eyes back to the orbital chart and said nothing.
 
-**A2.3. Fleet Admiral Kazuhiko Togo**   *2132 — IJN Amaterasu-no-Yaiba, Earth-Luna Corridor*
+**A2.3. Fleet Admiral Togo Kazuhiko**   *2132 — IJN Amaterasu-no-Yaiba, Earth-Luna Corridor*
 The Sunken Command Bridge of the pre-war flagship *IJN Amaterasu-no-Yaiba* was silent except for the low, rhythmic chime of the deterministic Quantum-Optical VI terminals. Buried behind ten meters of sloped neutronium-carbide citadel armor at the hull's center of mass, the bridge blended severe naval lethality with ancient aristocratic majesty. Dark-lacquered bulkheads trimmed in gold leaf framed woven tatami shock-absorbing deck matting, while twenty-eight hereditary Himura bridge officers sat strapped into sunken gunnery and helm consoles. Angled photonic glass slates cascading with golden-amber kanji telemetry chimed with a deep, resonant bronze bell tone as fire-control subroutines locked onto incoming vectors.
 
-Fleet Admiral Kazuhiko Togo stood on the elevated command dais, his feet planted shoulder-width apart and his hands clasped firmly behind his back. Before him floated a three-meter golden-amber quantum-optical tactical globe projecting the entire Earth-Luna battlespace in real time. Beside the dais, ceremonial racks held master-forged ancestral blades and the crimson silk Taira Banner. Heavy copper-gold phase conduits ran along the bulkheads from the dual-redundant Solaris-4D reactor sanctum on Deck Nine, thrumming with a deep, sub-audible bass that resonated through the deck plates and into the officers' bones.
+Fleet Admiral Togo Kazuhiko stood on the elevated command dais, his feet planted shoulder-width apart and his hands clasped firmly behind his back. Before him floated a three-meter golden-amber quantum-optical tactical globe projecting the entire Earth-Luna battlespace in real time. Beside the dais, ceremonial racks held master-forged ancestral blades and the crimson silk Taira Banner. Heavy copper-gold phase conduits ran along the bulkheads from the dual-redundant Solaris-4D reactor sanctum on Deck Nine, thrumming with a deep, sub-audible bass that resonated through the deck plates and into the officers' bones.
 
 A cluster of three hundred thermal blooms flared along the Asian equatorial arc.
 

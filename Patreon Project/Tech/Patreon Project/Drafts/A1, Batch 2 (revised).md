@@ -49,9 +49,9 @@ Kyoto had been right about the chart. Whether it was right about the emitters, t
 
 He moved the third squadron's mark into the circle. Taiwan's frigates would now sit where Kyoto drew them, under shields that no Taiwanese technician could open.
 
-**A1.7. High Censor Renji Kurosawa**   *2131 — Off the Coast of Kyushu*
+**A1.7. High Censor Kurosawa Renji**   *2131 — Off the Coast of Kyushu*
 
-Every light on the research platform was burning. Nobody running an illegal rig lit it up in a midnight storm, and High Censor Renji Kurosawa watched it through the launch's streaked window for a full minute before he spoke.
+Every light on the research platform was burning. Nobody running an illegal rig lit it up in a midnight storm, and High Censor Kurosawa Renji watched it through the launch's streaked window for a full minute before he spoke.
 
 The compliance launch rode the swells three miles off the rocky coast. Spray washed across its gunmetal deck. Six Ashigaru-4 automata stood locked in magnetic clamps near the bow, their dark-iron plates running with rain and their optical slits dimmed to a low ember. They had not made a sound since the launch left harbor.
 
@@ -159,7 +159,7 @@ The colonel pulled the ridge roster toward him. It listed forty-one conscripts b
 
 He read each name aloud as he moved it from the ridge roster to the bunker roster, because he wanted to say them before the ridge belonged to the automata. The staff stopped talking. The generators rumbled overhead. When he reached the last name, he set the pen down on the table.
 
-**A1.9. Fleet Admiral Kazuhiko Togo**   *2131 — IJN Amaterasu-no-Yaiba, Lunar Shadow*
+**A1.9. Fleet Admiral Togo Kazuhiko**   *2131 — IJN Amaterasu-no-Yaiba, Lunar Shadow*
 
 Togo's tea had gone lukewarm in its lacquer cup, and he drank it anyway. Hot tea spilled in heavy turns, and the next turn was thirty seconds away.
 
@@ -167,7 +167,7 @@ He stood on the dais behind the obsidian-and-gold throne, feet planted shoulder-
 
 In the pit, twenty-eight hereditary Himura officers sat at angled slate stations in dark-indigo uniforms, strapped into heavy magnetic harnesses. A golden-amber tactical globe three meters across floated before the dais. It showed a line task force turning in three dimensions behind the Moon, hidden in lunar shadow.
 
-Cousin Ryunosuke Himura stood at the gallery rail with his arms crossed. He had asked for a place on the bridge for the exercise, and he had watched three passes without speaking.
+Himura Ryunosuke stood at the gallery rail with his arms crossed. He had asked for a place on the bridge for the exercise, and he had watched three passes without speaking.
 
 "Hard turn in ten seconds," Togo said. "All stations, brace."
 
