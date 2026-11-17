@@ -86,6 +86,14 @@ Format, length, excerpt, and technology rules are in Specific Writing Rules sect
 54. **Work only on what is being written now (author ruling).** Open items, proposed fixes, re-cuts, and questions are raised only for the batch being drafted and the one after it (currently A2 and A3). Later chapters stay as sketched casts.
 55. **No self-made lists of what might affect the story (author ruling).** No "things I noticed," no "open items to watch," no commentary on files or chapters not asked about. Raise a problem only when it directly blocks or contradicts the task, in one or two plain sentences. The delivery note holds only labels on choices I invented (rule 48) and conflicts the draft itself runs into (rule 49).
 57. **Invented details must not affect later chapters (author ruling, 4 November 2026).** No new names, dates, places, relationships, contacts, plans, objects, rules, or facts about technology, the network, or a character's past or abilities. If a gap needs a fact, use the one in the project files, leave it out, or ask. Details that live and die inside one scene (what is on a desk, how a person stands) are fine. Labeling an invention does not make a story-affecting invention acceptable.
+58. **Every invented outline detail must do a job for the story (author ruling, 17 November 2026).** Before adding anything to an outline, name which of these it does. If it does none, it does not go in.
+    - **Advance the plot.** It forces a change in the story's direction, raises the stakes, or forces the POV character to make a critical decision.
+    - **Deepen character.** It shows a new side of a character, tests their core values, or shows how they handle pressure, failure, or victory.
+    - **Shift relationships.** It changes the dynamic between characters: they grow closer, betray one another, misunderstand each other, or reach a breaking point.
+    - **Establish or raise conflict.** It introduces a new obstacle, complicates an existing plan, or forces a character to react to a setback or revelation.
+    - **Deliver crucial information gracefully.** It puts necessary world-building, backstory, or lore into active dialogue and action, not passive info-dumping.
+    - **Manage pacing and breath.** It gives the reader a moment of tension, relief, or reflection before the next major sequence.
+    - **Establish the setting or mood.** It grounds the reader physically and emotionally in a new location or a shifting social or political atmosphere.
 
 ---
 
