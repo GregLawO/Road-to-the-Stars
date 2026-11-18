@@ -15,21 +15,24 @@
 | Tier | Strength vs. Grade 5 titanium | Era                  |
 | ---- | ----------------------------- | -------------------- |
 | 1    | 10x                           | Pre-Reclamation War  |
-| 2    | 12.5x                         | Reclamation War      |
-| 3    | 15x                           | Post-Reclamation War |
-| 4    | 17.5x                         | Post-Reclamation War |
-| 5    | 20x                           | Post-Reclamation War |
+| 2    | 20x                           | Reclamation War      |
+| 3    | 30x                           | Post-Reclamation War |
+| 4    | 40x                           | Post-Reclamation War |
+| 5    | 50x                           | Post-Reclamation War |
 
+- **Ceiling:** Kurogane caps at 50x. The steps between Tier 1 and Tier 5 are even (decision).
+- **Invulnerability:** Only relativistic-velocity projectiles and gravitic shearing weapons can defeat Kurogane Yoroi and AEPS-3 suits.
+- **Required by the cores:** From iteration 3, every Solaris and Helios technology needs Kurogane-1I or Kurogane-1M to function.
 - **Available in this era:** Tier 1 only.
-  - **Kurogane-1I:** Commercial supply from Himura Zaibatsu, the world's only source from 2110. Exports end in 2123.
-  - **Kurogane-1M:** Hull plating for every pre-war warship, and the plate of the Silver Samurai exosuits.
-  - **Kurogane-1I:** The plate of the AEPS suits.
+  - **Kurogane-1I:** Commercial supply from Himura Zaibatsu, the world's only source from 2110. Raw alloy exports end in 2123. Licensed Helios-3C and Helios-3I units still carry it, sealed inside Crown-built components (decision).
+  - **Kurogane-1M:** Hull plating for every pre-war warship, the plate of every Kurogane Yoroi suit from its first iteration, and the plate of AEPS-3 and later suits and of generation-3 and later automata.
+  - **Kurogane-1I:** The plate of AEPS-1 suits and of generation-1 automata (decision).
 
 ---
 
 ## 2. SOLARIS CORES
 
-Every core is a seamless matte-black sphere or octahedron suspended in a magnetic vacuum cradle. It produces no exhaust and no flame, only a sub-audible thrum in the deck plates and a faint golden-amber glow along its phase conduits. A deterministic Quantum-Optical VI regulates each one. Solaris cores equip Clan Himura forces only.
+Every core is a seamless matte-black sphere or octahedron suspended in a magnetic vacuum cradle. It produces no exhaust and no flame, only a sub-audible thrum in the deck plates and a faint golden-amber glow along its phase conduits. A deterministic Quantum-Optical VI regulates each one. Solaris cores equip Clan Himura forces only. From Solaris-3 on, every core and the machine it drives needs Kurogane-1I or 1M to function.
 
 **Capability scale (Solaris-9 is the baseline):**
 
@@ -46,7 +49,7 @@ Every core is a seamless matte-black sphere or octahedron suspended in a magneti
 | Core                   | Form                        | Carried by                 | Introduced |
 | ---------------------- | --------------------------- | -------------------------- | ---------- |
 | Unnumbered prototype   | Bench core                  | Early Core-Forge hall      | 2107       |
-| Solaris-1 Mote         | Suit core                   | First Silver Samurai armor | 2110       |
+| Solaris-1 Mote         | Suit core                   | First Kurogane Yoroi armor | 2110       |
 | Solaris-1A             | 0.8 m sphere                | Lifters and test craft     | 2113       |
 | Solaris-1B             | 2.2 m sphere                | Test craft                 | 2117       |
 | Solaris-1C             | 4.5 m octahedron            | Test hulls                 | 2124       |
@@ -63,13 +66,13 @@ Every core is a seamless matte-black sphere or octahedron suspended in a magneti
 - **Solaris-5:** The Clan's core before the Reclamation War. 50% of Solaris-9's capabilities.
   - **Mass-shedding cap:** 45%, with 55% minimum apparent mass, as flown by the fleet (decision).
   - The Solaris-5B holds that cap under lower load after the 2130 design-bay refinement.
-- **Equipped before the war:** The Silver Samurai exosuits, the Legions' automata, and all 236 hulls. The hulls are split between Solaris-3 and Solaris-5 cores. The 73 hulls commissioned through 2127 carry Solaris-3, and the 163 commissioned from 2128 carry Solaris-5 (decision).
+- **Equipped before the war:** The Kurogane Yoroi suits, the Imperial Legions' Bushi and Ō-Yoroi automata, and all 236 hulls. The hulls are split between Solaris-3 and Solaris-5 cores. The 73 hulls commissioned through 2127 carry Solaris-3, and the 163 commissioned from 2128 carry Solaris-5 (decision).
 
 Both generations use the same variant letters and forms (decision). Solaris-3M, 3A and 3B are introduced in 2119 and 3C and 3D in 2125. Solaris-5M, 5A and 5B follow in 2126 and 5C and 5D in 2127 (decision).
 
 | Variant | Form                                  | Carried by                                                                             |
 | ------- | ------------------------------------- | -------------------------------------------------------------------------------------- |
-| M       | Suit core                             | Silver Samurai exosuits, Ashigaru-4 and Ō-Yoroi-4 line automata                        |
+| M       | Suit core                             | Kurogane Yoroi suits, and the Bushi, Ō-Yoroi, Kage and Kōgyō automata                  |
 | A       | 0.8 m sphere                          | Corvette primary. Auxiliary on frigates, interceptors, Line Cruisers and the flagship. |
 | B       | 2.2 m sphere                          | Frigate primary                                                                        |
 | C       | 4.5 m octahedron                      | Interceptor Cruiser and Line Cruiser primary                                           |
@@ -96,7 +99,7 @@ Both generations use the same variant letters and forms (decision). Solaris-3M, 
 
 ## 3. HELIOS CORES
 
-Helios cores are the sealed export and commercial series. Each Helios generation has 75% of the capabilities of the Solaris generation with the same number, in mass-shedding cap, sub-light velocity and acceleration, power output and shield strength.
+Helios cores are the sealed export and commercial series. Each Helios generation has 75% of the capabilities of the Solaris generation with the same number, in mass-shedding cap, sub-light velocity and acceleration, power output and shield strength. From Helios-3 on, every core and the machine it drives needs Kurogane-1I or 1M to function.
 
 **Capability scale (Solaris-9 is the baseline):**
 
@@ -145,6 +148,7 @@ Helios cores are the sealed export and commercial series. Each Helios generation
   - No fold drive.
   - No Eclipse stealth.
 - **Tamper protection:** Hearth-Quench and Hearth-Collapse seals protect Himura-issued Helios-3 and Helios-5 cores. Helios-3 copies built from the sold schematics carry no Kinki-Kyoku seal (inference).
+- **Kurogane dependence:** Helios-3 copies built from the sold schematics need Kurogane-1I to function. Where the copies get it is (open).
 
 ---
 
@@ -247,6 +251,9 @@ Helios cores are the sealed export and commercial series. Each Helios generation
 
 ## 9. AUTOMATA
 
+- **Designation:** An automaton's model number matches its core generation (Ashigaru-1 on Helios-1, Bushi-3 on Solaris-3).
+- **Classes:** Ashigaru are the vassal and export class and run on Helios cores. Bushi and Ō-Yoroi are exclusive to the Imperial clan and run on Solaris cores. Kage and Kōgyō also run on Solaris cores (decision).
+- **Plate:** Automata of generation 3 and later are built in Kurogane-1M. Generation-1 automata use Kurogane-1I (decision).
 - **Command Lock:**
   - Every automaton accepts orders only from its assigned living officer or NCO.
   - Its Quantum-Optical VI is etched on a fixed read-only crystal.
@@ -255,21 +262,23 @@ Helios cores are the sealed export and commercial series. Each Helios generation
 
 | Automaton  | Frame                                                                  | Role                                                    |
 | ---------- | ---------------------------------------------------------------------- | ------------------------------------------------------- |
-| Ashigaru-4 | 1.9 m, dark-iron and tarnished-bronze. 55 km/h sprint, 8 m leap.       | Line, garrison and ship sentinel. First built 2111.     |
-| Ō-Yoroi-4  | 3.0 m slab-armored, faceted shield plates, shoulder 20 mm coil-cannons | Heavy siege and shield-wall. In production from 2112.   |
-| Kage-4     | 1.9 m matte-black, 4-hour thermal baffling                             | Infiltration for Kinki-Kyoku and Shadow Squadron        |
-| Kōgyō-4    | 2.6 m industrial frame                                                 | Excavation and shipyard fitting. It carries no weapons. |
+| Ashigaru-1, -3, -5 | 1.9 m, dark-iron and tarnished-bronze. 55 km/h sprint, 8 m leap. | Line and garrison. Vassal and export class on Helios cores. Ashigaru-1 first built 2112, Ashigaru-3 from 2122, Ashigaru-5 from 2128. |
+| Bushi-1, -3, -5 | 1.9 m, with the Ashigaru's sprint and leap (decision) | Imperial line, garrison and ship sentinel on Solaris cores. Bushi-1 first built 2111, Bushi-3 from 2119, Bushi-5 from 2126. |
+| Ō-Yoroi-1, -3, -5 | 3.0 m slab-armored, faceted shield plates, shoulder 20 mm coil-cannons (gravitic from the Restoration War) | Imperial heavy siege and shield-wall. Ō-Yoroi-1 in production from 2112, Ō-Yoroi-3 from 2119, Ō-Yoroi-5 from 2126. |
+| Kage-1, -3, -5 | 1.9 m matte-black, 4-hour thermal baffling | Infiltration for Kinki-Kyoku and Shadow Squadron. Runs on Solaris cores. |
+| Kōgyō-1, -3, -5 | 2.6 m industrial frame | Excavation and shipyard fitting. It carries no weapons. Kōgyō-1 from 2110, Kōgyō-3 from 2119, Kōgyō-5 from 2126. |
 
 ---
 
 ## 10. PERSONAL ARMOR AND ARMS
 
 - **AEPS:**
-  - Helios-1 powered suits issued to the vassal clans' retainers in 2113 and 2114.
-  - Kurogane-1I plate.
-  - Vassal suits run on Helios-3. The loyal clans' suits run on Helios-5 before the Reclamation War.
-- **Silver Samurai exosuit (Gin-Musha):**
-  - Laminar samurai plate of Kurogane-1M over a Solaris-5M core (Solaris-3M on earlier suits).
+  - The model number matches the core. AEPS-1 runs on Helios-1 cubes and was issued to the vassal clans' retainers in 2113 and 2114.
+  - AEPS-1 uses Kurogane-1I plate. AEPS-3 and later use Kurogane-1M plate.
+  - Vassal suits run on Helios-3 (AEPS-3). The loyal clans' suits run on Helios-5 (AEPS-5) before the Reclamation War.
+- **Kurogane Yoroi exosuit:**
+  - The model number matches the core: Kurogane Yoroi-1 on the Solaris-1 Mote (2110), -3 on Solaris-3M and -5 on Solaris-5M.
+  - Laminar samurai plate of Kurogane-1M from the first iteration.
   - Mass-shedding caps at 45%.
   - It reaches a 55 km/h sprint and an 8 m leap.
   - It carries a faceted directional barrier.
@@ -280,7 +289,10 @@ Helios cores are the sealed export and commercial series. Each Helios generation
   - Capillary tendons and a hip-flywheel torque belt store and return motion.
   - Breath-driven bellows move thermal fluid.
   - Shear-thickening bladders absorb impact.
-- **Personal weapons:** Electromagnetic coil-rifles and oiled mono-blade katanas.
+- **Personal weapons:**
+  - Electromagnetic coil-rifles and oiled mono-blade katanas.
+  - Imperial troops carry gravitic weapons from the Restoration War.
+  - The loyal Vassal Clans use Helios-pattern mass accelerators once they receive the Helios-3 schematics (2122, decision).
 
 ---
 
@@ -333,7 +345,7 @@ Helios cores are the sealed export and commercial series. Each Helios generation
 - Solaris-7 cores and conformal shear barriers.
 - Single-Fold Tactical Micro-Jumps.
 - Podless "Golden Rain" drops.
-- Oni-Mecha, Bushi-series and Kensei-series automata.
+- Oni-Mecha and Kensei-series automata, and Bushi-7 and later.
 - Type-90D O-Yumi.
 - Battleships, Grand Battleships and Assault Carriers.
 - Close-Support / Hospital Corvettes.

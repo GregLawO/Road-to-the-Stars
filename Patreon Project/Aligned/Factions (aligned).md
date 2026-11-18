@@ -57,14 +57,14 @@ Taiwan and South Korea are the Empire's only treaty allies. Japan governs no for
 ### 3.1 Taiwan (Formosa)
 
 - **Government:** Fully independent island republic. No Imperial administration and no Daimyō clans.
-- **Treaty:** Signed 2123. Blackboxed Helios-3 reactors, automata and Exo-Rigs are supplied covertly to its cadres.
+- **Treaty:** Signed 2123. Blackboxed Helios-3 reactors, Ashigaru-3 automata and Exo-Rigs are supplied covertly to its cadres.
 - **POV:** Non-POV.
 - **Standing friction:** Taiwan receives sealed hardware it cannot open. Imperial advisors critique its doctrine, and it keeps its own command.
 
 ### 3.2 South Korea (Republic of Korea)
 
 - **Government:** Fully independent. No Imperial administration.
-- **Treaty:** Signed 2123, with the same Helios-3 supply as Taiwan. From 2130 Imperial Legion advisors and Helios-3 automata arrive, and Han Jae-won fortifies the DMZ.
+- **Treaty:** Signed 2123, with the same Helios-3 supply as Taiwan. From 2130 Imperial Legion advisors and Ashigaru-3 automata arrive, and Han Jae-won fortifies the DMZ.
 - **POV:** Han Jae-won, later NCO Seo Min-jae.
 - **Standing friction:**
   - Seoul's staff and field officers disagree over fixed-bunker doctrine and automata-first doctrine.
